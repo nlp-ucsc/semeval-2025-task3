@@ -78,7 +78,7 @@ uv run python main.py label 5 context_dep_min_edit_2 --langs en --split val --mo
 | `context_dep_min_edit_2` | Minimum cost revision |
 
 
-### 3. DSPy Optimization
+### 2. Prompt Optimization
 
 Optimize DSPy-based labelers using automatic prompt optimization:
 ```bash
