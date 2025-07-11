@@ -1,9 +1,9 @@
 # semeval-2025-task3
-UCSC's Submission System for Semeval 2025 task3
+UCSC's Submission System for SemEval 2025 Task 3: Multilingual Shared-task on Hallucinations and Related Observable Overgeneration Mistakes.
 
 ## Overview
 
-This system detects span hallucinations in LLM-generated text using various labeling approaches. For details, please refer to the [paper](https://arxiv.org/pdf/2505.03030).
+This system detects hallucinations at span level in LLM-generated text using 3 main labeling approaches: _text extraction_, _knowledge graph verification_, and _minimum cost revision_. In addition, there's also a DSPy-based optimization framework to optimize a prompt based on a metric. For details, please refer to the [paper](https://arxiv.org/pdf/2505.03030).
 
 ## Installation
 
@@ -32,7 +32,7 @@ OPENAI_API_KEY=<your_openai_key>
 
 ### 1. Labeling Hallucinations
 
-The main functionality is provided through the `main.py` script with the `label` and `label-dspy` commands:
+The main functionality is provided through the `main.py` script with the `label` command:
 
 ```bash
 uv run main.py label <system_id> <labeler_name> [OPTIONS]
@@ -84,6 +84,7 @@ Optimize DSPy-based labelers using automatic prompt optimization:
 ```bash
 uv run main.py label-dspy <system_id> [OPTIONS]
 ```
+Note that the dspy optimization is only working on the text extraction workflow.
 
 #### Examples
 **Label English test split by optimizing prompt with DSPy to maximize IoU:**
