@@ -1,0 +1,15 @@
+Pleiotropy derives from two Greek words:
+
+1. πλείων (pleíōn), meaning "more" or "greater in quantity"[1][2]
+
+2. τρόπος (tropos), meaning "turn" or "way"[1][2]
+
+The term "pleiotropy" was coined by Ludwig Plate in 1910 by combining these Greek roots[2]. The prefix "pleio-" comes from the Greek word for "more," while the suffix "-tropy" is derived from the Greek word for "turn" or "way."
+
+To break it down further:
+
+- The root "pleio-" is related to the Greek comparative form πλείων (pleíōn), which means "greater in quantity" or "very many"[1]. This root is also found in other scientific terms like "Pleistocene" and "pleiotropic."
+
+- The "-tropy" part comes from the Greek τρόπος (tropos), which means "a turn" or "turning"[1]. This root is also found in other scientific terms like "heliotrope" and "entropy."
+
+Together, these roots form "pleiotropy," which in genetics refers to the phenomenon where a single gene influences multiple, seemingly unrelated phenotypic traits[3]. This etymology reflects the concept of one gene having "many" (pleio-) "ways" (-tropy) of affecting an organism's characteristics.

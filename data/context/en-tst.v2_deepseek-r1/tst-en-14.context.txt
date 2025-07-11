@@ -1,0 +1,12 @@
+To determine the factors of 150, we'll start by breaking it down into its prime factors:
+
+150 can be divided by 2, resulting in 75.
+75 can be divided by 3, resulting in 25.
+25 is 5 squared.
+
+So, the prime factors of 150 are 2, 3, and 5 squared.
+
+Using these prime factors, we can list all the factors of 150:
+1, 2, 3, 5, 6, 10, 15, 25, 30, 50, 75, and 150.
+
+These are all the numbers that divide 150 without leaving a remainder.

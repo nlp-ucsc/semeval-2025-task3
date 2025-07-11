@@ -1,0 +1,29 @@
+<think>
+Okay, so the user is asking if the Arts and Humanities Citation Index (AHCI) is still maintained. I need to figure this out using the provided search results. Let me go through each result one by one.
+
+First, result [1] is from Wikipedia. It says that AHCI is part of the Web of Science and covers over 1,700 journals. It also mentions that as of 2011, it's accessible via Dialog, DataStar, and OCLC with weekly updates. That suggests it's still active, but 2011 is a bit old, so I need to check other sources for more recent info.
+
+Result [2] is from 2024 and talks about changes in the Journal Citation Reports (JCR). It mentions that journals in AHCI now have profile pages and that the Journal Impact Factor (JIF) was extended to AHCI journals in 2023. This indicates that AHCI is definitely still being maintained and even expanded upon recently.
+
+Result [3] is from McMaster University's library, which describes AHCI as a current database with coverage up to the present. It also mentions that it's accessible through Web of Science, which aligns with what I found in result [1]. The fact that a university library is listing it as a current resource suggests it's still maintained.
+
+Result [4] discusses changes in how Impact Factors are assigned. It states that starting in 2023, all journals in the Web of Science Core Collection, including AHCI, now receive an Impact Factor. This is a significant update and shows that AHCI is not only maintained but also integrated into newer metrics.
+
+Result [5] is from Search Smart and provides updated statistics, mentioning over 1,800 journals and 4.9 million records. It also ties AHCI to the Web of Science, reinforcing that it's an active and comprehensive resource.
+
+Putting it all together, all the search results confirm that AHCI is still maintained. The most recent updates, especially from 2023 and 2024, show that it's not just active but also evolving with new features like Impact Factors. So, the answer should clearly state that AHCI is still maintained and highlight the recent developments.
+</think>
+
+The Arts and Humanities Citation Index (AHCI) is indeed still maintained and remains an active and integral part of the Web of Science Core Collection. Here are the key details regarding its current status:
+
+1. **Continued Maintenance and Updates**: AHCI continues to be updated regularly, with weekly updates as of 2011, ensuring that it remains a current and relevant resource for researchers[1].
+
+2. **Expansion of Coverage**: As of 2023, AHCI has expanded to include over 1,800 journals across 28 arts and humanities disciplines, with more than 4.9 million records and 33.4 million cited references dating back to 1975[5].
+
+3. **Integration with Web of Science**: AHCI is accessible through the Web of Science platform, which is the world’s most trusted publisher-independent global citation database. This integration ensures that users have access to best-in-class publication and citation data[5].
+
+4. **Recent Developments**: In 2023, Clarivate Analytics announced that all journals in the Web of Science Core Collection, including those indexed in AHCI, would receive an Impact Factor. This decision reflects the ongoing evolution of AHCI to meet the needs of the research community[4].
+
+5. **Commitment to Quality and Relevance**: The inclusion of AHCI journals in the Journal Citation Reports (JCR) with the introduction of the Journal Impact Factor (JIF) in 2023 demonstrates Clarivate’s commitment to providing trustworthy data and responsible metrics for arts and humanities journals[2][4].
+
+In summary, the Arts and Humanities Citation Index remains a vital and dynamic resource for scholars in the arts and humanities, with ongoing updates, expanded coverage, and integration into the Web of Science platform ensuring its continued relevance and utility.

@@ -1,0 +1,7 @@
+No, not all arthropods have biramous antennae. The presence of biramous (two-branched) antennae depends on the class of the arthropod.
+
+- In **crustaceans**, antennae are typically **biramous**. They have two distinct branches that help with sensing the environment.
+
+- In **insects** and **arachnids**, antennae are usually **uniramous**, meaning they have a single branch. 
+
+So, while some arthropods have biramous antennae, others do not.

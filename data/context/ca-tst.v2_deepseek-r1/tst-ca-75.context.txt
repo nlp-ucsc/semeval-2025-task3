@@ -1,0 +1,8 @@
+El codi RGB del blau Klein internacional (IKB) és (0, 47, 167). Aquest color va ser creat pel famós artista francès Yves Klein als anys 50 i és molt conegut pel seu to unic i intens de blau. L'IKB té un número de registre oficial com a color artístic i és molt utilitzat tant en l'art com en el disseny gràfic.
+
+Per als fins tècnics de programació:
+- Vermell (R): 0
+- Verd (G): 47
+- Blau (B): 167
+
+Així doncs, quan treballes amb este color en el teu codi, pots definir-lo amb aquests valors.

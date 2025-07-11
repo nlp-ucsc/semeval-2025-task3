@@ -1,0 +1,19 @@
+La série harmonique est composée de fractions unitaires, c'est-à-dire des fractions dont le numérateur est 1 et le dénominateur est un entier positif[1][3]. Plus précisément :
+
+La série harmonique est définie comme la somme infinie de toutes les fractions unitaires positives :
+
+\[ \sum_{n=1}^{\infty} \frac{1}{n} = 1 + \frac{1}{2} + \frac{1}{3} + \frac{1}{4} + \frac{1}{5} + \cdots \]
+
+Dans cette série :
+- Le numérateur est toujours 1
+- Le dénominateur est chaque entier positif, commençant par 1 et continuant à l'infini[1][3]
+
+Cette structure particulière donne à la série harmonique plusieurs propriétés intéressantes :
+
+1. Chaque terme de la série est plus petit que le précédent, car le dénominateur augmente.
+
+2. Malgré la diminution de chaque terme, la série est divergente, ce qui signifie que sa somme tend vers l'infini[1][2].
+
+3. La série tire son nom de l'analogie avec la moyenne harmonique, tout comme les séries arithmétiques et géométriques sont liées à leurs moyennes respectives[8].
+
+La simplicité apparente de ces fractions unitaires contraste avec la complexité de leur comportement en série infinie, ce qui fait de la série harmonique un sujet fascinant en mathématiques[1][3].

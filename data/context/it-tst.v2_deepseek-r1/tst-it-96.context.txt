@@ -1,0 +1,51 @@
+I disturbi del linguaggio possono essere classificati in diverse tipologie in base alle loro caratteristiche, cause e manifestazioni. Ecco alcune delle principali tipologie:
+
+### 1. **Disartria**
+   - **Descrizione**: Difficoltà nella pronuncia delle parole a causa di problemi nella coordinazione e nel controllo dei muscoli della bocca e della gola.
+   - **Cause**: Spesso dovuta a disordini neurologici (ad esempio, paralisi cerebrale, ictus, sclerosi multipla) o a problemi muscolari congeniti.
+
+### 2. **Disfemia (o Balbuzie)**
+   - **Descrizione**: Difficoltà a parlare in modo fluido, con ripetizioni di suoni, allungamenti di vocali o blocchi nel parlato.
+   - **Cause**: Spesso di origine neurologica, emotiva o ambientale.
+
+### 3. **Afasia**
+   - **Descrizione**: Perdita della capacità di comprendere o utilizzare il linguaggio, sia verbale che scritto.
+     - **Afasia di Broca**: Difficoltà a parlare in frasi complete, con omissione di articoli e preposizioni.
+     - **Afasia di Wernicke**: Difficoltà a comprendere il linguaggio e a parlare in modo comprensibile.
+   - **Cause**: Di solito dovuta a lesioni cerebrali, come ictus o traumi cranici.
+
+### 4. **Agnosia**
+   - **Descrizione**: Difficoltà a riconoscere e comprendere stimoli sensoriali, anche se la percezione è intatta.
+     - **Agnosia uditiva**: Incapacità di riconoscere suoni o parole.
+   - **Cause**: Lesioni cerebrali.
+
+### 5. **Aprassia del Linguaggio**
+   - **Descrizione**: Incapacità di formulare parole e frasi correttamente, non dovuta a problemi muscolari, ma a difficoltà nel coordinamento dei movimenti necessari per la parlata.
+   - **Cause**: Lesioni cerebrali, spesso associate a danni nella corteccia prefrontale.
+
+### 6. **Dislessia**
+   - **Descrizione**: Difficoltà nell'apprendimento della lettura, scrittura e ortografia.
+     - **Dislessia evolutiva**: Insorge durante lo sviluppo.
+     - **Dislessia acquisita**: Appare dopo una lesione cerebrale.
+   - **Cause**: Spesso di origine genetica o neurologica.
+
+### 7. **Disgrafia**
+   - **Descrizione**: Difficoltà nella scrittura, che può manifestarsi con errori di ortografia, calligrafia illeggibile o difficoltà a organizzare i pensieri sulla carta.
+   - **Cause**: Spesso associata a dislessia o disartria.
+
+### 8. **Disfonia**
+   - **Descrizione**: Alterazione della voce, che può essere roca, rauca ogetMessage.
+   - **Cause**: Problematiche delle corde vocali, uso eccessivo della voce, disordini neurologici.
+
+### 9. **Mutismo Selettivo**
+   - **Descrizione**: Incapacità di parlare in certi contesti o situazioni sociali, pur essendo in grado di parlare in altri ambienti.
+   - **Cause**: Spesso dovuto a ansia o stress emotivo.
+
+### 10. **Disturbo del Linguaggioijiai**
+   - **Descrizione**: Difficoltà nell'acquisizione e nell'uso del linguaggio, pur essendo udito e intelligenza nella norma.
+   - **Cause**: Spesso di origine genetica o neurologica.
+
+### 11. **Disturbi del Linguaggio Associati a altre Condizioni**
+   - **Descrizione**: I disturbi del linguaggio possono essere correlati a condizioni come l'autismo, la sindrome di Down, la schizofrenia, o altri disordini dello sviluppo.
+
+Ognuna di queste tipologie può avere differenti livelli di gravità e richiedere approcci terapeutici specifici. È importante che una valutazione professionale da parte di un logopedista o neurologo aiuti a identificare correttamente il disturbo e a definire il programma di intervento più adeguato.

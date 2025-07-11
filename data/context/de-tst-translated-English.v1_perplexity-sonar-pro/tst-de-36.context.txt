@@ -1,0 +1,17 @@
+Microsoft's Shared Source Initiative was launched in May 2001[1][4]. This initiative was established to address broader customer interest and formalize a program that allows access to a spectrum of Microsoft technologies, ranging from Microsoft .NET technologies to embedded operating systems[1].
+
+The Shared Source Initiative represented Microsoft's commitment to increasing the transparency of its source code and enabling those who would benefit from code access to build on Microsoft's innovations[1]. It was designed to share source code with customers, governments, partners, academics, and individuals through various Shared Source programs[1][4].
+
+Some key points about the launch and early years of the Shared Source Initiative:
+
+1. Prior to the official launch, Microsoft had been sharing Windows source code with academics since 1991[1].
+
+2. By 2004, three years after its launch, the initiative had reached a milestone of 1 million participants[1][4].
+
+3. The initiative initially included source code access for technologies such as Windows 2000, Windows XP, Windows Server 2003, Windows CE 3.0, Windows CE .NET, as well as components of ASP.NET and Visual Studio .NET[1][4].
+
+4. The program was designed to be flexible, with each source-licensing program tailored to the needs of a particular Microsoft constituent community[1].
+
+5. Over time, the initiative expanded to include more development and infrastructure technologies, with most licensed to allow developers to see, modify, and redistribute changes to the source code[1].
+
+The Shared Source Initiative marked an important step in Microsoft's journey towards greater openness and collaboration with its various stakeholders in the software development ecosystem.

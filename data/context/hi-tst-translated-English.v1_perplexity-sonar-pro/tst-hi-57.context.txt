@@ -1,0 +1,18 @@
+The MeSH (Medical Subject Headings) code for boil is C01.252.825.770.200. This code falls under the broader category of skin diseases, bacterial infections.
+
+To break down the MeSH code hierarchy:
+
+- C01 represents Bacterial Infections and Mycoses
+- C01.252 represents Bacterial Infections
+- C01.252.825 represents Skin Diseases, Bacterial
+- C01.252.825.770 represents Staphylococcal Skin Infections
+- C01.252.825.770.200 specifically represents Carbuncle, which is a term often used interchangeably with boil
+
+It's worth noting that in medical terminology, a boil is also known as a furuncle. The term "carbuncle" typically refers to a cluster of interconnected boils.
+
+Additionally, in the ICD-10-CM (International Classification of Diseases, 10th Revision, Clinical Modification) coding system, which is different from MeSH, boils are generally coded under L02 category for "Cutaneous abscess, furuncle and carbuncle"[2]. The specific code would depend on the location of the boil. For example:
+
+- L02.419 represents "Furuncle of limb, unspecified"[5]
+- L02.92 represents "Furuncle, unspecified"[3]
+
+These codes are used for medical billing and record-keeping purposes, while the MeSH code is primarily used for indexing and searching medical literature.

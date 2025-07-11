@@ -1,0 +1,6 @@
+The term "pleiotropy" comes from two Greek words:
+
+1. **"Pleio-" (πλείων)** meaning "more" or "many".
+2. **"-Tropy" (τροπή)** meaning "turning" or "direction".
+
+In a biological context, the term describes a single gene influencing multiple, seemingly unrelated phenotypic traits.

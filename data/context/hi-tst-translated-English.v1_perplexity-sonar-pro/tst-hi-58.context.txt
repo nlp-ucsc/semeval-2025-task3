@@ -1,0 +1,32 @@
+The two main types of data compression are lossless compression and lossy compression[1][2][4][5].
+
+## Lossless Compression
+
+Lossless compression reduces file size without sacrificing any of the original data[5]. This method allows for the complete restoration of the original file when decompressed. Key characteristics of lossless compression include:
+
+- Preserves all original data
+- Typically achieves smaller compression ratios compared to lossy methods
+- Ideal for applications where data integrity is crucial, such as text files, databases, and professional media files[4]
+
+Common lossless compression algorithms and formats include:
+- Run-length encoding (RLE)
+- Lempel-Ziv-Welch (LZW)
+- Huffman coding
+- ZIP
+- PNG (for images)
+- FLAC (for audio)[1][2][4]
+
+## Lossy Compression
+
+Lossy compression achieves higher compression ratios by selectively discarding some data considered less important[4][5]. This results in a loss of information, but often the difference is imperceptible or acceptable for certain types of data. Key characteristics of lossy compression include:
+
+- Achieves higher compression ratios than lossless methods
+- Results in some loss of data quality
+- Suitable for multimedia files where some loss of detail is acceptable
+
+Common lossy compression algorithms and formats include:
+- JPEG (for images)
+- MP3 (for audio)
+- MPEG, H.264, H.265 (for video)[2][3][4]
+
+The choice between lossless and lossy compression depends on the specific use case, the type of data being compressed, and the balance required between file size reduction and data integrity. Many modern compression systems use a combination of both methods to optimize compression efficiency while maintaining acceptable quality levels[5].

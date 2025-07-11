@@ -1,0 +1,17 @@
+In a case-control study, two main groups are compared:
+
+1. The case group: This consists of individuals who have the condition, disease, or outcome of interest[3][4][8].
+
+2. The control group: This comprises individuals who do not have the condition, disease, or outcome of interest, but are otherwise similar to the case group[3][4][8].
+
+The fundamental structure of a case-control study involves comparing these two groups to identify potential risk factors or exposures associated with the outcome of interest[4]. The cases and controls are typically selected from the same source population, ensuring they are as similar as possible except for the presence or absence of the condition being studied[7].
+
+While the basic design involves two groups, it's worth noting that some variations of case-control studies may include:
+
+- Multiple control groups: Some studies may use more than one control group to strengthen the validity of the findings[2].
+
+- Unequal ratios: Researchers may choose to include more controls than cases, such as in a 2:1 or 4:1 ratio, to increase the statistical power of the study[7][8].
+
+- Multiple case groups: Although less common, some case-control studies may simultaneously examine two or more conditions or outcomes, each with its own case group[9].
+
+Despite these variations, the core comparison in a case-control study remains between the group with the outcome of interest (cases) and the group without it (controls)[10].

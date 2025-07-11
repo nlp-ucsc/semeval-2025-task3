@@ -1,0 +1,13 @@
+The Arts and Humanities Citation Index (AHCI) contains bibliographic material dating back to 1975[3][9]. 
+
+Specifically:
+
+- The AHCI was introduced in 1978 by the Institute for Scientific Information (ISI)[1].
+
+- It provides citation indexing for arts and humanities journals from 1975 to the present[3][9].
+
+- The database contains over 4.9 million records and 33.4 million cited references going back to 1975[3].
+
+- Clarivate Analytics, which now produces the AHCI, states that 1975 is the first year of coverage for this index[9].
+
+This 1975 start date allows the AHCI to provide over 45 years of arts and humanities citation data. The index covers a wide range of disciplines including art, literature, history, philosophy, religion, and more. By indexing citations and references from 1975 onwards, it enables researchers to trace the development and influence of ideas in the arts and humanities over several decades.

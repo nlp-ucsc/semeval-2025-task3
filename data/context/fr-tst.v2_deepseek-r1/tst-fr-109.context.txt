@@ -1,0 +1,15 @@
+La découverte en **1965** qui est considérée comme une avancée majeure en cosmologie observationnelle est la détection du **rayonnement cosmique micro-onde** (RCM), souvent appelé "rayonnement fossile" ou "écho du Big Bang". Cette découverte a été réalisée par les physiciens Américains **Arno Penzias** et **Robert Wilson**.
+
+### Contexte :
+Dans les années 1940 et 1950, le modèle du Big Bang avait été proposé pour expliquer l'origine de l'Univers. Selon ce modèle, l'Univers était initialement un point chaud et dense qui s'est dilaté et refroidi. Ce refroidissement aurait dû laisser une trace sous la forme d'un rayonnement électromagnétique, prévu par les physiciens comme **Ralph Alpher** et **Robert Herman** dans les années 1940. Ce rayonnement devait être dans le domaine des micro-ondes en raison de l'expansion et du refroidissement de l'Univers sur des milliards d'années.
+
+### Découverte :
+En 1965, Penzias et Wilson étudiaient les fluctuations de fond dans les observations radio en utilisant une antenne Cornu à Holmdel, dans le New Jersey. Ils détectèrent un signal faible et uniforme dans toutes les directions, qui ne pouvait pas être expliqué par des sources connues comme les émissions terrestres ou celles de la Voie lactée. Après avoir éliminé toutes les sources de dérangement possibles, ils conclurent que ce signal devait être d'origine cosmologique.
+
+### Impact :
+Cette découverte a confirmé un pilier central du modèle du Big Bang et a marqué un tournant en cosmologie observationnelle. Elle a entraîné une acceptation universitaire beaucoup plus large du Big Bang en tant que théorie dominante de l'origine et de l'évolution de l'Univers. Le RCM fournit une fenêtre sur l'Univers khi il avait environ 380 000 ans, il était encore chaud et opaque, et ilincy às commencé à se former les premières structures.
+
+### Récompense :
+Pour leur découverte, Penzias et Wilson ont été récompensés par le **Prix Nobel de Physique en 1978**.
+
+Ainsi, la détection du rayonnement cosmique micro-onde en 1965 reste une des avancées les plus significatives en cosmologie observationnelle.

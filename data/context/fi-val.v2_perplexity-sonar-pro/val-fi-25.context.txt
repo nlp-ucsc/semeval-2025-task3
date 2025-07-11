@@ -1,0 +1,1 @@
+Dynamiikan peruslain mukaan vakiovoima aiheuttaa kappaleeseen tasaisen kiihtyvyyden[1][5]. Matemaattisesti tämä voidaan ilmaista yhtälöllä F = ma, jossa F on voima, m on kappaleen massa ja a on kiihtyvyys[5][7]. Tämä tarkoittaa, että vakiovoiman vaikuttaessa kappaleeseen sen nopeus muuttuu tasaisesti ajan kuluessa[7].

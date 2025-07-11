@@ -1,0 +1,27 @@
+Metallic bonding determines several key physical properties of metals:
+
+1. High electrical conductivity[1][3][5]
+Metals are excellent conductors of electricity due to the presence of delocalized electrons that can move freely throughout the metal lattice. When an electric field is applied, these electrons flow easily, creating an electric current.
+
+2. High thermal conductivity[1][3]
+The delocalized electrons in metals also allow for efficient heat transfer, making metals good thermal conductors.
+
+3. Malleability and ductility[1][2][3]
+Metals can be hammered into thin sheets (malleability) or drawn into wires (ductility) because the metal ions can slide past each other without breaking the metallic bonds. The sea of electrons maintains the cohesion between the ions as they move.
+
+4. High melting and boiling points[1][2][5]
+Metallic bonds are generally strong, requiring significant energy to break. This results in high melting and boiling points for most metals. The strength of the metallic bond depends on factors such as the number of delocalized electrons, the charge of the metal cations, and the size of the cations.
+
+5. Metallic luster[1][2][3]
+The delocalized electrons in metals can absorb and re-emit visible light, giving metals their characteristic shiny or reflective appearance.
+
+6. Good mechanical strength[1]
+The strong electrostatic forces between the positive metal ions and the delocalized electrons provide metals with resistance to deformation and fracture.
+
+7. Opacity[5]
+The sea of electrons in metals readily absorbs and re-emits light, making most metals opaque.
+
+8. Insolubility in most solvents[1]
+Metals are generally insoluble in common solvents (except liquid metals) due to the strength of metallic bonds.
+
+These properties can vary among different metals depending on factors such as the strength of their metallic bonds, which is influenced by the number of delocalized electrons, the charge of the metal cations, and the size of the metal ions[1][2]. For example, transition metals often have particularly high melting and boiling points due to their ability to involve both s and d electrons in delocalization[6][7].

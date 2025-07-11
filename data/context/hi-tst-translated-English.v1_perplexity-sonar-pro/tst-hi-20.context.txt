@@ -1,0 +1,23 @@
+According to Guldberg and Waage, the law of mass action states that the rate of a chemical reaction is proportional to the product of the concentrations (or "active masses") of the reactants[1][4]. This law has two key aspects:
+
+1. Equilibrium aspect: At equilibrium, the ratio between the concentration of reactants and products is constant at a given temperature[2][4]. This is expressed mathematically as:
+
+   \[K = \frac{[C]^c[D]^d}{[A]^a[B]^b}\]
+
+   Where K is the equilibrium constant, [A], [B], [C], and [D] are the concentrations of reactants and products, and a, b, c, and d are their respective stoichiometric coefficients[7].
+
+2. Kinetic aspect: The rate of a chemical reaction is proportional to the product of the concentrations of the reactants[1][4]. For a reaction A + B → C + D, this can be expressed as:
+
+   \[r_f = k_f[A][B]\]
+
+   Where r_f is the forward reaction rate and k_f is the rate constant[4].
+
+Guldberg and Waage developed this concept between 1864 and 1879[4]. They initially proposed that the "chemical affinity" or "reaction force" between reactants depended not only on their chemical nature but also on their amounts in the reaction mixture[4]. They expressed this as:
+
+\[\text{affinity} = \alpha [A]^a[B]^b\]
+
+Where α, a, and b were empirical constants to be determined experimentally[4].
+
+At equilibrium, Guldberg and Waage reasoned that the chemical force driving the forward reaction must equal the force driving the reverse reaction[4]. This led to the formulation of the equilibrium constant and the modern understanding of chemical equilibrium as a dynamic process where forward and reverse reaction rates are equal[4].
+
+It's important to note that while the law of mass action is generally applicable, it is strictly true only for elementary reactions[4]. For more complex reactions involving intermediates or parallel pathways, the overall rate equation can be derived from the individual elementary steps[4].

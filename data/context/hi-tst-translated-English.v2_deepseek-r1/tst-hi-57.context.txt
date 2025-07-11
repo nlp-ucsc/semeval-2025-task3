@@ -1,0 +1,7 @@
+The MESH code for "boil" is not specifically listed in the MESH database, as MESH primarily focuses on medical and biological terms. However, depending on the context, you might be referring to boils caused by infection, which could relate to terms like "Abscess" or "Furuncle." 
+
+For example:
+- If you're referring to skin boils or abscesses, the MESH code is **C14.907** (Abscess) or **C14.907.265** (Furuncle).
+- For more generalized infections, you might use **C23.888** (Infection).
+
+If you need a more specific code, providing additional context would help in identifying the correct MESH term. Always consult the latest MESH database or a medical librarian for the most accurate and up-to-date information.

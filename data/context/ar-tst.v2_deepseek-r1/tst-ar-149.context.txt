@@ -1,0 +1,14 @@
+ال_salآم سریع،
+
+الاطقم الأساسية لنادي فريدريكستاد الرياضي:^{
+   .Blocks: ['الألوان الأساسية أوOfficial colors of the team are predominantly red and white with some black details.']
+}
+
+ FREIDREK WouldSTAD SPORT CLUB 主要顏色是紅色和白色，有些黑色細節。
+
+ collapsible běžThe primary colors of Fredrikstad FK are red, white, and black. vrátit
+}
+
+因而， answers:
+الألوان الأساسية لنادي فريدريكستاد الرياضي هي الأحمر والأبيض مع تفاصيل سوداء.
+ألوان الطقم الأساسي لنادي فريدريكستاد الرياضي هي الأحمر والأبيض مع تفاصيل سوداء.

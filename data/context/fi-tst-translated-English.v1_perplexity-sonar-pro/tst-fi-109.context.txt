@@ -1,0 +1,21 @@
+The Canon EOS 70D features a 20.2 megapixel APS-C CMOS sensor[1][2][3][4]. Here are the key details about the sensor:
+
+- Sensor type: CMOS
+- Sensor size: 22.5 x 15.0 mm (APS-C)
+- Effective pixels: Approximately 20.2 megapixels
+- Total pixels: Approximately 20.9 megapixels
+- Aspect ratio: 3:2
+- Pixel size: 4.1μm
+- Crop factor: 1.6x
+
+The sensor incorporates some innovative technology:
+
+1. It features Dual Pixel CMOS AF, which allows for on-chip phase detection autofocus at every pixel location over almost two-thirds of the sensor's surface area[3]. This enables smooth and fast autofocus during live view and video recording.
+
+2. Each pixel site contains two photodiodes sitting under a single shared microlens[3]. This design enables the phase-detection autofocus capability.
+
+3. The sensor has a built-in low-pass filter with a fluorine coating[2][5].
+
+4. It includes an EOS integrated cleaning system to help keep the sensor clean[2][5].
+
+This sensor, coupled with the DIGIC 5+ image processor, allows for an ISO range of 100-12,800 (expandable to 25,600)[1][4] and enables the camera to shoot at up to 7 frames per second[3][7].

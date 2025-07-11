@@ -1,0 +1,9 @@
+The popularity of web browsers can vary depending on the platform and the region.
+
+1. **Global Usage**: As of recent data, **Google Chrome** is generally considered the most popular web browser globally, holding the largest market share among all browsers. Chrome's dominance can be attributed to its cross-platform compatibility, extensive library of extensions, and regular updates.
+
+2. **Microsoft Edge**: Microsoft Edge, which comes pre-installed with Windows 10 and later versions, has been gaining popularity, particularly among Windows users. It uses the Chromium engine, the same as Google Chrome, and offers integration with Microsoft services. However, its market share is still significantly lower than Chrome's.
+
+3. **Other Browsers**: Other notable browsers include **Firefox**, **Safari** (default on macOS), and **Opera**. Each has its own niche audience but doesn't come close to Chrome's usage statistics.
+
+In summary, while Microsoft Edge is a popular browser, especially in certain contexts like enterprise environments or among Windows users, it is not the most popular globally. That title still belongs to Google Chrome.

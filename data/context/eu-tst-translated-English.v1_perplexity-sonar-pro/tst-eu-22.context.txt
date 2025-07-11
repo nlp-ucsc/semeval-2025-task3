@@ -1,0 +1,24 @@
+One ton is equal to 1,000 kilograms[3][4]. This conversion applies to the metric ton, also known as a tonne, which is the most commonly used definition of a ton internationally[2][4].
+
+To break this down further:
+
+1. Metric Ton (tonne): 1 metric ton = 1,000 kg[3][4][5]
+   This is the standard used in most countries and in scientific contexts.
+
+2. Short Ton (US ton): 1 short ton ≈ 907.18474 kg[1][2]
+   This is primarily used in the United States for non-metric measurements.
+
+3. Long Ton (Imperial ton): 1 long ton ≈ 1,016.05 kg[2]
+   This was historically used in the United Kingdom but is less common now.
+
+For most practical purposes, when someone refers to a "ton" without specifying the type, they usually mean the metric ton, which is equal to 1,000 kilograms. This is especially true in international contexts and scientific applications.
+
+To convert between tons and kilograms:
+- To convert tons to kilograms, multiply the number of tons by 1,000.
+- To convert kilograms to tons, divide the number of kilograms by 1,000.
+
+For example:
+- 5 tons = 5 × 1,000 = 5,000 kg
+- 2,500 kg = 2,500 ÷ 1,000 = 2.5 tons
+
+It's important to note that while the metric ton (1,000 kg) is the most widely used definition, you should always clarify which type of ton is being referred to in contexts where precision is crucial, especially when dealing with US-based measurements or historical British units.

@@ -1,0 +1,15 @@
+The discovery of the cosmic microwave background (CMB) radiation in 1965 is considered a major breakthrough in observational cosmology[1][3][5]. This serendipitous discovery was made by Arno Penzias and Robert Wilson, two researchers at Bell Telephone Laboratories, while they were working on a radio receiver[3].
+
+The significance of this discovery lies in several key aspects:
+
+1. Evidence for the Big Bang: The CMB provided strong observational evidence supporting the Big Bang theory of the universe's origin[4][7]. It was interpreted as the afterglow of the Big Bang, representing the oldest light in the universe.
+
+2. Foundation of modern cosmology: The discovery helped jumpstart the field of observational cosmology[1]. It allowed scientists to study the early universe and provided a window into cosmic conditions just a few hundred thousand years after the Big Bang.
+
+3. Confirmation of theoretical predictions: The existence of the CMB had been predicted by earlier theoretical work, and its discovery confirmed these predictions[2]. This validation strengthened the scientific community's confidence in the developing field of cosmology.
+
+4. Nobel Prize recognition: The importance of this discovery was further underscored when Penzias and Wilson were awarded the Nobel Prize in Physics in 1978 for their work[8].
+
+5. Impact on future research: The discovery of the CMB led to numerous follow-up studies and observations, including detailed measurements of its properties by later missions such as COBE, WMAP, and Planck[9][10]. These studies have provided crucial insights into the composition, age, and evolution of the universe.
+
+The CMB discovery marked a turning point in our understanding of the cosmos, transforming cosmology from a largely theoretical field to one grounded in observational evidence. It remains one of the pillars of modern cosmology and continues to be a rich source of information about the early universe.

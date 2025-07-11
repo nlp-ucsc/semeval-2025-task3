@@ -1,0 +1,22 @@
+The geometric shape you get when cutting a cone with a plane depends on the angle and position of the plane relative to the cone's axis. There are several possible cross-sections that can be formed:
+
+1. Circle: When the cutting plane is parallel to the base of the cone, the resulting cross-section is a circle[2][5].
+
+2. Ellipse: If the cutting plane intersects the cone at an angle that is not parallel to the base and does not pass through the vertex, an ellipse is formed[2][5].
+
+3. Parabola: When the cutting plane is parallel to one of the cone's slant heights (or generatrices), the cross-section is a parabola[5][7].
+
+4. Hyperbola: If the cutting plane intersects both nappes (halves) of a double cone, the resulting cross-section is a hyperbola[2][3].
+
+5. Triangle: When the cutting plane passes through the vertex of the cone, the cross-section is a triangle[5].
+
+6. Point: In the special case where the cutting plane touches only the vertex of the cone, the cross-section is a single point[3].
+
+These shapes are collectively known as conic sections[3]. The type of conic section produced depends on the angle between the cutting plane and the cone's axis:
+
+- For a circle, the plane is perpendicular to the cone's axis.
+- For an ellipse, the angle between the plane and the axis is greater than the angle between the generatrix and the axis.
+- For a parabola, the angle is equal to that between the generatrix and the axis.
+- For a hyperbola, the angle is less than that between the generatrix and the axis[2].
+
+The study of conic sections has a rich history in mathematics, dating back to ancient Greek mathematicians like Apollonius of Perga[3]. These shapes have numerous applications in physics, engineering, and astronomy, such as describing planetary orbits and designing telescopes and satellite dishes.

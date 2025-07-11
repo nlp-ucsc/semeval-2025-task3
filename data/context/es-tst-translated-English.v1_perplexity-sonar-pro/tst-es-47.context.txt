@@ -1,0 +1,15 @@
+DOT 4 brake fluid has both a dry and wet boiling point, which are important specifications for its performance and safety in braking systems.
+
+The dry boiling point of DOT 4 brake fluid is typically around 446°F (230°C)[1][9]. This refers to the temperature at which fresh, unopened brake fluid will begin to boil. The dry boiling point is higher than that of DOT 3 fluid, making DOT 4 more suitable for high-performance applications and vehicles subject to more demanding braking conditions.
+
+The wet boiling point of DOT 4 brake fluid is generally around 311°F (155°C)[1][9]. This is the temperature at which the fluid will boil after it has absorbed 3.7% water by volume[3]. The wet boiling point is crucial because brake fluid naturally absorbs moisture over time, which can affect its performance.
+
+It's important to note that these values can vary slightly between different manufacturers and specific formulations. Some high-performance or "Super DOT 4" fluids may have even higher boiling points. For example:
+
+- Pentosin's Super DOT 4 fluid has a dry boiling point of 509°F (265°C) and a wet boiling point of 329°F (165°C)[4].
+- Textar DOT 4 LV fluid boasts a dry boiling point of 511.8°F (266°C) and a wet boiling point of 339.8°F (171°C)[4].
+- ATE SL.6 fluid, which can replace Super DOT 4, has a dry boiling point of 509°F (265°C) and a wet boiling point of 347°F (175°C)[4].
+
+The higher boiling points of DOT 4 fluid compared to DOT 3 provide an additional safety margin against vapor lock, which can occur when the brake fluid boils and creates gas bubbles in the brake lines, potentially leading to brake failure[2]. This makes DOT 4 fluid particularly suitable for vehicles with anti-lock braking systems (ABS), those used in high-altitude conditions, or for towing applications[9].
+
+It's crucial to replace DOT 4 brake fluid regularly, typically every two years, as it absorbs moisture faster than DOT 3 fluid[1][7]. This regular maintenance helps ensure that the brake system continues to perform optimally and safely.

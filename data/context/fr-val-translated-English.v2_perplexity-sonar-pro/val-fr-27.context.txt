@@ -1,0 +1,13 @@
+The Ingenuity Mars helicopter weighs approximately 1.8 kilograms (4.0 pounds) on Earth[1][2][4]. However, due to Mars' lower gravity, which is about 38% of Earth's gravity, Ingenuity weighs only about 0.68 kilograms (1.5 pounds) on the Martian surface[2][4].
+
+Some key details about Ingenuity's mass and design:
+
+1. Lightweight construction: The helicopter is built using lightweight materials to minimize its mass. For example, its landing gear is made of carbon fiber legs, and its propellers are coated with carbon fiber and have foam cores[7].
+
+2. Dimensions: Ingenuity stands 0.49 meters (1.6 feet) tall[4] and has a rotor diameter of about 1.2 meters (4 feet)[1][2].
+
+3. Power source: It is powered by a solar panel that charges lithium-ion batteries, providing enough energy for flights lasting up to 90 seconds per Martian day[2][3].
+
+4. Rotor system: Ingenuity has two counter-rotating rotors, each with two blades. These blades spin at extremely high speeds (2,400-2,900 rpm) to generate lift in the thin Martian atmosphere[1][3].
+
+The lightweight design of Ingenuity was crucial for its mission success, as it needed to be light enough to fly in Mars' thin atmosphere while still carrying all necessary components for autonomous flight and communication with the Perseverance rover.

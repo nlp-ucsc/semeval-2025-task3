@@ -1,0 +1,25 @@
+Bis 1997 wurde der Diabetes mellitus in verschiedene Formen eingeteilt, die hauptsächlich auf der Pathophysiologie und dem Verlauf der Erkrankung basierten. Zu dieser Zeit galten folgende Kategorien:
+
+1. **Insulinabhängiger Diabetes mellitus (IDDM, Typ-1-Diabetes):**
+   - Bezeichnet den Zustand, bei dem die Bauchspeicheldrüse wenig oder kein Insulin produziert, was zu einer Abhängigkeit von Insulininjektionen führt.
+   - Typischerweise tritt bei jungen Menschen auf, wird aber nicht ausschließlich bei Kindern oder Jugendlichen diagnostiziert.
+   - Ursache ist oft eine autoimmune Zerstörung der insulinproduzierenden Betazellen der Langerhans-Inseln.
+
+2. ** Nicht-insulinabhängiger Diabetes mellitus (NIDDM, Typ-2-Diabetes):**
+   - Charakterisiert durch Insulinresistenz, bei der die Körperzellen nicht adäquat auf Insulin reagieren, und eine relative Insulinsekretion.
+   - Häufiger bei Erwachsenen und mit Gewichtszunahme assoziiert.
+   - Kann mit Medikamenten, die die Insulinempfindlichkeit erhöhen, oder durch Lebensstiländerungen behandelt werden.
+
+3. **Gestationsdiabetes (GDM):**
+   - Gesundheitliche Störung, die erstmals während der Schwangerschaft auftritt, oft im zweiten oder dritten Trimester.
+   - resultierend aus hormonellen Veränderungen und Insulinresistenz, die während der Schwangerschaft auftreten.
+   - Wie bei Typ-2-Diabetes ist die Insulinresistenz ein zentraler Faktor.
+
+4. **Andere spezifische Formen des Diabetes mellitus:**
+   - **Mody (Maturity-Onset Diabetes of the Young):** Eine seltene Form des Diabetes, verursacht durch genetische Mutationen, die zu einer gestörten Insulinsekretion führen. Es gibt verschiedene Subtypen, und sie manifestiert sich meist bei jungen Erwachsenen.
+   - **Steroid-diabetes:** Kann durch langzeitige steroidtherapie ausgelöst werden.
+   - **Pankreatogener Diabetes:** Diabetes, der durch Schäden an der Bauchspeicheldrüse, z. B. durch Pankreatitis, Tumore oder chirurgische Eingriffe, verursacht wird.
+   - **Diabetes durch Infektionen:** Bestimmte virale Infektionen, wie das Coxsackievirus, können die Langerhans-Inseln schädigen und zu Diabetes führen.
+   - **Andere genetische Formen des Diabetes:** Wie z. B. dieakash619 mutation, insulinoopie usw.
+
+Diese Einteilung dient dazu, die jeweilige Ursache und den Pathomechanismus der Erkrankung zu verstehen, was die Behandlung und Prognose beeinflusst. Mit fortschreitender Forschung und besseren diagnostischen Möglichkeiten wurde die Klassifizierung des Diabetes mellitus weiter verfeinert, um die verschiedenen Formen und ihre Behandlungsansätze besser abzubilden.

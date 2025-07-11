@@ -1,0 +1,10 @@
+3240 Laocoon asteroideak 51.69 ± 0.25 kilometroko diametroa du[1]. Hau NASA-ren NEOWISE misioaren neurketen arabera kalkulatu da, Wide-field Infrared Survey Explorer (WISE) espazio-teleskopioa erabiliz. 
+
+Asteroidearen tamainari buruzko informazio gehigarria:
+
+- Diametroa miliatan adierazita: gutxi gorabehera 32 milia[1].
+- Collaborative Asteroid Lightcurve Link-ek (CALL) kalkulatutako diametroa zertxobait txikiagoa da: 50.8 kilometro[1].
+
+Kontuan izan behar da asteroidearen tamaina zehaztasun handiz neurtzea zaila dela, eta horregatik ematen dira erroreen marjinak. NEOWISE-ren neurketa zehatzena kontsideratzen da, baina CALL-en kalkulua ere baliagarria da erreferentzia gisa.
+
+3240 Laocoon Jupiterren troiarren artean 100 handienetako bat da. Bere tamaina erlatiboki handia da asteroide troiar batentzat, nahiz eta Jupiterren troiar handienekin (adibidez, 624 Hektor-ekin, 225 km inguruko diametroarekin) alderatuta txikiagoa izan[1].

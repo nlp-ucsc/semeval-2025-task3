@@ -1,0 +1,13 @@
+IOMMU stands for Input-Output Memory Management Unit[1][2][3]. It is a hardware component that connects direct memory access (DMA) capable I/O buses to the main memory[1][2]. The IOMMU serves several important functions:
+
+1. Address translation: Similar to how a traditional MMU translates CPU virtual addresses to physical addresses, the IOMMU translates device-visible virtual addresses (also called I/O virtual addresses or IOVAs) to physical addresses[1][2]. This allows devices to use virtual addressing while the IOMMU handles the mapping to actual physical memory locations.
+
+2. Memory protection: The IOMMU enables system software to control which areas of physical memory an I/O device may access[4]. This provides isolation and protection from faulty or malicious devices attempting unauthorized memory access.
+
+3. DMA remapping: It allows devices that don't support addressing the full physical memory range to still access the entire memory through address translation[2][4].
+
+4. Virtualization support: In virtualized environments, the IOMMU facilitates safe device assignment to virtual machines by remapping DMA accesses and interrupts to the guest OS address space[4][5].
+
+5. Interrupt remapping: Some IOMMU implementations also handle hardware interrupt remapping, extending limited hardware interrupts to software interrupts[4].
+
+The IOMMU is an important component in modern computer architectures, especially in systems supporting virtualization and those requiring enhanced security and isolation between devices and system memory. Different vendors may have specific implementations of IOMMU technology, such as Intel's VT-d (Virtualization Technology for Directed I/O) or AMD's AMD-V[5].

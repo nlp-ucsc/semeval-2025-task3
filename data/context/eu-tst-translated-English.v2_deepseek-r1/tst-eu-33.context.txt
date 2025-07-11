@@ -1,0 +1,3 @@
+Alright, the user is having trouble with a translation for a specific language. They mentioned that the assistant can only handle some languages and couldn't translate the provided text. I need to figure out why that happened. Maybe the text is too long or in a language the assistant doesn't support. Alternatively, there could be formatting issues or special characters causing problems.
+
+I should consider suggesting alternative solutions. Perhaps the user can break the text into smaller parts or check for any errors in the text. Also, recommending other translation tools or services that support more languages might be helpful. It's important to be empathetic and offer these options clearly so the user knows there are alternatives available.

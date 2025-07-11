@@ -1,0 +1,39 @@
+<think>
+Okay, so I need to figure out what the UN Sustainable Development Goal 11 defines as a sustainable city. I'm not too familiar with SDGs, but I know they're part of the United Nations' initiatives to make the world better by 2030. Goal 11 specifically is about cities and communities, right?
+
+Let me start by recalling what I know. SDG 11 is one of the 17 goals, and it's titled "Sustainable Cities and Communities." The main mission is to make cities inclusive, safe, resilient, and sustainable. But what does that exactly mean in terms of defining a sustainable city?
+
+I remember reading that sustainable cities aim to reduce their environmental impact and mitigate climate change risks. They focus on things like green spaces, public transport, and energy efficiency. But I need to get the exact definition from the UN's perspective.
+
+Looking at the search results provided, the first source is from Wikipedia. It explains that SDG 11 has 10 targets and 15 indicators. The targets include safe housing, affordable transport, protecting cultural heritage, reducing disaster impacts, and providing green spaces. So, a sustainable city under SDG 11 must address all these areas.
+
+Another source from Capital Monitor mentions that a sustainable city is an urban center aiming to improve environmental impact and reduce climate risks. They list features like solar-powered buildings, green spaces, and efficient transport. This aligns with what I thought earlier.
+
+The UNEP link talks about the link between city life quality and natural resource management. It emphasizes building resilience against climate change and disasters, which ties into the targets I saw on Wikipedia.
+
+The UN's own page on SDG 11 reiterates making cities inclusive, safe, resilient, and sustainable. It highlights the challenges of rapid urbanization and the need for proper housing and infrastructure.
+
+Putting it all together, the UN defines a sustainable city through specific targets and indicators. It's not just about environmental factors but also social inclusivity, economic opportunities, and disaster resilience. So, a sustainable city must provide safe housing, efficient transport, protect heritage, manage waste, ensure green spaces, and be prepared for natural disasters.
+
+I think I have a good grasp now. The definition is comprehensive, covering multiple aspects that ensure cities are not only eco-friendly but also equitable and resilient for all inhabitants.
+</think>
+
+Sustainable Development Goal 11 (SDG 11), titled "Sustainable Cities and Communities," defines a sustainable city as an urban center that strives to improve its environmental impact and reduce climate change risks. According to the United Nations, a sustainable city is one that is inclusive, safe, resilient, and sustainable. It emphasizes the need to address social, economic, and environmental challenges through integrated approaches.
+
+Key features of a sustainable city under SDG 11 include:
+
+1. **Inclusivity and Safety**: Ensuring access to adequate, safe, and affordable housing, basic services, and public spaces for all residents, particularly vulnerable populations such as women, children, older persons, and persons with disabilities[1][2][5].
+
+2. **Resilience and Disaster Risk Reduction**: Strengthening cities' ability to withstand and recover from natural disasters, with a focus on reducing mortality, economic losses, and protecting those in vulnerable situations[1][3][5].
+
+3. **Environmental Sustainability**: Reducing the adverse environmental impact of cities, including improving air quality, managing waste effectively, and promoting resource efficiency[1][3][5].
+
+4. **Sustainable Transport Systems**: Providing safe, affordable, and accessible transport options, with attention to the needs of vulnerable groups, to reduce traffic congestion and pollution[1][3][5].
+
+5. **Green and Public Spaces**: Ensuring universal access to safe, inclusive, and accessible green and public spaces, which are essential for the well-being of urban residents[1][3][5].
+
+6. **Cultural and Natural Heritage Protection**: Safeguarding the world's cultural and natural heritage, recognizing the importance of these assets to urban identity and sustainability[1][3][5].
+
+7. **Integrated Urban Planning**: Enhancing inclusive and sustainable urbanization through participatory planning and management, ensuring balanced territorial development and strong links between urban, peri-urban, and rural areas[1][3][5].
+
+In summary, SDG 11 defines a sustainable city as one that balances social, economic, and environmental needs, ensuring that all residents can thrive in a safe, resilient, and inclusive environment.

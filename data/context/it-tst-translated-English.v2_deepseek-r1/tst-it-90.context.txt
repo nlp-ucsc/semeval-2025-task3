@@ -1,0 +1,9 @@
+The Open Source Initiative (OSI) has approved several open source licenses from Microsoft. These include:
+
+1. **MIT License**: A permissive license that is widely used in the open source community.
+2. **Apache License, Version 2.0**: Another permissive license that is popular for its flexibility.
+3. **BSD Licenses**: Specifically, the 3-Clause BSD License (also known as the New BSD License) is OSI-approved.
+4. **Microsoft Public License (MS-PL)**: This license is approved by OSI and is used by Microsoft for some of its open source projects.
+5. **Microsoft Reciprocal License (MS-RL)**: This is a copyleft license, also approved by OSI.
+
+These licenses ensure that Microsoft's open source projects comply with OSI standards, making them part of the broader open source ecosystem.

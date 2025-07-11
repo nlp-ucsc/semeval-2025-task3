@@ -1,0 +1,9 @@
+The term "molecular biology" was coined by Warren Weaver in 1938[2][4][6][8][9][10]. Weaver was a mathematician who served as the director of the Natural Sciences Division of the Rockefeller Foundation at the time.
+
+Weaver introduced the term in his 1938 report to the president of the Rockefeller Foundation[2][4]. He used it to describe an emerging field that was beginning to investigate the fundamental units of living cells using techniques from the physical sciences[1][4]. Specifically, Weaver envisioned molecular biology as an approach that would use methods like X-ray crystallography, radioisotopes, ultracentrifugation, and mathematics to study biological phenomena at the molecular level[4][8].
+
+In Weaver's own words from the 1938 report:
+
+"And gradually there is coming into being a new branch of science—molecular biology—which is beginning to uncover many secrets concerning the ultimate units of the living cell….in which delicate modern techniques are being used to investigate ever more minute details of certain life processes"[1].
+
+It's worth noting that while Weaver coined the term, the field of molecular biology itself emerged gradually through the convergence of various disciplines in the 1930s and 1940s, including biochemistry, genetics, microbiology, virology, and physics[3]. The term gained widespread adoption in the scientific community in the following decades, especially after the discovery of the DNA double helix structure by Watson and Crick in 1953, which is often considered a landmark event in the field[5].

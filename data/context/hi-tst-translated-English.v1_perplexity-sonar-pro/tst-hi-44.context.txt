@@ -1,0 +1,18 @@
+The International Mobile Equipment Identity (IMEI) number typically consists of 15 digits[1][2][3]. This 15-digit sequence serves as a unique identifier for mobile devices, including smartphones, tablets, and other cellular-enabled equipment[3][4].
+
+However, it's important to note a few additional details:
+
+1. IMEI Structure: The standard format of an IMEI is AA-BBBBBB-CCCCCC-D, where each letter represents a digit or group of digits[2][7]. This structure includes:
+   - Type Allocation Code (TAC): The first 8 digits
+   - Serial Number: The next 6 digits
+   - Check Digit: The final digit
+
+2. IMEISV Variation: There's a variant called IMEISV (IMEI Software Version) which has 16 digits. The IMEISV includes an additional two digits at the end to represent the software version number, making its format AA-BBBBBB-CCCCCC-EE[2][5].
+
+3. Historical Changes: Prior to 2004, the IMEI structure was slightly different, with a 6-digit TAC followed by a 2-digit Final Assembly Code (FAC). This changed to the current 8-digit TAC format after April 1, 2004[2][5].
+
+4. Display Variations: While the IMEI is 15 digits, it may sometimes be displayed with additional characters or in different formats. For example, some devices might show it as a 17-digit number, including additional separators or check digits[7].
+
+5. Finding the IMEI: Most mobile devices allow you to view the IMEI by dialing *#06# on the keypad. It can also often be found in the device settings, on the device itself (under the battery or on the SIM tray), or on the original packaging[4][8].
+
+It's worth noting that while 15 digits is the standard, there can be rare exceptions. For instance, some CDMA devices use a 14-digit MEID (Mobile Equipment Identifier) instead of an IMEI[9]. However, for the vast majority of modern mobile devices, particularly those using GSM, UMTS, or LTE networks, the IMEI will be a 15-digit number.

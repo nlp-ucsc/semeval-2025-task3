@@ -1,0 +1,11 @@
+Nokia E5 suunniteltiin pääasiallisesti yrityskäyttöön[1]. Se oli osa Nokian E-sarjaa, joka koostui erityisesti yrityskäyttäjille suunnatuista älypuhelimista[1]. 
+
+E-sarja oli Nokian linja puhelimia, jotka oli varustettu ominaisuuksilla ja toiminnoilla, jotka palvelivat erityisesti liike-elämän tarpeita. Tyypillisiä ominaisuuksia tällaisissa puhelimissa olivat esimerkiksi:
+
+- Tehokkaat sähköposti- ja kalenteritoiminnot
+- Hyvät tietoturvaominaisuudet
+- QWERTY-näppäimistö nopeaa viestintää varten
+- Yrityssovellusten tuki
+- VPN-yhteydet
+
+Nokia E5 julkaistiin loppukesästä 2010[1], aikana jolloin Symbian oli vielä merkittävä älypuhelinkäyttöjärjestelmä[2]. Vaikka tarkkoja tietoja E5:n käyttöjärjestelmästä ei ole annettu hakutuloksissa, on todennäköistä, että se käytti jotakin Symbian-version varianttia, sillä Symbian oli Nokian pääasiallinen älypuhelinalusta vuoteen 2011 asti[2].

@@ -1,0 +1,23 @@
+El accidente del vuelo 296 de Air France en 1988 tuvo varias causas principales:
+
+1. Vuelo a baja altitud: El avión voló a una altura extremadamente baja de aproximadamente 30 pies (9 metros), muy por debajo de los 100 pies (30 metros) planeados inicialmente y de la altura mínima legal de 170 pies (52 metros)[1][4].
+
+2. Baja velocidad: La aeronave volaba a una velocidad muy reducida, cerca de la velocidad de pérdida, lo que limitaba su capacidad de maniobra[2][6].
+
+3. Reacción tardía de los pilotos: Los pilotos no aplicaron potencia máxima a tiempo para evitar el impacto con los árboles[2][5].
+
+4. Error de juicio: El capitán Michel Asseline cometió un error al juzgar la altitud y la distancia a los obstáculos durante la maniobra de demostración[4].
+
+5. Cambio de pista a último momento: La tripulación tuvo que cambiar de la pista planeada (02) a otra pista (34) en el último minuto, lo que desestabilizó la aproximación[7].
+
+6. Condiciones ambientales: La presencia de niebla y baja visibilidad complicó la situación, dificultando la evaluación precisa de la altitud por parte de los pilotos[4].
+
+7. Posible fallo del sistema fly-by-wire: Aunque controvertido, el capitán Asseline argumentó que el sistema de protección alfa del avión interfirió con sus intentos de elevar la nariz del avión para evitar el impacto[7].
+
+8. Falta de entrenamiento adecuado: Se cuestionó si los pilotos estaban suficientemente preparados para manejar los sistemas de control de vuelo avanzados del Airbus A320 en situaciones críticas[4].
+
+9. Motores en ralentí: Los motores estaban en régimen de ralentí durante la aproximación, lo que retrasó la respuesta cuando se necesitó potencia máxima[2].
+
+10. Planificación inadecuada: La altitud planeada de 100 pies para el sobrevuelo ya estaba por debajo de los mínimos legales de 170 pies, lo que indica una planificación deficiente del vuelo de demostración[10].
+
+Estas causas combinadas llevaron a que el Airbus A320 impactara contra los árboles al final de la pista y se estrellara, resultando en la muerte de tres pasajeros y convirtiéndose en el primer accidente fatal de este modelo de avión[1][5].

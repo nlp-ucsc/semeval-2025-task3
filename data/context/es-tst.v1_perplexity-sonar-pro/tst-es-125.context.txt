@@ -1,0 +1,21 @@
+El número 41 puede expresarse como la suma de dos cuadrados de la siguiente manera:
+
+41 = 4^2 + 5^2
+
+Es decir, 41 es la suma del cuadrado de 4 (16) y el cuadrado de 5 (25)[6].
+
+Esta propiedad del número 41 se relaciona con varios conceptos matemáticos importantes:
+
+1. Números primos: 41 es un número primo[6].
+
+2. Teorema de Fermat sobre la suma de dos cuadrados: Este teorema establece que un número primo p es expresable como suma de dos cuadrados si y solo si p = 2 o p ≡ 1 (mod 4)[7]. El número 41 cumple esta condición, ya que 41 ≡ 1 (mod 4).
+
+3. Números primos pitagóricos: 41 es un número primo pitagórico, precisamente porque puede expresarse como la suma de dos cuadrados perfectos[6].
+
+4. Ternas pitagóricas: 41 forma parte de la sexta terna pitagórica primitiva (9, 40, 41), donde 41 es la hipotenusa[6].
+
+Es interesante notar que 41 también puede expresarse como la suma de cuadrados perfectos de otra manera:
+
+41^2 = 40^2 + 9^2 = 1681
+
+Esto demuestra que 41 al cuadrado también es la suma de dos cuadrados perfectos[6], lo cual es una propiedad adicional interesante de este número.

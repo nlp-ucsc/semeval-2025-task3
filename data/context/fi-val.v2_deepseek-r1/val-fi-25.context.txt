@@ -1,0 +1,1 @@
+Vakiovoimaa dynamiikan peruslain, joka tunnetaan myös Newtonin toisena lainina, kuvaa, että objektin kiihtyvyys on suoraan verrannollinen siihen kohdistuvaan voimaan ja kääntäen verrannollinen sen massaan. Matemaattisesti tämä ilmenee kaavana F = m * a, missä F on voima, m on massa ja a on kiihtyvyys.

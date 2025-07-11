@@ -1,0 +1,17 @@
+The JL-2 (Julang-2) submarine-launched ballistic missile (SLBM) is based on the DF-31 land-based intercontinental ballistic missile (ICBM)[1][2]. Specifically:
+
+The JL-2 is the naval variant of the land-based DF-31 missile[1]. Development of both missiles began in the 1970s, with their common 2-meter diameter solid fuel rocket motor successfully tested in late 1983[1][4]. Research and development efforts were reorganized starting in 1985 to produce both the DF-31 and its naval counterpart, the JL-2[1].
+
+Key points about the JL-2's development in relation to the DF-31:
+
+1. Common origin: Both missiles originated from the same development program in China, sharing key technologies and components[1][4].
+
+2. Similar specifications: The JL-2 and DF-31 have similar dimensions, propulsion systems, and overall capabilities, reflecting their common design heritage[2][4].
+
+3. Adaptation for submarine launch: While based on the DF-31, the JL-2 was specifically adapted for submarine launch, including modifications for underwater ignition and launch from a submerged submarine[4][7].
+
+4. Concurrent development: The research and development of both missiles progressed in parallel, with advancements in one often benefiting the other[1][4].
+
+5. Deployment timeline: The DF-31 entered service earlier than the JL-2, which faced some delays due to challenges in adapting the technology for submarine launch[10].
+
+In summary, the JL-2 is fundamentally a submarine-launched version of the DF-31 ICBM, adapted for deployment on China's ballistic missile submarines while retaining much of the core technology and performance characteristics of its land-based counterpart.

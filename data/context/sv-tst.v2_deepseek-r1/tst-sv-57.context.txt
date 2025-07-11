@@ -1,0 +1,5 @@
+Det är den amerikanska myndigheten FMCSA (Federal Motor Carrier Safety Administration) som reglerar bromsvätskornas grundegenskaper genom olika direktiv, främst enligt **49 CFR 393.40** i den federala lagstiftningen. FMCSA ansvarar för att säkerställa att fordonsbromsar är säkra och funktionella för att minska olyckor i trafiken. Specifika krav på bromsvätska inkluderar bland annat dess glykolhalt, fryspunkt, kokpunkt och korrosionsegenskaper. 
+
+Dessa standarder är utvecklade av SAE International (tidigare Society of Automotive Engineers), som är en organisation som formulerar rekommendationer och standarder för olika fordonskomponenter, inklusive bromsvätska. Standarden som ofta används är **SAE J1703**, vilken anger kraven för bromsvätska i fordon.
+
+Så, för att sammanfatta, är det FMCSA som är den amerikanska myndigheten som reglerar bromsvätskornas grundegenskaper genom sina direktiv, bland annat i 49 CFR 393.40.

@@ -1,0 +1,22 @@
+Microsoft lanserade flera licensvarianter som en del av sitt Shared Source-initiativ (delad källkod). De huvudsakliga licensvarianterna var:
+
+1. Microsoft Public License (Ms-PL)[2]
+   - Detta är den minst restriktiva av Microsofts licenser för delad källkod.
+   - Den tillåter distribution av kompilerad kod för både kommersiella och icke-kommersiella ändamål.
+
+2. Microsoft Reciprocal License (Ms-RL)[2]
+   - Denna licens tillåter distribution av härledd kod så länge modifierade filer ingår och behåller Ms-RL-licensen.
+
+3. Microsoft Reference Source License (Ms-RSL)[2]
+   - Detta är den mest restriktiva av Microsofts licenser för delad källkod.
+   - Källkoden är endast tillgänglig för visning och referens, främst avsedd för felsökning.
+
+4. Microsoft Limited Public License (Ms-LPL)[2]
+   - En version av Microsoft Public License där rättigheter endast beviljas utvecklare av Microsoft Windows-baserad programvara.
+   - Anses vara en icke-fri licens av Free Software Foundation.
+
+5. Microsoft Limited Reciprocal License (Ms-LRL)[2]
+   - En version av Microsoft Reciprocal License där rättigheter endast beviljas för utveckling av programvara för Microsoft Windows-plattformen.
+   - Precis som Ms-LPL anses denna inte vara öppen källkod eftersom den inte är teknikneutral.
+
+Dessa licenser var en del av Microsofts strategi att hitta en medelväg mellan helt öppen källkod och helt stängd källkod. Initiativet syftade till att ge vissa parter, som myndigheter och institutioner, tillgång till källkoden under specifika villkor, samtidigt som Microsoft behöll kontrollen över koden[2].

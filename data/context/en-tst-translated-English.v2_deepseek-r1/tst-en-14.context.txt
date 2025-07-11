@@ -1,0 +1,17 @@
+Alright, let me break this down step by step to find all the factors of 150. First, I'll start by understanding what a factor is—a factor of a number is an integer that can be multiplied by another integer to get the original number without leaving a remainder.
+
+So, to find the factors of 150, I'll begin by listing the numbers that divide 150 evenly. I'll start with 1 because 1 is a factor of every number. If I divide 150 by 1, I get 150, so 150 is also a factor.
+
+Next, I'll check 2. Since 150 is an even number, it's divisible by 2. Dividing 150 by 2 gives me 75 without any remainder, so 2 and 75 are factors.
+
+Moving on to 3. To check divisibility by 3, I can add the digits of 150: 1 + 5 + 0 = 6. Since 6 is divisible by 3, 150 is also divisible by 3. Dividing 150 by 3 gives me 50, so both 3 and 50 are factors.
+
+Now, checking 5. Numbers ending in 0 or 5 are divisible by 5, and 150 ends with a 0, so it's divisible by 5. Dividing 150 by 5 gives me 30, so 5 and 30 are factors.
+
+Next up is 6. Since 150 is divisible by both 2 and 3, it's also divisible by 6. Dividing 150 by 6 gives me 25, so 6 and 25 are factors.
+
+Then, I'll consider 10. Since 150 ends with a 0, dividing by 10 gives me 15 without a remainder, making 10 and 15 factors as well.
+
+After checking these, I can list the factors I've found: 1, 2, 3, 5, 6, 10, 15, 25, 30, 50, 75, and 150. To ensure I've got them all, I can pair them off—each pair multiplies back to 150, confirming they're all correct factors.
+
+So, the complete list of factors of 150 is indeed 1, 2, 3, 5, 6, 10, 15, 25, 30, 50, 75, and 150. No numbers between these are missing, and each divides 150 evenly without leaving any remainder. This method ensures I've covered all possible factors systematically.

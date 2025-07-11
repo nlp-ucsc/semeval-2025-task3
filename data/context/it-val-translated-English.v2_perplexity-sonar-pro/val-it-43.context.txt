@@ -1,0 +1,17 @@
+Diabetes mellitus is diagnosed when fasting blood glucose values are 126 mg/dL or higher[1][2][6][7].
+
+To elaborate:
+
+1. A fasting blood glucose level of 126 mg/dL (7.0 mmol/L) or higher on two separate tests is diagnostic for diabetes mellitus[1][2][6].
+
+2. Fasting blood glucose values between 100-125 mg/dL (5.6-6.9 mmol/L) indicate prediabetes, also known as impaired fasting glucose[2][6][7].
+
+3. Normal fasting blood glucose levels are considered to be below 100 mg/dL (5.6 mmol/L)[2][6][7].
+
+It's important to note that:
+
+- The fasting period should be at least 8 hours (and no more than 12 hours) before the blood test[1][2].
+- A single abnormal test result is not sufficient for diagnosis. The test should be repeated on a different day to confirm the diagnosis, unless the patient has clear symptoms of diabetes or very high blood glucose levels[1][6].
+- Other tests, such as the oral glucose tolerance test (OGTT) or glycated hemoglobin (A1C) test, can also be used to diagnose diabetes[1][6].
+
+If you suspect you might have diabetes or prediabetes, it's crucial to consult with a healthcare provider for proper testing and diagnosis.

@@ -1,0 +1,1 @@
+Two ellipses are similar if they have the same shape, meaning their corresponding dimensions are proportional. This includes having equal eccentricities and their major and minor axes being in the same ratio.

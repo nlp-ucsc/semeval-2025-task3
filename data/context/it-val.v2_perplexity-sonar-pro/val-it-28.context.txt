@@ -1,0 +1,22 @@
+Secondo le teorie scientifiche più accreditate, esistono quattro forze fondamentali in natura:
+
+1. La forza gravitazionale
+2. La forza elettromagnetica  
+3. La forza nucleare forte
+4. La forza nucleare debole
+
+Queste quattro forze sono considerate fondamentali perché permettono di descrivere tutti i fenomeni fisici conosciuti a tutte le scale di distanza ed energia[3]. Ogni interazione osservata in natura può essere ricondotta a una o più di queste forze fondamentali.
+
+Le caratteristiche principali di queste forze sono:
+
+- La forza gravitazionale: è la più debole delle quattro ma ha un raggio d'azione infinito. Agisce su tutte le particelle dotate di massa ed è responsabile dell'attrazione tra corpi celesti[4].
+
+- La forza elettromagnetica: agisce tra particelle elettricamente cariche. Ha un raggio d'azione infinito ed è molto più intensa della gravità[3].
+
+- La forza nucleare forte: è la più intensa delle quattro forze ma agisce solo su distanze molto piccole, dell'ordine delle dimensioni dei nuclei atomici. Tiene insieme i quark nei protoni e neutroni[5].
+
+- La forza nucleare debole: è responsabile di alcuni tipi di decadimento radioattivo e ha un raggio d'azione estremamente corto[3].
+
+È interessante notare che, secondo le teorie attuali, queste forze non sono sempre state distinte. Si ritiene che nei primissimi istanti dopo il Big Bang tutte le forze fossero unificate in un'unica "superforza"[5]. Con l'espansione e il raffreddamento dell'universo, le forze si sarebbero poi separate.
+
+Attualmente, uno degli obiettivi principali della fisica teorica è quello di trovare una "teoria del tutto" che possa unificare nuovamente queste quattro forze in un unico framework teorico[2]. Nonostante i notevoli progressi fatti, in particolare nell'unificazione delle forze elettromagnetica e debole nella teoria elettrodebole, una completa unificazione di tutte le forze rimane ancora una sfida aperta per la fisica moderna.

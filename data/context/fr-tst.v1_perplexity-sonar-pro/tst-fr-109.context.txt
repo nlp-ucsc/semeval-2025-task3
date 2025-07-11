@@ -1,0 +1,15 @@
+La découverte du fond diffus cosmologique (CMB) en 1965 par Arno Allan Penzias et Robert Woodrow Wilson est considérée comme une avancée majeure en cosmologie observationnelle[1][3]. 
+
+Cette découverte accidentelle a fourni une preuve observationnelle cruciale en faveur de la théorie du Big Bang et est devenue l'un des piliers de la cosmologie moderne[5]. Le CMB est un rayonnement électromagnétique micro-onde provenant de toutes les directions du ciel, vestige de l'époque chaude primordiale de l'Univers[1][3].
+
+L'importance de cette découverte réside dans plusieurs aspects :
+
+1. Elle a permis de départager les différents modèles cosmologiques existants à l'époque, apportant un soutien décisif à la théorie du Big Bang[3][8].
+
+2. Elle a ouvert de nouvelles perspectives observationnelles en cosmologie, la mesure du CMB (température, spectre, isotropie) étant riche en informations sur l'Univers primordial[7].
+
+3. Elle a conduit à remettre en question la théorie de l'état stationnaire au profit du modèle du Big Bang[7].
+
+4. Son étude ultérieure, notamment par les satellites COBE, WMAP et Planck, a permis de déterminer avec une précision inégalée la géométrie et la composition de l'Univers, ainsi que de mieux comprendre l'origine des galaxies[5].
+
+Cette découverte a été si importante que Penzias et Wilson ont reçu le prix Nobel de physique en 1978 pour leurs travaux[7]. Elle est considérée comme le troisième pilier observationnel du modèle du Big Bang, aux côtés de l'expansion de l'Univers et de l'abondance des éléments légers[5][8].

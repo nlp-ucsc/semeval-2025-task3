@@ -1,0 +1,13 @@
+The dry boiling point of DOT 5.1 brake fluid is 260°C (500°F)[5]. This is the minimum dry boiling point specified by the Department of Transportation (DOT) standards for DOT 5.1 brake fluid.
+
+However, it's important to note that many manufacturers exceed this minimum requirement:
+
+1. BG DOT 5.1 Brake Fluid has a typical dry boiling point of 278°C (532°F)[6].
+
+2. Motul DOT 5.1 Brake Fluid has an even higher dry boiling point of 269°C (516°F)[7][10].
+
+The dry boiling point refers to the temperature at which fresh, unused brake fluid will begin to boil. This is an important characteristic because if brake fluid boils, it can lead to brake failure due to the formation of vapor bubbles in the hydraulic system.
+
+DOT 5.1 brake fluid has a higher minimum dry boiling point compared to DOT 3 (205°C/401°F) and DOT 4 (230°C/446°F)[5]. This higher boiling point provides better performance under extreme braking conditions, which is why DOT 5.1 is often used in high-performance vehicles and racing applications[4].
+
+It's worth noting that the wet boiling point (the boiling point after the fluid has absorbed some moisture) is also important. For DOT 5.1, the minimum wet boiling point is 180°C (356°F)[5], which is still higher than the wet boiling points of DOT 3 and DOT 4 fluids.

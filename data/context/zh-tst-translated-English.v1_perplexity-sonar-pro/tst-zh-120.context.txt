@@ -1,0 +1,31 @@
+The Infiniti G series uses a powerful V6 engine paired with either an automatic or manual transmission, depending on the specific model and year:
+
+Engine:
+The G37 models feature a 3.7-liter VQ37VHR V6 engine with VVEL (Variable Valve Event and Lift) technology[1][5]. This engine produces:
+
+- 328 horsepower at 7,000 rpm
+- 269 lb-ft of torque at 5,200 rpm
+
+Key engine features include:
+- DOHC 24-valve design
+- Aluminum construction
+- Variable valve timing (CVTCS)
+- 7,600 rpm redline
+- Electronic drive-by-wire throttle system
+
+Transmission:
+The G37 offers two transmission options[1][5]:
+
+1. 7-speed automatic transmission:
+   - Standard on G37 Journey and G37x AWD models
+   - Features Downshift Rev Matching
+   - Drive Sport (DS) mode with Adaptive Shift Control (ASC)
+   - Optional paddle shifters (part of Sport Package)
+
+2. 6-speed manual transmission:
+   - Available on G37 Sport 6MT model
+   - Close-ratio gearing for sporty performance
+
+The powertrain is mounted in a front-midship (FM) layout, which places the engine behind the front axle for improved weight distribution[2]. Rear-wheel drive is standard, with all-wheel drive (ATTESA E-TS system) available on G37x AWD models[5].
+
+This combination of a high-revving V6 engine and choice of transmissions allows the Infiniti G to deliver responsive acceleration and engaging performance, positioning it as a competitive option in the luxury sports sedan segment.

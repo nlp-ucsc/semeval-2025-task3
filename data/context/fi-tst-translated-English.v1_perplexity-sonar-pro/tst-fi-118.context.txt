@@ -1,0 +1,13 @@
+Bombykol is primarily produced by female silkworm moths (Bombyx mori) as a sex pheromone to attract male mates[1][2]. It was the first insect pheromone to be chemically characterized, discovered by Adolf Butenandt in 1959[1].
+
+Specifically:
+
+1. Bombyx mori (Domesticated silkworm moth): The female moths of this species produce bombykol as their primary sex pheromone[1][2].
+
+2. Bombyx mandarina (Wild silk moth): This species, which is closely related to Bombyx mori, also uses bombykol as its sex pheromone[1].
+
+It's important to note that bombykol production is highly specific to these silk moth species. The pheromone is synthesized in specialized pheromone glands of adult female moths[5]. The biosynthesis occurs through modifications of fatty acid biosynthetic pathways, with the precursor being derived from acetyl-CoA via palmitoyl-CoA[1].
+
+While bombykol is specific to silk moths, many other moth species produce their own unique sex pheromones. In fact, sex pheromones have been chemically identified from more than 570 moth species[5]. These pheromones are typically blends of multiple components, with the precise ratio of components being crucial for species-specific attraction.
+
+The discovery and characterization of bombykol opened up a new field of research in chemical ecology and has led to applications in pest management strategies, where synthetic pheromones are used to disrupt mating or attract insects to traps[1][3].

@@ -1,0 +1,15 @@
+El principal propósito del proyecto Folding@home es ayudar a la investigación científica mediante simulaciones de la dinámica de las proteínas, utilizando computación distribuida[1][4]. Específicamente, Folding@home se enfoca en:
+
+1. Simular el proceso de plegamiento de proteínas y los movimientos de proteínas implicadas en diversas enfermedades[1][8].
+
+2. Proporcionar a los científicos una poderosa herramienta computacional para comprender mejor la biología de las proteínas y desarrollar nuevas terapias para enfermedades relacionadas con el mal plegamiento de proteínas[8].
+
+3. Aprovechar el poder de cómputo de miles de computadoras personales de voluntarios para realizar simulaciones complejas que normalmente requerirían supercomputadoras[4][5].
+
+4. Estudiar enfermedades como el Alzheimer, Parkinson, cáncer, enfermedades infecciosas como el COVID-19, entre otras[3][5].
+
+5. Permitir simulaciones a nivel atómico de proteínas durante períodos mucho más largos de lo que era posible anteriormente, lo que ha llevado a nuevos descubrimientos en el campo de la biología molecular[4].
+
+6. Fomentar la participación ciudadana en la investigación científica, permitiendo que cualquier persona con una computadora pueda contribuir al avance de la ciencia[1][5].
+
+En resumen, Folding@home busca acelerar la investigación biomédica utilizando la computación distribuida, con el objetivo final de comprender mejor las enfermedades relacionadas con las proteínas y desarrollar tratamientos más efectivos.

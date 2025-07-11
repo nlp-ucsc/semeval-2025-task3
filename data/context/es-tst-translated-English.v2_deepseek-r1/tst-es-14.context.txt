@@ -1,0 +1,11 @@
+Microsoft uses the **Shared Source Initiative** to distribute its shared source code. Under this initiative, Microsoft releases source code under various licenses, which are tailored for different purposes and communities. Some of the notable licenses under the Shared Source Initiative include:
+
+1. **Microsoft Reference Source License (Ms-RL)**: This license allows viewing and debugging of source code for educational purposes but restricts modification and redistribution.
+
+2. **Microsoft Limited Public License (Ms-LPL)**: This license permits viewing, modifying, and distributing the source code, but only for use within Microsoft products.
+
+3. **Microsoft Permissive License (Ms-PL)**: This is a more permissive license that allows viewing, modifying, and distributing source code, with fewer restrictions, making it suitable for open-source projects.
+
+4. **Microsoft Reciprocal License (Ms-RL)**: This license requires that any modifications made to the source code be contributed back to Microsoft.
+
+Each license serves different needs, ranging from restrictive to more open, depending on the project's requirements. This initiative reflects Microsoft's effort to engage with the developer community while managing its intellectual property.

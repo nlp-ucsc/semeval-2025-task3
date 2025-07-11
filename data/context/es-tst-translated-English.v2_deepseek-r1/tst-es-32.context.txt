@@ -1,0 +1,13 @@
+The Air France Flight 296 accident occurred on June 26, 1988, when an Airbus A320-111 crashed into a forest near the Mulhouse-Habsheim Airport in France during a demonstration flight. The main causes of the accident were:
+
+1. **Controlled Flight into Terrain (CFIT):** The aircraft flew too low and struck trees in a forested area, resulting in a CFIT accident. CFIT occurs when an aircraft is flown into the ground under the control of the pilot, without any mechanical failure.
+
+2. **Pilot Error:** The pilots were flying the aircraft manually and descended too low in a populated area, likely due to a misunderstanding of the aircraft's altitude.
+
+3. **Lack of Terrrain Awareness:** The pilots were unaware of the rising terrain ahead of them because they were not using adequate terrain avoidance equipment, which was not standard at the time.
+
+4. **Failure to Monitor Instruments:** The pilots did not effectively monitor their instruments during the flight, leading to the aircraft's descent below a safe altitude.
+
+5. **Regulatory Issues:** At the time, there were no strict regulations requiring the use of advanced terrain awareness systems on commercial aircraft, which could have prevented this type of accident.
+
+The crash resulted in 3 fatalities and 50 injuries, and it led to significant improvements in aviation safety measures, including the mandatory use of terrain awareness and warning systems on commercial aircraft.

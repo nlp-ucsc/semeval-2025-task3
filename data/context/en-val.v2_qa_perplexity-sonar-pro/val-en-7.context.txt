@@ -1,0 +1,18 @@
+The given answer is incorrect. Let's calculate the correct number of days remaining until the end of the year from October 14th in a non-leap year:
+
+1. From October 14th to December 31st, there are 78 days[1]. This includes:
+   - 18 days in October (14th to 31st)
+   - 30 days in November
+   - 31 days in December
+
+2. The calculation in the given answer is incorrect for two reasons:
+   - It starts from October 13th instead of October 14th
+   - The total number of days (162) is inaccurate
+
+3. In a non-leap year, there are indeed 365 days[3]. However, this fact is not directly relevant to calculating the remaining days from a specific date.
+
+4. To verify our calculation, we can use the date difference between October 14th and December 31st. In a non-leap year, this difference is consistently 78 days[1].
+
+Therefore, the correct answer is:
+
+If today is October 14th, and it is not a leap year, there are 78 days remaining until the end of the year (December 31st).

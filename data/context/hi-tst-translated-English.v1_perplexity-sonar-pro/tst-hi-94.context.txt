@@ -1,0 +1,11 @@
+There are three main types of acute coronary syndrome (ACS):
+
+1. ST-segment elevation myocardial infarction (STEMI): This is characterized by complete blockage of a coronary artery, resulting in transmural ischemia and ST-segment elevation on ECG. It leads to myocardial infarction (heart attack) with elevated cardiac biomarkers[1][2].
+
+2. Non-ST-segment elevation myocardial infarction (NSTEMI): This involves partial blockage of a coronary artery, causing subendocardial ischemia without ST-segment elevation on ECG. Cardiac biomarkers are elevated, indicating myocardial damage[1][2].
+
+3. Unstable angina: This presents with symptoms similar to NSTEMI but without elevation of cardiac biomarkers. It is characterized by new onset angina, worsening angina, or angina at rest[1][2].
+
+All three types of ACS result from acute obstruction of coronary blood flow, typically due to atherosclerotic plaque rupture and subsequent thrombus formation. The main differences between them lie in the extent of coronary artery occlusion, the resulting ECG changes, and the presence or absence of myocardial necrosis as indicated by cardiac biomarkers[1][2][4].
+
+It's important to note that these conditions exist on a spectrum, with unstable angina potentially progressing to NSTEMI or STEMI if left untreated. Prompt diagnosis and appropriate management are crucial in all cases of ACS to prevent further myocardial damage and improve outcomes[1][2].

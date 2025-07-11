@@ -1,0 +1,13 @@
+Canavanine is structurally similar to L-arginine[1][2][7]. The key difference between canavanine and arginine is that canavanine has an oxygen atom (forming a guanidinooxy group) in place of the terminal methylene group (-CH2-) found in arginine's guanidino moiety[1][5][7].
+
+This structural similarity is crucial to canavanine's biological effects:
+
+1. Molecular mimicry: Canavanine's close resemblance to arginine allows it to act as an arginine antimetabolite[3][5].
+
+2. Protein incorporation: Due to this similarity, canavanine can be mistakenly incorporated into proteins in place of arginine by arginyl-tRNA synthetase[1][5].
+
+3. Altered protein function: When canavanine replaces arginine in proteins, it can lead to the formation of structurally aberrant and dysfunctional proteins[5].
+
+4. Chemical properties: While similar in structure, canavanine has different chemical properties compared to arginine. For example, the pKa of canavanine's guanidinooxy group (7.04) is significantly lower than that of arginine's guanidino group (12.48), making canavanine more acidic[1][5].
+
+This structural analogy to arginine, combined with its altered chemical properties, is what makes canavanine an effective defensive compound in plants against herbivores and a potent antimetabolite in many organisms[3][5][7].

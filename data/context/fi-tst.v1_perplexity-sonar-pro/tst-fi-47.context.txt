@@ -1,0 +1,10 @@
+DOT 5.1 -jarrunesteen kuiva-kiehumispiste vaihtelee hieman eri lähteiden mukaan, mutta on yleisesti ottaen erittäin korkea:
+
+- Juice Lubes -merkin DOT 5.1 -jarrunesteellä kuiva-kiehumispiste on 269°C[1].
+- Liqui Moly -merkin DOT 5.1 -jarrunesteellä kuiva-kiehumispiste on 290°C[3].
+- Brembo Premium DOT 5.1 -jarrunesteellä kuiva-kiehumispiste on 260°C[6].
+- Würth ilmoittaa DOT 5.1 -jarrunesteensä kuiva-kiehumispisteeksi vähintään 260°C[7].
+
+Yleisesti ottaen DOT 5.1 -jarrunesteiden kuiva-kiehumispiste on siis noin 260-290°C välillä. Tämä korkea kiehumispiste takaa jarrunesteen hyvän suorituskyvyn ja turvallisuuden vaativissakin olosuhteissa, kuten pitkissä ja jyrkissä alamäissä[1]. Korkea kiehumispiste auttaa ehkäisemään jarrujen häipymistä (brake fade) ja jarrupolkimen "pumppaamista"[1].
+
+On tärkeää huomata, että jarruneste imee itseensä kosteutta ajan myötä, mikä laskee sen kiehumispistettä[2]. Tämän vuoksi jarruneste tulisi vaihtaa säännöllisesti valmistajan suositusten mukaisesti optimaalisen suorituskyvyn ja turvallisuuden takaamiseksi.

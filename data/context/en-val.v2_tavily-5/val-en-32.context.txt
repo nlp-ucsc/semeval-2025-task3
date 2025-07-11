@@ -1,0 +1,9 @@
+Microsoft Neptune is an unreleased version of the Windows operating system that had originally been in testing by Microsoft to succeed Windows 2000, but for home users. The project was combined with Windows Odyssey as Windows Whistler, which was released as Windows XP in 2001. However, Neptune's NT-based kernel had been in testing with a higher version number (5.5) than Windows XP (5.1
+
+Windows Neptune is a version of Microsoft Windows that was being made during 1999 and January 2000. Windows 2000 was released as an operating system for businesses and people that know how to use computers well. Windows Neptune was going to be a version of Windows 2000 that was easier for home users to use. Nobody knows if Microsoft was ever going to release Windows Neptune [source?
+
+Neptune was the codename for a canceled version of Microsoft Windows scheduled for release during the year 2000, which would have been the first consumer version of Windows based on the existing Windows NT codebase. The operating system was originally intended to succeed Windows 98, although this later shifted to Windows Me due to delays.
+
+It is unknown what these editions would actually become, if Neptune was ever released. There are also several strings in file USETUP.EXE from Neptune build 5111.1 that clearly mention "Neptune Server". These references could be leftovers from Windows 2000, if all "2000" strings were simply replaced with "Neptune" during the rebranding process
+
+It is unknown what these editions would actually become, if Neptune was ever released. There are also several strings in file USETUP.EXE from Neptune build 5111.1 that clearly mention "Neptune Server". These references could be leftovers from Windows 2000, if all "2000" strings were simply replaced with "Neptune" during the rebranding process

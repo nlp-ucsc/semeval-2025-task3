@@ -1,0 +1,14 @@
+Jef Raskin's most well-known project at Apple was the creation and initial development of the Macintosh computer. Raskin conceived the Macintosh project in 1979 and led it for approximately its first year[1][2]. He is credited with starting the project, naming it after his favorite variety of apple, writing the initial mission document "The Book of Macintosh," securing office space, and recruiting and managing the original staff[1].
+
+Raskin's vision for the Macintosh was a low-cost, high-utility computer with groundbreaking user-friendliness[1]. He aimed to create a computer that would be purchased at a reasonable cost, feature graphics from the start, and be far easier to use than existing computers due to a much better interface[2].
+
+Some key aspects of Raskin's original Macintosh concept included:
+
+1. A focus on human-computer interface design
+2. An appliance-like, "computers-by-the-millions" concept
+3. Built-in applications selectable by function keys
+4. Logic to understand user intentions and switch programs dynamically
+
+While Raskin's initial prototype differed from the final Macintosh product (for example, it was text-only and Raskin disliked the computer mouse), his work laid the foundation for what would become Apple's flagship product[1][4]. Although Steve Jobs later took over the project and made significant changes, Raskin's initial vision and work were crucial in the Macintosh's development[4][6].
+
+Raskin left Apple in 1982, two years before the Macintosh was released, due to conflicts with Steve Jobs[4]. Despite this, the Macintosh project he initiated went on to revolutionize personal computing and cement Apple's place in tech history.

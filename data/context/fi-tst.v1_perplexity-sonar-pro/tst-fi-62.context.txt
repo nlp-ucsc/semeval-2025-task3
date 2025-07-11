@@ -1,0 +1,9 @@
+Arkadi on arkkitehtuurin elementti, joka koostuu peräkkäisistä kaarista, joita tukevat pylväät tai pilarit[2]. Tarkemmin määriteltynä:
+
+- Se on sarja vierekkäisiä kaaria, joita kannattavat pylväät tai pilarit
+- Arkadi voi olla joko ulko- tai sisätiloissa
+- Ulkoarkadit tarjoavat suojaisan kävelytilan jalankulkijoille
+- Sisäarkadit ovat yleisiä esimerkiksi kirkkojen ja katedraalien alemmissa osissa
+- Arkadit voivat olla avoimia molemmilta puolilta tai vain toiselta puolelta (ns. sokea arkadi)
+
+Arkadit ovat olleet suosittuja arkkitehtuurin elementtejä antiikin ajoista lähtien. Niitä on käytetty paljon esimerkiksi roomalaisessa, islamilaisessa ja renessanssiajan arkkitehtuurissa[2]. Myöhemmin 1700- ja 1800-luvuilla arkadit kehittyivät myös kaupallisiksi tiloiksi, joissa oli kauppoja ja ne toimivat nykyaikaisten ostoskeskusten edeltäjinä[2].

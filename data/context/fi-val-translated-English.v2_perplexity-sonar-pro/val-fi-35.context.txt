@@ -1,0 +1,16 @@
+A case-control study examines two groups:
+
+1. The case group: This consists of individuals who have the disease, condition, or outcome of interest[1][6].
+
+2. The control group: This comprises individuals who do not have the disease, condition, or outcome of interest, but are otherwise similar to the case group[1][6].
+
+The key feature of a case-control study is the comparison between these two groups. Researchers identify people with the outcome of interest (cases) and a similar group without the outcome (controls), then look back in time to compare exposures or risk factors between the groups[1][4].
+
+Some important points about these groups:
+
+- Cases are selected because they already have the outcome of interest[4].
+- Controls should come from the same population as the cases and be selected independently of their exposure status[1].
+- The control group provides a baseline for comparison, representing the exposure level in the population that gave rise to the cases[1][5].
+- While the number of cases and controls do not have to be equal, increasing the number of controls (up to about 4 controls per case) can improve the study's statistical power[1][2].
+
+By comparing these two groups, researchers aim to identify factors that may contribute to the medical condition or outcome, typically by calculating odds ratios to measure the strength of association between exposures and the outcome[1][6].

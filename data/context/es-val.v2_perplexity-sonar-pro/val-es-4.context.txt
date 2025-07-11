@@ -1,0 +1,15 @@
+IOMMU significa "Input-Output Memory Management Unit" (Unidad de gestión de memoria de entrada/salida)[1][2][3]. 
+
+Esta es una unidad de hardware que cumple varias funciones importantes en los sistemas informáticos modernos:
+
+1. Traducción de direcciones: Al igual que una MMU (Memory Management Unit) tradicional traduce direcciones virtuales visibles para la CPU a direcciones físicas, la IOMMU mapea las direcciones virtuales visibles para los dispositivos de entrada/salida a direcciones físicas de la memoria principal[1][3].
+
+2. Protección de memoria: Proporciona protección contra dispositivos defectuosos o maliciosos que intentan acceder indebidamente a la memoria del sistema[1][3].
+
+3. Soporte para virtualización: Permite que las máquinas virtuales tengan acceso directo y seguro a dispositivos de hardware, mejorando el rendimiento en entornos virtualizados[4][6].
+
+4. Mejora de seguridad: Controla el acceso directo a memoria (DMA) de los dispositivos, previniendo ataques que podrían comprometer áreas sensibles de la memoria del sistema[6].
+
+5. Aislamiento de dispositivos: Ayuda a aislar los dispositivos entre sí, lo cual es especialmente útil en entornos con múltiples máquinas virtuales[6].
+
+La IOMMU es un componente crucial en los sistemas informáticos modernos, especialmente a medida que aumentan las demandas de virtualización, seguridad y computación de alto rendimiento[6].

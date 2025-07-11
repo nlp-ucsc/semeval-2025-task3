@@ -1,0 +1,15 @@
+The Canon EOS 70D was primarily recognized for its innovative Dual Pixel CMOS AF technology, which revolutionized autofocus performance in Live View and video shooting[1][2][3]. This groundbreaking feature was the first of its kind in the world, utilizing a sensor design where each pixel contains two photodiodes that can be read independently for autofocus or together for image capture[1][3].
+
+Key aspects of the Dual Pixel CMOS AF system include:
+
+1. Smooth and accurate autofocus: It enabled fast, smooth, and precise autofocus tracking while shooting Full HD movies, similar to the performance of a camcorder[1][6].
+
+2. Improved Live View focusing: The technology significantly enhanced autofocus speed and accuracy when shooting stills in Live View mode[1][2].
+
+3. Enhanced video capabilities: It allowed for more professional-looking video capture by providing smooth focus transitions and consistent subject tracking[5][6].
+
+4. Wide coverage: The system covered approximately 80% of the frame both horizontally and vertically, allowing for greater compositional freedom[8].
+
+5. Compatibility with various AF modes: It supported features like Face Detection and Tracking AF, FlexiZone-Multi, and FlexiZone-Single[7].
+
+This technology set the EOS 70D apart from its predecessors and competitors, making it a game-changer for videographers and photographers who frequently used Live View. It effectively bridged the gap between DSLR image quality and camcorder-like autofocus performance, earning the camera significant recognition in the industry[1][3][5].

@@ -1,0 +1,15 @@
+Microsoft Edge does not support several legacy technologies that were present in older versions of Internet Explorer. Specifically:
+
+1. ActiveX: Edge does not support ActiveX controls, which were proprietary plugins used extensively in Internet Explorer[1].
+
+2. Browser Helper Objects (BHOs): These were add-ons for Internet Explorer that are not supported in Edge[1].
+
+3. VBScript: Edge does not support VBScript, which was a scripting language used in some older web applications.
+
+4. MSHTML (Trident) engine: Edge uses a new engine called EdgeHTML (for Edge Legacy) or Blink (for the current Chromium-based Edge), rather than the legacy Trident engine used by Internet Explorer[1].
+
+5. Legacy document modes: While Edge's developer tools can emulate older Internet Explorer rendering behaviors, it does not natively support the various "document modes" that Internet Explorer used for backward compatibility[1].
+
+6. Integrated Adobe Flash Player: Edge initially included Flash, but support for it was removed in January 2021[1].
+
+Instead of these legacy technologies, Microsoft Edge uses a more modern extension system based on the cross-browser WebExtension API[1]. This approach aligns Edge more closely with other modern browsers and web standards, improving compatibility and security while moving away from proprietary technologies specific to Internet Explorer.

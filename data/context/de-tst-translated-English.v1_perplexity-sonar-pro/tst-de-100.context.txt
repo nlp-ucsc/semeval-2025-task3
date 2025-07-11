@@ -1,0 +1,15 @@
+Several species of Fomitiporia have been reported to occur in Europe, with the most prominent being:
+
+1. Fomitiporia mediterranea: This is considered the main grapevine wood rot (Esca) agent within the Esca disease complex in Europe[1][2]. It is particularly prevalent in European vineyards and Mediterranean climate areas[2].
+
+2. Fomitiporia punctata: This species has a more ubiquitous distribution, although it is suggested to have a European-centered distribution[2]. It was previously confused with F. mediterranea before the latter was described as a separate species in 2002[2].
+
+3. Fomitiporia robusta: This species is known to occur in Europe, as evidenced by its vernacular names in various European languages like Danish (Ege-ildporesvamp) and German (Eichen-Feuerschwamm)[10].
+
+4. Fomitiporia erecta: This species has been mentioned as occurring on grapevine in Spain[2].
+
+It's worth noting that the taxonomy and distribution of Fomitiporia species in Europe have undergone revisions in recent years. For instance, F. mediterranea was only described as a separate species from F. punctata in 2002[2]. Additionally, some species previously classified as Fomitiporia have been reclassified into other genera. For example, Phellinus ellipsoideus was formerly known as Fomitiporia ellipsoidea[3].
+
+The distribution and prevalence of these species can vary across different regions of Europe. F. mediterranea, in particular, is more common in Mediterranean climate areas and has expanded its range into Central European vineyards, possibly due to climate change[2]. 
+
+Ongoing research continues to refine our understanding of Fomitiporia species distribution and taxonomy in Europe. Comprehensive screening of possible non-Vitis host plants and spatial analyses could help identify key factors affecting the diffusion of these fungi in different areas[2].

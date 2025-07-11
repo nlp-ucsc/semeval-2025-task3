@@ -1,0 +1,11 @@
+Valrico est une localité située dans le comté de Hillsborough, dans l'état de Floride, aux États-Unis. Selon les données du recensement de 2020, la population de Valrico est d'environ 38 345 habitants, et la superficie totale de Valrico est de 36,8 kilomètres carrés (14,2 miles carrés).
+
+Ainsi, la densité de population à Valrico est de:
+
+D = Population / Superficie
+
+Donc,
+
+D = 38 345 habitants / 36,8 km² ≈ 1042 habitants par kilomètre carré.
+
+Cela signifie qu'il y a en moyenne environ 1 042 personnes vivant dans chaque kilomètre carré à Valrico.

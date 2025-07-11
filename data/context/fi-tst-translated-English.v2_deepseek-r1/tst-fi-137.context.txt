@@ -1,0 +1,13 @@
+The Nintendo Classic Mini consoles, such as the NES Classic Edition and the SNES Classic Edition, are designed to work specifically with their included controllers. However, there are a few other controller options you can use with them:
+
+1. **Nintendo Classic Mini controllers**: The controllers provided with the NES and SNES Classic Editions can be used interchangeably between the two consoles if you have both.
+
+2. **Nintendo Wii Classic Controller/Classic Controller Pro**: These controllers, originally designed for use with the Wii, can be connected to the NES and SNES Classic Editions via a Wii Remote (as the Classic Controllers use the Wii Remote's connector).
+
+3. **Nintendo Switch Pro Controller**: If you have a Nintendo Switch Pro Controller, you can use it with the NES and SNES Classic Editions by connecting it via Bluetooth. However, this requiresived to pair the Pro Controller with your TV or another device that's connected to the Classic Console.
+
+4. **Retroid or 8BitDo controllers**: There are third-party controllers from brands like Retroid and 8BitDo that are compatible with the NES and SNES Classic Editions. These controllers often come with Bluetooth connectivity and can be used wirelessly.
+
+5. **Other third-party controllers**: There are various third-party controllers available that are designed to be compatible with the Classic Edition consoles. These can range from simple USB controllers to more elaborate setups.
+
+It's important to note that not all third-party controllers may be officially supported by Nintendo, and some may require additional setup or adapters to work properly. Always check compatibility before purchasing any third-party accessories.

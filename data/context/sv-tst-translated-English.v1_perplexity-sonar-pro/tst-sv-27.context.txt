@@ -1,0 +1,25 @@
+Microsoft launched several license variants as part of its Shared Source Initiative. The key licenses include:
+
+1. Microsoft Public License (Ms-PL): This is the least restrictive of the Microsoft licenses. It allows for distribution of compiled code for commercial or non-commercial purposes under any license that complies with the Ms-PL. Redistribution of source code is permitted only under the Ms-PL[1].
+
+2. Microsoft Reciprocal License (Ms-RL): This license allows distribution of derived code as long as the modified source files are included and retain the Ms-RL. Files not containing code originally licensed under Ms-RL can be licensed according to the copyright holder's choosing[1].
+
+3. Microsoft Limited Public License (Ms-LPL): This is a version of the Microsoft Public License where rights are only granted to developers of Microsoft Windows-based software[1].
+
+4. Microsoft Limited Reciprocal License (Ms-LRL): This is a version of the Microsoft Reciprocal License where rights are only granted when developing software for a Microsoft Windows platform[1].
+
+5. Microsoft Reference Source License (Ms-RSL): This is the most restrictive of the Microsoft Shared Source licenses. The source code is made available for reference purposes only, mainly for viewing Microsoft classes source code while debugging[1].
+
+6. Microsoft Permissive License: This license is described as the least restrictive of Microsoft's source code licenses, allowing for more open use and modification of the code[4].
+
+7. Microsoft Community License: This license is designed for collaborative development projects and operates similarly to the Mozilla Public License[4].
+
+Additionally, Microsoft created specific licenses for some of their products under the Shared Source Initiative:
+
+8. Shared Source CLI License: For the Common Language Infrastructure implementation[1].
+
+9. Microsoft Windows Embedded CE 6.0 Shared Source License: Specific to Windows CE development[1].
+
+10. Windows CE Shared Source Premium Licensing Program (CEP): Available to companies bringing Windows CE-based devices and solutions to market[5].
+
+It's important to note that while some of these licenses (like Ms-PL and Ms-RL) have been approved by the Open Source Initiative as open source licenses, others are more restrictive and are considered proprietary licenses[1]. The Shared Source Initiative was designed as a framework to support a spectrum of programs and licenses offered by Microsoft to various communities, balancing between providing source code access and protecting Microsoft's intellectual property[2][7].

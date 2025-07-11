@@ -1,0 +1,7 @@
+Diese Abkürzung steht für "Input-Output Memory Management Unit". Es handelt sich dabei um eine Hardware-Komponente, die in modernen Computern eingesetzt wird, um den Zugriff von Geräten (wie Grafikkarten, Soundkarten etc.) auf das Arbeitsspeicher des Systems zu managen.
+
+Die Hauptfunktion eines IOMMU besteht darin, virtuelle Adressräume für die Geräte bereitzustellen. Das bedeutet, dass jedes Gerät mit seinem eigenen virtuellen Adressraum arbeiten kann, unabhängig davon, wie der physische Speicher im System tatsächlich organisiert ist. Dadurch wird eine bessere Isolation zwischen den Geräten im System ermöglicht, was zu einer höheren Sicherheit und Stabilität des Systems beiträgt.
+
+Ein weiterer Vorteil ist, dass durch den Einsatz eines IOMMU die Sicherheit im Umgang mit Gerätezugriffen erhöht wird. So können unerwünschte Zugriffe von Geräten auf den Speicher verhindert werden, wodurch das Risiko von Sicherheitslücken und potenziellen Angriffen gemindert wird.
+
+Insgesamt dient das IOMMU dazu, die Effizienz, Sicherheit und Stabilität des Systems zu gewährleisten, indem es den Zugriff von Geräten auf den Arbeitsspeicher effizient verwaltet.

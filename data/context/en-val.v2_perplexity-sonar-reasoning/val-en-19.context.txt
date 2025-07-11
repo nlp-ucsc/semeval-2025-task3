@@ -1,0 +1,23 @@
+<think>
+Okay, so the user is asking when Captain Morgan was invented. I need to figure out the exact time the brand was created. Let me look through the search results provided.
+
+First, I see that result [1] mentions the brand was established in 1944 by Seagram. That's a solid source. Then, result [2] also states it was founded in Jamaica in 1944 by Seagram. So both sources agree on the year and the company.
+
+Result [3] again confirms 1944 when Seagram bought the Long Pond distillery. So that's consistent. Result [4] from Wikipedia says Seagram started manufacturing Captain Morgan in 1944. That's another confirmation.
+
+Result [5] mentions the establishment in 1945, but that's a bit conflicting. Wait, maybe it's a typo or a slight error. Since the majority of sources say 1944, I should go with that. Perhaps the 1945 in result [5] refers to a different event, like the company being created in 1945 after starting production in 1944.
+
+So, putting it all together, Captain Morgan was invented in 1944 by Seagram. The Spiced Rum, which is their flagship product, was introduced later in 1984. That's an important detail to include as it shows the brand's evolution.
+
+I should structure the answer clearly, starting with the founding year, the company, and then mention the introduction of the Spiced Rum. Also, it's good to note the acquisition by Diageo in 2001 as part of the brand's history.
+
+I need to make sure to cite the sources properly. Each sentence should have the relevant citations. For example, the founding year is supported by [1], [2], [3], and [4], while the Spiced Rum introduction is in [1], [2], and [5].
+
+I should avoid any markdown and keep the language clear and concise. The user wants a detailed answer, so including key events like the acquisition and the move to the U.S. Virgin Islands adds depth.
+
+Also, mentioning the original recipe and the shift in production helps explain the brand's development over time. It's important to highlight how the brand has maintained its legacy while expanding its product line.
+
+I think that's all. Now, I'll put it together in a coherent way, making sure each fact is supported by the search results and properly cited.
+</think>
+
+Captain Morgan rum was invented in 1944 by the Seagram Company, which established the brand as a tribute to Sir Henry Morgan, the 17th-century Welsh privateer[1][2][3][4]. The brand's flagship product, Captain Morgan Original Spiced Rum, was introduced to the United States in 1984 and quickly became popular[1][2][5]. The rum was initially produced in Jamaica using a centuries-old recipe before production shifted to Puerto Rico in the 1950s[5]. In 2001, the brand was acquired by Diageo, further expanding its global presence[1][4][5]. Today, Captain Morgan remains one of the world's top-selling rum brands, known for its distinctive flavors and iconic marketing campaigns[1][4][5].

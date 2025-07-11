@@ -1,0 +1,9 @@
+The graphics address remapping table (GART), [1] also known as the graphics aperture remapping table, [2] or graphics translation table (GTT), [3] is an I/O memory management unit (IOMMU) used by Accelerated Graphics Port (AGP) and PCI Express (PCIe) graphics cards.The GART allows the graphics card direct memory access (DMA) to the host system memory, through which buffers of textures, polygon
+
+The graphics address remapping table (GART), [1] also known as the graphics aperture remapping table, [2] or graphics translation table (GTT), [3] is an I/O memory management unit (IOMMU) used by Accelerated Graphics Port (AGP) and PCI Express (PCIe) graphics cards.The GART allows the graphics card direct memory access (DMA) to the host system memory, through which buffers of textures, polygon
+
+The graphics address remapping table (GART), also known as the graphics aperture remapping table, or graphics translation table (GTT), is an I/O memory management unit (IOMMU) used by Accelerated Graphics Port (AGP) and PCI Express (PCIe) graphics cards. The GART allows the graphics card direct memory access (DMA) to the host system memory, through which buffers of textures, polygon meshes and
+
+An Input-Output Memory Management Unit (IOMMU) is a hardware component that connects a DMA-capable I/O bus to system memory. It maps device-visible virtual addresses to physical addresses, making it useful in virtualization. In the WDDM 2.0 IoMmu model, each process has a single virtual address space that is: Shared between the CPU and GPU.
+
+An Input-Output Memory Management Unit (IOMMU) is a hardware component that connects a DMA-capable I/O bus to system memory. It maps device-visible virtual addresses to physical addresses, making it useful in virtualization. In the WDDM 2.0 IoMmu model, each process has a single virtual address space that is: Shared between the CPU and GPU.

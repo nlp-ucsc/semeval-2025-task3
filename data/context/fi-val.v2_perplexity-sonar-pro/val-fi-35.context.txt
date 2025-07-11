@@ -1,0 +1,16 @@
+Tapaus-verrokkitutkimuksessa tarkastellaan tyypillisesti kahta pääryhmää:
+
+1. Tapaukset: Henkilöt, joilla on tutkittava sairaus tai oire.
+
+2. Verrokit: Henkilöt, joilla ei ole tutkittavaa sairautta tai oiretta.
+
+Näitä kahta ryhmää verrataan keskenään, jotta voidaan selvittää mahdollisia riskitekijöitä tai altistuksia, jotka saattavat liittyä tutkittavan sairauden tai oireen kehittymiseen[1][3].
+
+Joissain tapauksissa tutkimuksessa voi olla useampia verrokkiryhmiä:
+
+- Yleensä tapauksia ja verrokkeja valitaan sama määrä, jotta tilastollinen testaus olisi optimaalista.
+- Aiemmin käytäntönä on ollut käyttää useita kontrolliryhmiä, mutta nykyään suositaan yhden kontrolliryhmän käyttämistä[1].
+
+On tärkeää huomioida, että vaikka pääryhmät ovat tapaukset ja verrokit, näiden ryhmien sisällä voi olla alaryhmittelyjä esimerkiksi altistuksen tai muiden tekijöiden perusteella. Tutkijat vertailevat näiden ryhmien välisiä eroja altistumisessa, riskitekijöissä tai muissa ominaisuuksissa, jotka voivat olla yhteydessä sairauden kehittymiseen[7].
+
+Tapaus-verrokkitutkimuksen tehokkuus perustuu siihen, että se mahdollistaa harvinaistenkin sairauksien tutkimisen kohtuullisen pienellä otoskoolla verrattuna esimerkiksi kohorttitutkimuksiin[7].

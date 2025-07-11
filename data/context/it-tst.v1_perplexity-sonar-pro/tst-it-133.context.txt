@@ -1,0 +1,12 @@
+La stringa SMILES del feromone bombykol è:
+
+CCCCC/C=C\C=C/CCCCCCCO
+
+Questa rappresentazione SMILES descrive la struttura chimica del bombykol, che è un alcol primario a catena lunga con 16 atomi di carbonio e due doppi legami[1][2]. Specificamente:
+
+- La catena principale è composta da 16 atomi di carbonio (C)
+- C'è un gruppo idrossile (-OH) all'estremità della catena, rappresentato dalla O finale
+- Ci sono due doppi legami nella catena, indicati da = 
+- La configurazione dei doppi legami è specificata usando / e \, che indicano rispettivamente la geometria trans (E) e cis (Z)
+
+Il bombykol ha la formula molecolare C16H30O e il suo nome IUPAC completo è (10E,12Z)-esadeca-10,12-dien-1-olo[1][2]. Questa molecola è il feromone sessuale rilasciato dalle falene femmine del baco da seta (Bombyx mori) per attrarre i maschi ed è stato il primo feromone ad essere caratterizzato chimicamente[1][5].

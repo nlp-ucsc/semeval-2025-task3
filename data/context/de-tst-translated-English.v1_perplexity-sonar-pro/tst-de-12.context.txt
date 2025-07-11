@@ -1,0 +1,12 @@
+The difference in elevation between the lowest and highest point in the Swiss municipality of Quarten is 2,074 meters.
+
+According to the topographic information provided for Quarten[1]:
+
+- The minimum elevation in Quarten is 416 meters
+- The maximum elevation in Quarten is 2,490 meters
+
+Therefore, the elevation difference can be calculated as:
+
+2,490 m - 416 m = 2,074 meters
+
+This significant elevation range reflects Quarten's diverse topography, stretching from the shores of Lake Walensee up to the mountainous areas. The municipality encompasses both lowland areas near the lake and high alpine terrain, contributing to its varied landscape and ecosystems[2].

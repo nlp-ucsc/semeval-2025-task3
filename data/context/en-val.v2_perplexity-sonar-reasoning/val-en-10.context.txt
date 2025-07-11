@@ -1,0 +1,56 @@
+<think>
+Okay, so the user is asking how many stages of labour there are in childbirth. I remember from my training that labour is typically divided into stages, but I need to make sure I get the details right. Let me go through the search results provided.
+
+Looking at the first search result from NCBI, it clearly states that there are three stages of labour. The first stage starts with labour beginning and ends when the cervix is fully dilated at 10 cm. The second stage is from full dilation to the delivery of the baby, and the third stage is after the baby is born until the placenta is delivered. That seems pretty straightforward.
+
+The second result from Cleveland Clinic also mentions three stages: the first stage (contractions and labour), the second stage (pushing and birth), and the third stage (placenta delivery). They also talk about an optional fourth stage, which is the postpartum stage, but that's not universally considered a formal stage.
+
+The third result from Mayo Clinic again confirms three stages. They describe the first stage as early and active labour, leading up to full dilation, the second stage as pushing, and the third as delivering the placenta. They don't mention a fourth stage here.
+
+The fourth result from Helsenorge also outlines three stages: dilation, expulsion, and placental. They note the durations for each, which aligns with what I know.
+
+The fifth result from Cleveland Clinic again reiterates the three stages, mentioning early labour, active labour, delivery, and afterbirth. They don't add any additional stages beyond three.
+
+So, putting it all together, all sources consistently mention three stages. Some sources mention a fourth stage, often referred to as the postpartum or recovery stage, but it's not standard across all medical definitions. Therefore, the primary answer is three stages, with an optional note about a fourth stage depending on the source.
+
+I should structure the answer to clearly outline each of the three stages, perhaps with subsections for each, and mention the fourth stage as additional information if needed. I'll make sure to cite each point with the relevant search results to back up the information.
+</think>
+
+There are **three main stages of labour** during childbirth, each with distinct characteristics and purposes. These stages are universally recognized in medical practice and are crucial for understanding the progression of labour. Below is a detailed explanation of each stage:
+
+---
+
+## **Stage 1: Labour and Cervical Dilation**
+- This is the **longest stage** of labour and is divided into two phases:
+  1. **Early Labour (Latent Phase):** 
+     - Contractions become regular and strengthen, causing the cervix to begin dilating and effacing (thinning).
+     - The cervix typically dilates from 0 to 6 centimeters during this phase.
+     - Early labour can last for 6 to 12 hours in first-time mothers and is shorter for those who have had previous births[2][3].
+  2. **Active Labour:**
+     - The cervix dilates more rapidly, from 6 centimeters to full dilation at 10 centimeters.
+     - Contractions become stronger and more frequent, helping the baby move into the birth canal.
+     - Active labour is faster than early labour, with the cervix dilating at a rate of about 1.2 to 1.5 centimeters per hour[1].
+
+---
+
+## **Stage 2: Delivery of the Baby**
+- This stage begins when the cervix is fully dilated (10 centimeters) and ends with the birth of the baby.
+- The mother will experience strong contractions and may feel the urge to push with each contraction.
+- The baby moves through the birth canal and is delivered. This stage typically lasts less than 3 hours for first-time mothers and less than 2 hours for those who have given birth before[1][4].
+- If labour is induced or the mother has neuraxial anesthesia, this stage may take longer[1].
+
+---
+
+## **Stage 3: Delivery of the Placenta**
+- This is the **shortest stage** of labour, lasting about 5 to 30 minutes.
+- After the baby is born, the uterus continues to contract to separate the placenta from the uterine wall.
+- The mother may experience mild contractions as the placenta is expelled. Healthcare providers may assist by gently pulling on the umbilical cord while applying pressure to the uterus[1][4].
+- A delay in placental delivery (beyond 30 minutes) can increase the risk of complications, such as postpartum hemorrhage[1].
+
+---
+
+### **Additional Notes**
+- Some sources refer to a **fourth stage of labour**, which is the postpartum or recovery phase. This stage involves bonding with the baby and monitoring the mother for any complications, such as excessive bleeding[2][5].
+- The duration of each stage can vary significantly depending on factors like whether the mother has had previous births, the use of pain relief, and the presence of complications[1][4].
+
+Understanding these stages helps healthcare providers and expectant parents track the progress of labour and ensure a safe delivery.

@@ -1,0 +1,21 @@
+Telebistako dekodifikatzaileek erabiltzen dituzten prozesadore motak zenbait dira, eta haien aukeraketa telebistaren abiadura, errendimendua eta ezaugarriak kontuan hartuta egiten da. Hemen daude ohiko prozesadore motak:
+
+1. **Mikroprozesadoreak**:
+   - **RISC (Reduced Instruction Set Computing) prozesadoreak**: MIPS, ARM, eta PowerPC dira adibide ezagunak. RISC prozesadoreak eraginkorrak dira eta oinarrizko instrukzio sinpleak erabiltzen dituzte, abiadura handia lortzeko.
+   
+2. **DSP (Digital Signal Processor)**:
+   - **TMS320C6x (Texas Instruments)**: Telebistako kodeketa eta dekodifikazioa egiteko egokiturik daude, eta bideo eta audio prozesaketan erabiltzen dira.
+
+3. **GPU (Graphics Processing Unit)**:
+   - **NVIDIA Tegra eta Qualcomm Snapdragon**: Prozesadore hibridoak dira, CPU eta GPU ahalmenak batzen dituzte. Bideoak prozesatzeko eta efektu bisualak errenditzeko erabiltzen dira.
+
+4. **SoC (System on Chip)**:
+   - **Broadcom, STMicroelectronics, eta Intel-ek**: SoC-ak telebistetan erabiltzen dira, prozesadore asko integratzen baitituzte. Kodek eta dekodifikazio azkarra, bideo prozesaketa, eta beste hainbat ezaugarri.
+
+5. **FPGA (Field-Programmable Gate Array)**:
+   - **Xilinx eta Intel-eko FPGA**: Hardwarean zuzenean kodetu daitezkeenez, aplikazio espezifikoetan oso erabilgarriak dira. Dekodifikazio algoritmo konplexuak azkar kargatzeko erabiltzen dira.
+
+6. **ASIC (Application-Specific Integrated Circuit)**:
+   - **Telebista fabricatzaile propioak**: ASIC-ak telebistako kodek eta dekodifikatzaileetan erabiltzen dira, zeregin espezifikoetan oso eraginkorrak baitira. Hala nola, H.265/HEVC kodek eta dekodifikatzaileak, non abiadura eta efizientzia handia behar den.
+
+Prozesadore hauek telebistetan integratzen dira, eta haien守社idea da ikus komertzialeko bideoak azkar eta kualitate onean erakustea. Honek erabiltzailearen esperientzia hobetzen du, rebootdik edo geldialdiak saihesten ditu.

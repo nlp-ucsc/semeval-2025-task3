@@ -1,0 +1,15 @@
+The first version of Microsoft Edge was released approximately 9 years ago.
+
+Microsoft Edge was initially released on July 29, 2015, as part of the Windows 10 operating system[4]. This original version, now referred to as Microsoft Edge Legacy, was built using Microsoft's proprietary EdgeHTML and Chakra engines[1][4].
+
+However, it's important to note that Microsoft later made a significant change to Edge:
+
+1. In December 2018, Microsoft announced plans to rebuild Edge as a Chromium-based browser[1][6].
+
+2. The first preview builds of this new Chromium-based Edge were released to the public on April 8, 2019[1].
+
+3. The stable release of the new Chromium-based Microsoft Edge was officially launched on January 15, 2020[2][5][7].
+
+This new version of Edge, based on the Chromium open-source project, is considered a major overhaul and is sometimes referred to as "The New Microsoft Edge" or "New Edge"[1]. It replaced the original EdgeHTML-based Edge and has become Microsoft's primary web browser offering since then.
+
+So while the original Edge debuted in 2015, the current version of Microsoft Edge that most users are familiar with today was released in its stable form in January 2020, about 5 years ago.

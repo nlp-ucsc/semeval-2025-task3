@@ -1,0 +1,15 @@
+Die physikalische Kraft wird im internationalen Einheitensystem SI in der Einheit Newton (N) gemessen[1][7].
+
+Ein Newton ist definiert als die Kraft, die benötigt wird, um einen Körper mit einer Masse von einem Kilogramm in einer Sekunde auf eine Geschwindigkeit von einem Meter pro Sekunde zu beschleunigen[1][7]. In den SI-Basiseinheiten ausgedrückt, entspricht ein Newton:
+
+\[1 \text{ N} = 1 \frac{\text{kg} \cdot \text{m}}{\text{s}^2}\]
+
+Diese Definition macht Newton zu einer abgeleiteten SI-Einheit, die sich aus den Basiseinheiten Kilogramm (für Masse), Meter (für Länge) und Sekunde (für Zeit) zusammensetzt[7][8].
+
+Einige wichtige Punkte zur Einheit Newton:
+
+1. Sie ist nach dem berühmten Physiker Sir Isaac Newton benannt[2][7].
+2. Sie ersetzt ältere Einheiten wie das Kilopond (kp), wobei 1 kp ≈ 9,80665 N entspricht[7].
+3. Im Vergleich zu alltäglichen Erfahrungen entspricht 1 N ungefähr der Gewichtskraft eines Körpers mit einer Masse von 102 g auf Meereshöhe[2].
+
+Die Verwendung des Newton als standardisierte Einheit für Kraft ermöglicht präzise und einheitliche Messungen in Wissenschaft, Technik und Industrie weltweit.

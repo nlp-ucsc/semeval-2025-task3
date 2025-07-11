@@ -1,0 +1,17 @@
+Dr. Gregory Bowman currently manages the Folding@home project. He took over leadership of the project in 2019[1]. Dr. Bowman is a former graduate student of Dr. Vijay Pande, who originally founded Folding@home in October 2000 at Stanford University[1].
+
+Dr. Bowman is now based at the University of Pennsylvania, where Folding@home is currently headquartered[9]. He leads the Bowman Lab at UPenn, which uses Folding@home to study protein mechanisms and develop new therapeutic approaches[4].
+
+Some key details about the current management of Folding@home:
+
+1. Dr. Bowman is an assistant professor of biochemistry and molecular biophysics at the Washington University School of Medicine[3].
+
+2. He serves as the director of Folding@home, overseeing the project's scientific direction and operations[3].
+
+3. The project continues to involve multiple research labs and institutions as part of the Folding@home Consortium[4].
+
+4. While based at UPenn, Folding@home remains a distributed computing project that relies on volunteers worldwide contributing their computer processing power[9].
+
+5. The project maintains its nonprofit status and academic affiliation, with results made freely available to the scientific community[8].
+
+Under Dr. Bowman's leadership, Folding@home has continued its mission of using distributed computing to simulate protein dynamics and aid in the development of new therapeutics for various diseases[9]. The project has also expanded its focus to include research on topics like COVID-19, demonstrating its ability to rapidly respond to emerging health challenges[3].

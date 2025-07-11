@@ -1,0 +1,18 @@
+Alpha Ophiuchi, also known as Rasalhague, is approximately 25 times more luminous than the Sun[1][2][3][4]. 
+
+Specifically:
+
+1. The primary component of the Alpha Ophiuchi binary system, Alpha Ophiuchi A (Rasalhague), is the source of this luminosity.
+
+2. Different sources provide slightly varying estimates, but they all fall within a narrow range:
+   - Some sources state it is 25.1 to 25.6 times more luminous than the Sun[3].
+   - Others simply round it to about 25 times the Sun's luminosity[1][4].
+
+3. This high luminosity is due to several factors:
+   - Rasalhague is larger than the Sun, with a radius about 2.6 times that of the Sun[3].
+   - It's also hotter, with an effective temperature between 7,880 and 8,050 K, compared to the Sun's approximately 5,800 K[3].
+   - It's more massive, with about 2.4 times the mass of the Sun[1][2][3].
+
+4. Interestingly, Rasalhague is a rapidly rotating star, spinning at about 88.5% of the rate that would cause it to break up[1]. This rapid rotation affects its shape and temperature distribution, which in turn influences its observed luminosity.
+
+It's worth noting that the secondary component of the system, Alpha Ophiuchi B, is less luminous than the Sun and doesn't contribute significantly to the system's overall brightness[2].

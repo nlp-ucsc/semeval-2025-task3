@@ -1,0 +1,19 @@
+The provided answer contains several inaccuracies. Let me provide a correct and detailed response:
+
+No, Windows Neptune was never released. It was an internal project by Microsoft that was under development in 1999[1][2]. Windows Neptune was intended to be the first consumer-oriented version of Windows built on the Windows NT code base, aimed at replacing the Windows 9x series[1]. 
+
+Key points to correct the inaccuracies in the given answer:
+
+1. Timeline: Neptune was developed in 1999, not during the Windows XP era[1][2].
+
+2. Purpose: Neptune was meant to be a consumer version of Windows 2000, not a merger of Windows XP and Tablet PC Edition interfaces[1].
+
+3. Project fate: The Neptune project was cancelled in early 2000, not merged with Longhorn[1][2].
+
+4. Successor: After cancellation, Neptune was merged with another project called Odyssey to form a new project codenamed Whistler, which eventually became Windows XP[1][2].
+
+5. Release: Only one alpha build of Neptune (build 5111) was ever released to testers under a non-disclosure agreement[1]. This is the only build that has been made public[4].
+
+6. Legacy: While some features originally developed for Neptune did make their way into later Windows versions, including XP, it's incorrect to say that Neptune directly became Vista[1].
+
+In summary, Windows Neptune was an unreleased, cancelled project that predated Windows XP, not a precursor to Windows Vista as the original answer suggested.

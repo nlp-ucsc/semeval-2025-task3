@@ -1,0 +1,26 @@
+El bombicol es una feromona sexual producida específicamente por las hembras de la mariposa de la seda (Bombyx mori)[2][4]. Esta feromona sirve para atraer sexualmente a los machos de la misma especie[2].
+
+Algunas características importantes del bombicol y su función son:
+
+1. Producción y secreción:
+   - Es secretado por los sáculos laterales abdominales de las hembras de Bombyx mori[2].
+   - También se ha encontrado en la mariposa de seda silvestre, Bombyx mandarina[2].
+
+2. Detección y respuesta:
+   - Es percibido por las sensilias de las antenas de los machos[2].
+   - Los machos pueden detectarla en concentraciones extremadamente bajas, incluso una molécula por cada 10^17 de aire en condiciones de laboratorio[2].
+   - Provoca una reacción en los machos que incluye vibración de las alas, caminar y girar en la dirección de la corriente de aire[2].
+
+3. Potencia y alcance:
+   - Es increíblemente potente: una trillonésima parte de un gramo (10^-18 gramos) es suficiente para provocar una reacción en los machos[1].
+   - Los machos pueden detectar la feromona a kilómetros de distancia[4][5].
+
+4. Importancia histórica:
+   - Fue la primera feromona descrita químicamente, descubierta por Adolf Butenandt en 1959[2][4].
+   - Su descubrimiento marcó el inicio del estudio científico de las feromonas[6].
+
+5. Estructura química:
+   - Su nombre IUPAC es (10E,12Z)-hexadeca-10,12-dien-1-ol[2].
+   - Tiene la fórmula molecular C16H30O[2].
+
+El bombicol es un ejemplo fascinante de cómo las feromonas juegan un papel crucial en la comunicación y el comportamiento reproductivo de los insectos. Su descubrimiento ha sido fundamental para el desarrollo del campo de estudio de las feromonas y ha llevado a aplicaciones prácticas, como el uso de feromonas sintéticas para el control de plagas en la agricultura[6][7].

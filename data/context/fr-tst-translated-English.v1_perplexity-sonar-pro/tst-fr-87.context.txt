@@ -1,0 +1,17 @@
+The "Shared Source" license, primarily associated with Microsoft, allows limited access to source code but is not considered a true open-source license. Here are the key aspects of Shared Source licensing:
+
+1. Limited code visibility: Shared Source allows certain customers or partners to view and examine the source code of software products[2][3].
+
+2. Non-commercial use restrictions: The license typically restricts usage to non-commercial purposes only. For example, the Microsoft Shared Source CLI, C#, and JScript License states: "You may use this Software for any non-commercial purpose, subject to the restrictions in this license"[2].
+
+3. No derivative works: Users are generally not allowed to create derivative works or distribute modified versions of the software[2].
+
+4. Limited distribution: The license prohibits distribution of the software for commercial purposes. It specifically forbids "running business operations, licensing, leasing, or selling the Software, or distributing the Software for use with commercial products"[2].
+
+5. Memorized information usage: Interestingly, the license allows users to utilize "information in intangible form that you remember after accessing the Software"[2].
+
+6. Security reviews: One of the primary purposes of Shared Source is to allow customers to perform security reviews of the code[3].
+
+7. Not open-source compliant: Shared Source licenses are incompatible with Open Source Principles, particularly principles #1, #2, and #3, which require software to be available for any purpose, allow derivative works, and permit selling of the software[2].
+
+It's important to note that Shared Source is distinct from true open-source licenses. While it provides some level of transparency, it maintains significant restrictions on use, modification, and distribution, making it more aligned with proprietary software models than open-source ones[1][3].

@@ -1,0 +1,61 @@
+The Mir space station was a modular structure consisting of several interconnected components. Here's a detailed overview of its main structural elements:
+
+## Core Module
+
+The Mir Core Module (DOS-7) formed the backbone of the station[1][2][5]:
+
+- Launched on February 19, 1986
+- Dimensions: 13.13 m long, 4.15 m diameter, weighing 20.9 tonnes
+- Contained living quarters, including a galley, individual crew cabins, and personal hygiene area
+- Featured a working compartment for monitoring and commanding core systems
+- Equipped with six docking ports for attaching other modules and spacecraft
+- Housed main computer, communications equipment, and life support systems
+- Provided 90 cubic meters of habitable volume
+
+## Additional Modules
+
+Several modules were added to expand Mir's capabilities[1][3][4]:
+
+1. Kvant-1 (1987):
+   - Astrophysics module
+   - Primary docking port for Progress vehicles
+
+2. Kvant-2 (1989):
+   - Airlock for spacewalks
+   - Life support systems
+
+3. Kristall (1990):
+   - Materials processing laboratory
+   - Docking ports for Buran shuttle (later used for Space Shuttle)
+
+4. Spektr (1995):
+   - Geophysical and atmospheric research
+
+5. Docking Module (1995):
+   - Brought by Space Shuttle Atlantis
+   - Facilitated docking of Space Shuttles
+
+6. Priroda (1996):
+   - Earth observation and remote sensing
+
+## External Components
+
+Mir also featured several unpressurized external elements[4]:
+
+- Sofora girder: 14-meter scaffolding structure on Kvant-1
+- VDU thruster block: Mounted on Sofora for attitude control
+- Rapana girder: 5-meter prototype structure on Kvant-1
+- Two Strela cargo cranes: Used for moving objects during spacewalks
+
+## Power and Control Systems
+
+- Solar arrays on various modules for power generation[1][5]
+- Control moment gyroscopes for attitude control[4]
+- Two main engines (300 kg thrust each) on the Core Module for orbital maneuvers (unusable after Kvant-1 docking)[5]
+
+## Docking Systems
+
+- Multiple docking ports for attaching modules and spacecraft[5]
+- APAS-89 docking ports on Kristall module for Space Shuttle docking[4]
+
+The modular design of Mir allowed for flexibility in its construction and expansion, enabling the station to evolve and accommodate various scientific experiments and international collaborations throughout its operational life[3][6].

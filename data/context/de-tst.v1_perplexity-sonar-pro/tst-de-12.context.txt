@@ -1,0 +1,9 @@
+Der Höhenunterschied zwischen dem tiefsten und dem höchsten Punkt in der Schweizer Gemeinde Quarten beträgt 2104,4 Meter.
+
+Der tiefste Punkt der Gemeinde ist der Walensee mit einer Höhe von 419,3 Metern über Meeresspiegel[1][2]. Der höchste Punkt ist der Magerrain, der eine Höhe von 2523,7 Metern über Meeresspiegel erreicht[1][2][3].
+
+Um den genauen Höhenunterschied zu berechnen, subtrahieren wir die Höhe des tiefsten Punktes vom höchsten Punkt:
+
+2523,7 m - 419,3 m = 2104,4 m
+
+Dieser beträchtliche Höhenunterschied auf relativ kleinem Raum (die Gemeinde hat eine Fläche von 61,9 km²[2]) verdeutlicht die vielfältige Topographie der Region, die von Seeufer bis zu alpinen Gipfeln reicht. Diese Vielfalt trägt zur landschaftlichen Attraktivität und touristischen Bedeutung der Gemeinde bei, insbesondere für Aktivitäten wie Wandern und Skifahren[4].

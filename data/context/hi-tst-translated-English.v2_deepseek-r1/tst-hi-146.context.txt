@@ -1,0 +1,15 @@
+Emilia-Romagna is divided into 9 provinces. 
+
+Here is a list of the provinces in Emilia-Romagna:
+
+1. Bologna
+2. Ferrara
+3. Forlì-Cesena
+4. Modena
+5. Parma
+6. Piacenza
+7. Ravenna
+8. Reggio Emilia
+9. Rimini
+
+Each province serves as an administrative division within the region.

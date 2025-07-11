@@ -1,0 +1,21 @@
+Äänihäiriöt voidaan luokitella erilaisiin luokkiin sen mukaan, mistä ne johtuvat, miltä ne kuulostavat tai miten ne vaikuttavat äänenlaatuun. Yleisiä luokittelutapoja ovat muun muassa:
+
+1. **Fyysiset äänihäiriöt**: Nämä johtuvat usein ympäristön fyysisistä olosuhteista, kuten:
+   - **Echo (kaiku)**: Äänen heijastuminen esimerkiksi seinistä, jolloin ääni toistuu.
+   - **Vaimennus**: Äänen heikentyminen esteiden takia.
+   - **Kohina**: Tasainen, jatkuvan ääni, kuten valkokuulкутonen.
+
+2. **Elekotroniset äänihäiriöt**: Nämä liittyvät usein elektroniseen laitteistoon, kuten:
+   - **Humn**: Jatkuvaa, usein 50 tai 60 Hz taajuudella olevaa ääntä, joka voi johtua sähköverkosta tai laitteista.
+   - **Sähkömagneettiset häiriöt**: Laitteiden väliset sähkömagneettiset interferenssit, jotka voivat aiheuttaa ääniä.
+
+3. **Äänen käsittelyyn liittyvät häiriöt**: Nämä liittyvät äänen tallentamiseen, prosessointiin tai toistamiseen:
+   - **Bittinäivity**: Äänihuonontuminen, joka johtuu alhaisesta bittinopeudesta.
+   - **Kwanttuminen**: Väylän kapasiteetin rajoituksista johtuva huonontuminen.
+   - **Distortion (vääristymä)**: Äänen epätarkkuus, joka voi johtua esimerkiksi liian suurta signaalia.
+
+4. **Psykoakustiset häiriöt**: Nämä liittyvät, miten aivot kokevat ääntä, vaikka fyysiset olosuhteet ovat optimaaliset:
+   - **Kuulovauriot**: Toistuva altistus kovan äänelle voi aiheuttaa pysyviä kuulovaurioita.
+   - **Ääninetti**: Äänessä voi olla tietyntyyppisiä häiriöitä, jotka ovat erityisen häiritseviä.
+
+Näiden luokkien ymmärtäminen auttaaagnostiikassa ja ratkaisujen kehittämisessä, joko teknisessä ympäristössä tai inhimillisessä viestinnässä.

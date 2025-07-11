@@ -1,0 +1,5 @@
+Microsoft Edge's original name was Project Spartan[1]. When Microsoft first announced its plans to develop a new web browser to replace Internet Explorer, it was initially codenamed Project Spartan during its development phase. This codename was used internally at Microsoft and in early public communications about the new browser.
+
+The browser was officially unveiled as Microsoft Edge in April 2015, shortly before its public release alongside Windows 10 in July 2015[1]. The name "Edge" was chosen to represent the browser's position on the cutting edge of web technologies and user experience.
+
+It's worth noting that the current version of Microsoft Edge, released in January 2020, is based on the Chromium open-source project. This version replaced the original EdgeHTML-based Microsoft Edge. Despite the change in underlying technology, Microsoft retained the "Edge" name for brand continuity and recognition[2][5].

@@ -1,0 +1,17 @@
+Until 1997, diabetes mellitus was primarily classified into the following main groups:
+
+1. Insulin-Dependent Diabetes Mellitus (IDDM) or Type I: This category was characterized by beta cell destruction, usually leading to absolute insulin deficiency[1][4]. It was typically associated with younger onset, normal body weight, and immediate need for insulin treatment[2].
+
+2. Non-Insulin-Dependent Diabetes Mellitus (NIDDM) or Type II: This was the most common form, characterized by insulin resistance in peripheral tissue and an insulin secretory defect of the beta cell[1][2]. It was often associated with older age, obesity, and a strong family history of diabetes[2].
+
+3. Gestational Diabetes Mellitus (GDM): This type was diagnosed first during pregnancy[2][3].
+
+4. Malnutrition-related Diabetes: This category was included in the 1980 World Health Organization (WHO) classification[4][7].
+
+5. Other Specific Types: This group included various known etiologies of diabetes, such as genetic defects, diseases of the exocrine pancreas, endocrinopathies, and drug-induced diabetes[1][3].
+
+Additionally, the classification system recognized:
+
+6. Impaired Glucose Tolerance (IGT): This category represented an intermediate state between normal glucose homeostasis and diabetes[4].
+
+This classification system, established by the National Diabetes Data Group in 1979 and endorsed by WHO in 1980, remained in use until 1997 when a new classification system was proposed by the American Diabetes Association[1][4][7]. The 1997 changes aimed to move away from a treatment-based classification (insulin-dependent vs. non-insulin-dependent) towards an etiology-based system, addressing some of the confusion that had arisen in classifying patients, particularly those with NIDDM who were being treated with insulin[1][4].

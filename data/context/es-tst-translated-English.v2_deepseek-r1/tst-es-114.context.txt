@@ -1,0 +1,17 @@
+A unit fraction in mathematics is a fraction where the numerator is 1 and the denominator is a positive integer. These fractions have the form 1/n, where n is a positive integer greater than zero.
+
+### Key Points:
+1. **Definition**: A unit fraction is any fraction of the form 1/n, where n is a positive integer (n ≥ 1).
+
+2. **Examples**: 
+   - 1/2, 1/3, 1/4, 1/100, etc., are all unit fractions.
+
+3. **Properties**:
+   - Unit fractions are always less than or equal to 1.
+   - They are used in various areas of mathematics, including arithmetic, algebra, and number theory.
+
+4. **Importance in Mathematics**: 
+   - Unit fractions are fundamental in the study of Egyptian fractions, where any positive rational number can be expressed as a finite sum of distinct unit fractions.
+   - They are also used in harmonic series and probability.
+
+In summary, a unit fraction is a simple yet important concept in mathematics, defined by having a numerator of 1 and any positive integer as the denominator.

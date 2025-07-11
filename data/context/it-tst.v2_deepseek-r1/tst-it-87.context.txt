@@ -1,0 +1,19 @@
+Microsoft Edge è un browser web moderno sviluppato da Microsoft, basato sul motore di rendering Chromium, lo stesso utilizzato da Google Chrome. Essendo basato su Chromium, Microsoft Edge supporta la maggior parte delle tecnologie e degli standard web moderni, inclusi HTML5, CSS3, JavaScript e le Web APIs più recenti. Tuttavia, come qualsiasi browser, potrebbe non supportare alcune tecnologie legacy, ovvero tecnologie obsolete o non più ampiamente utilizzate. Ecco alcune delle principali tecnologie legacy che Microsoft Edge non supporta:
+
+1. **ActiveX**: ActiveX era una tecnologia di Microsoft utilizzata per l'integrazione di oggetti e controlli nel browser. Tuttavia, è stata sostituita da tecnologie più moderne e sicure come WebGL e WebAssembly. Microsoft Edge non supporta più ActiveX, sebbene possa essere possibile utilizzare Internet Explorer in modalità di compatibilità per le applicazioni legacy che ancora lo richiedono.
+
+2. **Plug-in NPAPI**: I plug-in basati su NPAPI (Netscape Plugin Application Programming Interface) come Adobe Flash, Java Applet e Silverlight non sono supportati in Microsoft Edge. Questo è dovuto al fatto che NPAPI è considerata una tecnologia obsoleta e potenzialmente insicura. Molti di questi plug-in sono stati sostituiti da alternative basate su web standard come HTML5 e WebAssembly.
+
+3. **Browser Helper Object (BHO)**: I Browser Helper Object erano componenti aggiuntivi di Internet Explorer che permettevano di estendere il funzionamento del browser. Tuttavia, Microsoft Edge non supporta i BHO, poiché non sono considerati compatibili con l'architettura moderna del browser. Gli sviluppatori devono invece utilizzare le Extension API di Microsoft Edge, basate sugli standard web.
+
+4. **Contenuti in Flash**: Adobe Flash è stato ampiamente utilizzato in passato per animazioni, giochi e video, ma è stato dichiarato obsoleto da Adobe e la maggior parte dei browser moderni, inclusi Microsoft Edge, non lo supporta più. I contenuti in Flash vengono spesso sostituiti con HTML5 e altre tecnologie più moderne.
+
+5. **Java Applet e Java Web Start**: Le Java Applet erano piccole applicazioni Java eseguite nel browser, ma non sono più supportate dalla maggior parte dei browser moderni, inclusi Microsoft Edge. Questo è dovuto ai problemi di sicurezza associati e all'avvento di alternative più sicure come le WebAssembly.
+
+6. **Silverlight**: Silverlight era una tecnologia di Microsoft per lo streaming multimediale e la creazione di applicazioni ricche. Tuttavia, è stata sostituita da tecnologie più moderne come HTML5, CSS3 e JavaScript, e Microsoft Edge non supporta più Silverlight.
+
+7. **LTSC (Long-Term Servicing Channel) Browser**: Alcune versioni legacy del canale LTSC di Windows potrebbero avere limitazioni nel supporto a Microsoft Edge, sebbene Microsoft incentivi l'adozione delle versioni più recenti del browser.
+
+**Conclusioni**: Microsoft Edge non supporta diverse tecnologie legacy come ActiveX, plug-in NPAPI, BHO, Flash, Java Applet, Silverlight e altre, al fine di promuovere l'adozione di standard web moderni e migliorare la sicurezza. Se si utilizzano ancora applicazioni o siti web che dipendono da queste tecnologie legacy, potrebbe essere necessario mantenere Internet Explorer in modalità di compatibilità o valutare l'aggiornamento delle applicazioni per supportare i moderni standard web.
+
+Se hai ulteriori domande o necessiti di assistenza più specifica, non esitare a chiedere!

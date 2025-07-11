@@ -1,0 +1,11 @@
+A dual-use product refers to a product that can be used for two or more different purposes, often one civilian and one military or potentially harmful. Dual-use items are typically goods or technologies that have legitimate civilian applications but can also be adapted or modified for use in military applications or for malicious purposes such as the production of weapons of mass destruction.
+
+Examples of dual-use products include:
+
+1. **Chemicals and Biological Agents**: Certain chemicals and biological agents can be used in medical research or agriculture but can also be weaponized.
+2. **Advanced Materials**: Materials like carbon fiber or titanium have civilian uses in aerospace and sports equipment but can also be used in military applications.
+3. **Electronics and Telecommunications**: High-performance computers, encryption technologies, and communication systems can be used for both civilian and military purposes.
+4. **Drones**: Unmanned aerial vehicles (UAVs) used for civilian purposes like agriculture or photography can also be modified for military use or surveillance.
+5. **Cybersecurity Tools**: Software that can protect networks can also be used to exploit vulnerabilities in systems.
+
+Because of their potential for misuse, dual-use products are often subject to export controls and regulations. Governments around the world, particularly through organizations like the Wassenaar Arrangement, impose restrictions on the export of such items to prevent them from falling into the hands of malicious actors or being used for proliferation purposes.

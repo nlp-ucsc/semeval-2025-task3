@@ -1,0 +1,11 @@
+Microsoftin aloitteeseen, joka on termillä jaettu lähdekoodi, viitataan tyypillisesti termein "Shared Source Initiative". Tämä aloite on osa Microsoftin strategiaa tarjota suurempi avoimuus ja yhteistyömahdollisuus yhteisöjen kanssa. Shared Source Initiative kattaa useita erilaisia lisenzejä, joilla Microsoft jakaa lähdekoodiaan eri tarkoituksiin, kuten tutkimukseen, koulutukseen ja yhteisökehytykseen.
+
+Joitakin tärkeitä osia Shared Source -aloitteessa ovat:
+
+- **Shared Source -lisenzi** : Tämä lisenzi mahdollistaa lähdekoodin jakamisen, mutta sen käyttöä rajoitetaan usein tiettyyn käyttötarkoitukseen, kuten ainoastaan tutkimukseen tai koulutukseen.
+
+- **Community Source -lisenzi** : Tämä lisenzi sallii yhteisöjen osallistua lähdekoodin kehitykseen ja tehdä muutoksia, mutta TIMEOUT tattoosi rajoitukset voivat olla edelleen voimassa.
+
+- **Reference Source -lisenzi** : Tämä lisenzi mahdollistaa lähdekoodin katseluun ainoastaan viiteeksi, eikä siihen saa tehdä muutoksia tai levittää sitä edelleen.
+
+Kaikista näistä aloitteista huolimatta, Microsoftin Shared Source -ohjelma on laajempi kuin vain lähdekoodin jakaminen, ja se pyrkii edistämään Microsoftin teknologian käyttöä ja ymmärtämistä yhteisöjen keskuudessa.

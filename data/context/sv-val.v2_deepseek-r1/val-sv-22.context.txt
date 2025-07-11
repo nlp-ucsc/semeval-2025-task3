@@ -1,0 +1,28 @@
+Kraftenheten newton (N) är en av de grundläggande enheterna i det internationella enhetssystemet (SI). Den är uppkallad efter Sir Isaac Newton, som formulerade de tre grundläggande lagarna om rörelse, vilka ligger till grund för den klassiska mekaniken.
+
+**Definition:**
+En newton definieras som den kraft som krävs för att ge ett föremål med en massa av 1 kilogram en acceleration på 1 meter per sekundkvadrat (m/s²). I formel skrivs detta som:
+
+\[ F = m \times a \]
+
+Där:
+- \( F \) är kraften i newton (N),
+- \( m \) är massan i kilogram (kg),
+- \( a \) är accelerationen i meter per sekundkvadrat (m/s²).
+
+Så, om du har ett föremål med massan 1 kg och du utsätter det för en acceleration på 1 m/s², utövar du en kraft av 1 N.
+
+**Andra samband:**
+Newtons andra lag, \( F = m \times a \), är central i denna definition. Det betyder att kraft är direkt relaterat till både massan och accelerationen av ett objekt. Enhheten newton används därför inte bara för att mäta kraft, utan är också nära kopplat till dessa båda fysikaliska storheter.
+
+**Praktiska exempel:**
+- Om du trycker på ett föremål med en kraft av 1 N, och föremålet har en massa av 1 kg, kommer det att accelerera med 1 m/s².
+- En person som väger 70 kg påverkas av en kraft från jordens gravitation på cirka 686 N (eller närmare 700 N) vid jordens yta, vilket beräknas som:
+
+\[ F = m \times g \]
+Där \( g \approx 9.81 \) m/s² är jordens gravitationsacceleration.
+
+**Internationell standard:**
+Som en del av SI-systemet är definitionen av newton internationellt standardiserad och används universellt inom vetenskap, teknik och utbildning. Detta säkerställer en enhetlig förståelse och tillämpning av kraftmått globalt.
+
+Så, för att sammanfatta, en newton är enkelt uttryckt den kraft som får ett kilogram att accelerera en meter per sekund varje sekund. DettaBaseras på Newtons rörelselagar och är en grundläggande enhet för att mäta kraft inom de flesta områden av fysik och teknik.

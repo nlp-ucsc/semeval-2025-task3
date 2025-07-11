@@ -1,0 +1,17 @@
+Based on the search results provided, the most recent codename for the Windows platform appears to be "Germanium"[3]. This codename is associated with the Windows 11 2024 Update and Windows Server 2025.
+
+To provide more context:
+
+Microsoft uses codenames for its products during development before assigning final retail names. For the Windows platform, these codenames have evolved over time and often follow certain patterns or themes.
+
+Recent Windows platform engineering milestones have used chemical elements from the periodic table as codenames[3]. The progression of recent codenames includes:
+
+1. Vibranium (Windows 10 updates from May 2020 to 2022)
+2. Cobalt (Windows 11)
+3. Nickel (Windows 11 2022 Update)
+4. Zinc (Windows Server, version 23H2)
+5. Germanium (Windows 11 2024 Update and Windows Server 2025)
+
+After Germanium, the next planned codename is "Dilithium" for the 25H1 development cycle[3]. Interestingly, this breaks from the chemical element theme, as dilithium is a fictional material from the Star Trek universe.
+
+It's important to note that these codenames are used internally by Microsoft for development purposes and may not necessarily correspond to specific public releases. The final retail names of Windows versions are typically announced closer to their release dates.

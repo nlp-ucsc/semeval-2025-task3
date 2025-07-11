@@ -1,0 +1,7 @@
+La canavanina è strutturalmente molto simile all'amminoacido arginina[1][4]. La principale differenza tra i due composti è che la canavanina ha un atomo di ossigeno al posto di un gruppo metilene (-CH2-) presente nell'arginina[1][4]. Più specificamente:
+
+- La canavanina è un amminoacido non proteinogenico trovato in alcune piante leguminose[1][4].
+- Ha una struttura quasi identica all'arginina, che è invece un amminoacido proteinogenico[4].
+- L'unica differenza strutturale è la sostituzione di un gruppo metilene (-CH2-) nell'arginina con un atomo di ossigeno (gruppo oxa) nella canavanina[4].
+
+Questa somiglianza strutturale è alla base della tossicità della canavanina, poiché le cellule che la assorbono la scambiano erroneamente per arginina e la incorporano nelle proteine, rendendole non funzionali[1]. Ciò rende la canavanina un composto difensivo efficace per le piante contro gli erbivori, pur fungendo anche da fonte di azoto per l'embrione in crescita nelle piante che la producono[1][4].

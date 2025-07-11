@@ -1,0 +1,13 @@
+The concept of open courses, particularly in the context of higher education, has been embraced and promoted by several universities around the world. It's difficult to pinpoint exactly which university "started" the open course movement, as different institutions have contributed in various ways. However, some notable examples of universities that have been at the forefront of offering open courses include:
+
+1. **Massachusetts Institute of Technology (MIT)**: MIT is renowned for its OpenCourseWare (OCW) initiative, which was launched in 2002. MIT OpenCourseWare is a web-based publication of virtually all MIT course materials. It makes the materials used in the teaching of MIT's subjects available on the web, free of charge, to anyone in the world.
+
+2. **Harvard University** and **Massachusetts Institute of Technology (MIT)**: These two institutions are also key players behind edX, a massive open online course (MOOC) platform that offers free online courses from leading universities worldwide. edX was founded in 2012.
+
+3. **Stanford University**: Stanford has been a pioneer in offering open courses, particularly through platforms like Coursera and edX. Stanford's involvement in open learning platforms has played a significant role in popularizing MOOCs.
+
+4. **The Open University**: Based in the United Kingdom, The Open University has been a leader in distance learning and open education since its establishment in 1969. It was founded with the mission of making higher education accessible to all, regardless of background or circumstances.
+
+5. **Carnegie Mellon University**: Known for its Open Learning Initiative (OLI), Carnegie Mellon has been offering free online courses and materials as part of its commitment to improving learning and teaching through the use of technology.
+
+While it's challenging to identify a single university that "started" the open course movement, MIT's OpenCourseWare initiative is often cited as one of the earliest and most influential efforts in this space. These universities, among others, have significantly contributed to making higher education more accessible and affordable for millions of learners worldwide.

@@ -1,0 +1,21 @@
+The proton and antiproton are nearly identical particles with a few key differences:
+
+1. Electric charge: The proton has a positive electric charge (+1e), while the antiproton has a negative electric charge (-1e)[2][3].
+
+2. Quark composition: A proton consists of two up quarks and one down quark (uud), whereas an antiproton is made up of two up antiquarks and one down antiquark (ūūd̄)[2][3].
+
+3. Magnetic moment: The antiproton's magnetic moment is equal in magnitude but opposite in direction to that of the proton[2][3].
+
+4. Interaction with matter: When an antiproton encounters a proton, they annihilate each other, producing energy and other particles[3][4].
+
+Despite these differences, protons and antiprotons share many identical properties:
+
+1. Mass: The masses of protons and antiprotons are identical to within extremely high precision. Recent measurements by the BASE experiment at CERN have shown that their charge-to-mass ratios are equal to within 16 parts per trillion[1][4][9].
+
+2. Spin: Both particles have a spin of 1/2[2].
+
+3. Stability: Both protons and antiprotons are stable particles when isolated[2].
+
+4. Gravitational interaction: Current evidence suggests that protons and antiprotons interact with gravity in the same way, within experimental uncertainty[4].
+
+The extreme similarity between protons and antiprotons is consistent with CPT symmetry, a fundamental principle in particle physics. Ongoing research continues to test this symmetry with increasing precision, as any detected difference could potentially explain the observed matter-antimatter asymmetry in the universe[4][9].

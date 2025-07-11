@@ -1,0 +1,15 @@
+Le type de licence "Shared Source" est une initiative de Microsoft qui permet aux développeurs d'accéder au code source de certaines technologies, moyennant certaines conditions. Cette licence est moins restrictive que les licences de logiciel propriétaire traditionnelles, mais plus restrictive que les licences open source, comme la GPL.
+
+Voici ce que permet la licence Shared Source :
+
+1. **Accès au code source** : Les développeurs peuvent examiner et étudier le code source des logiciels couverts par cette licence. Cela peut être utile pour comprendre le fonctionnement interne d'une technologie ou pour l'adapter à leurs besoins spécifiques.
+
+2. **Modification du code** : Dans certains cas, la licence Shared Source permet de modifier le code source. Cependant, les modifications sont souvent soumises à des restrictions quant à leur utilisation et leur distribution. Par exemple, les modifications peuvent être limitées à un usage interne ou à un usage non commercial.
+
+3. **Distribution** : En fonction des termes spécifiques de la licence Shared Source applicable, les utilisateurs peuvent être autorisés à partager ou à distribuer le logiciel, mais cela est souvent restreint. Par exemple, la distribution peut être limitée à un usage non commercial ou nécessiter l'approbation de Microsoft.
+
+4. **Utilisation pour la recherche et le développement** : La licence est souvent utilisée dans un cadre académique ou de recherche. Elle permet aux chercheurs d'étudier et de travailler sur des technologies Microsoft tout en respectant les droits de propriété intellectuelle.
+
+5. ** Restrictions** : Bien qu'elle offre plus de flexibilité que le logiciel propriétaire traditionnel, la licence Shared Source inclut des restrictions concernant l'utilisation commerciale, la distribution et la modification. Par exemple, il est possible que les utilisateurs ne puissent pas vendre des produits basés sur le code source sans l'autorisation de Microsoft.
+
+En résumé, la licence Shared Source permet un certain niveau de partage et de collaboration sur le code source, tout en protégeant les droits de propriété intellectuelle de Microsoft. Elle est souvent utilisée pour promouvoir l'innovation et la collaboration avec la communauté des développeurs, tout en maintenant un contrôle sur l'utilisation et la distribution du code.

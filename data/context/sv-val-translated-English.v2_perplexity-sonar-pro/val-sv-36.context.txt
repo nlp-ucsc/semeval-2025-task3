@@ -1,0 +1,14 @@
+Windows Neptune was developed in 1999 and early 2000. It was intended to be the successor to the Windows 2000 family and the first consumer version of Windows built on the Windows NT kernel[1][2]. 
+
+Key details about Windows Neptune's development:
+
+- Development began in 1999[1][2][4]
+- It was under active development throughout 1999[2]
+- The project was ultimately canceled in January 2000[2][4]
+- Only one publicly known build (5111) was released to testers, dated December 27, 1999[3][4]
+
+Neptune was originally planned to replace the Windows 9x series for home users, while Windows 2000 would remain the business-oriented version[4]. However, the project was scrapped in early 2000 when Microsoft decided to merge the Neptune team with the team working on Odyssey (the planned business successor to Windows 2000)[4][7].
+
+This merger resulted in a new project codenamed Whistler, which eventually became Windows XP[1][4][7]. Many features and concepts originally developed for Neptune, such as the new login screen and improved user account management, were incorporated into Windows XP[1][4].
+
+While Neptune itself was never released, its development played a crucial role in shaping the future of Windows, particularly in the transition from the separate consumer (9x) and business (NT) lines to a unified Windows NT-based operating system for all users.

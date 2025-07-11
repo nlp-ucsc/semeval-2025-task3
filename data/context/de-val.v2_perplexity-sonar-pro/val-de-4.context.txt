@@ -1,0 +1,15 @@
+IOMMU steht für Input-Output Memory Management Unit[1][2][4].
+
+Die IOMMU ist eine Hardwarekomponente, die als Brücke zwischen Ein-/Ausgabe-Geräten (I/O-Geräten) und dem Hauptspeicher eines Computersystems fungiert[2]. Ihre Hauptaufgaben sind:
+
+1. Adressübersetzung: Die IOMMU übersetzt geräte-sichtbare virtuelle Adressen (auch als Geräteadressen oder Memory-Mapped-I/O-Adressen bezeichnet) in physische Adressen[1]. Dies ermöglicht eine effizientere Speicherverwaltung, insbesondere bei der Verwendung von Direct Memory Access (DMA).
+
+2. Speicherschutz: Sie bietet Schutz vor fehlerhaften oder bösartigen Geräten, indem sie den Zugriff auf den Systemspeicher kontrolliert und einschränkt[1][2].
+
+3. Unterstützung für Virtualisierung: Die IOMMU spielt eine wichtige Rolle bei der Hardware-Virtualisierung, indem sie es virtuellen Maschinen ermöglicht, direkt auf physische Hardware zuzugreifen, ohne die Sicherheit oder Isolation zu gefährden[2].
+
+4. Geräte-Isolation: In virtualisierten Umgebungen hilft die IOMMU dabei, Geräte voneinander zu isolieren und verhindert, dass sie sich gegenseitig beeinträchtigen[2].
+
+5. Leistungsverbesserung: Durch die Ermöglichung der Zuweisung großer, zusammenhängender virtueller Adressbereiche, auch wenn der physische Speicher fragmentiert ist, kann die IOMMU die Systemleistung verbessern[1].
+
+Die IOMMU ist besonders wichtig in modernen Computersystemen, wo sie zur Verbesserung der Sicherheit, Leistung und Flexibilität beiträgt, insbesondere in virtualisierten Umgebungen und bei der Verwendung von DMA-fähigen Geräten.

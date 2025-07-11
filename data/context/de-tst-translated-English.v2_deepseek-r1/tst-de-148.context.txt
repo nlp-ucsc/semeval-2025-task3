@@ -1,0 +1,1 @@
+Microsoft Edge has been available on iOS since November 30, 2017, and on Android since December 12, 2017. It was initially released as a preview version before becoming widely available. These mobile versions allow users to sync their browsing data across devices using their Microsoft accounts.

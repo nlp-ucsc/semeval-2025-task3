@@ -1,0 +1,15 @@
+Until 1997, diabetes mellitus was classified into two main groups based on the underlying causes: **insulin-dependent diabetes mellitus (IDDM)** and **non-insulin-dependent diabetes mellitus (NIDDM)**.
+
+1. **Insulin-Dependent Diabetes Mellitus (IDDM)**:
+   - Also known as **Type 1 diabetes**.
+   - Characterized by the body's inability to produce insulin due to autoimmune destruction of the insulin-producing beta cells in the pancreas.
+   - Typically developed in children and young adults, though it can occur at any age.
+   - Requires insulin therapy for survival.
+
+2. **Non-Insulin-Dependent Diabetes Mellitus (NIDDM)**:
+   - Also known as **Type 2 diabetes**.
+   - Characterized by insulin resistance (reduced sensitivity to insulin) and/or relative insulin deficiency.
+   - Often associated with obesity, physical inactivity, and an unhealthy diet.
+   - Could typically be managed with lifestyle changes and/or oral medications, though some cases required insulin therapy.
+
+In 1997, the American Diabetes Association (ADA) introduced a new classification system that focused more on the pathophysiology of the disease rather than just insulin dependency. This new system classified diabetes into **Type 1**, **Type 2**, and **other specific types** of diabetes (such as gestational diabetes, monogenic diabetes, etc.). This change aimed to provide a more accurate and comprehensive understanding of the disease.

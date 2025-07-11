@@ -1,0 +1,17 @@
+Le type de licence "Shared Source" est une initiative de Microsoft qui permet un accès limité au code source de certains logiciels, tout en maintenant un contrôle sur leur utilisation et distribution. Voici les principales caractéristiques de ce type de licence :
+
+1. Accès au code source : Les licences Shared Source permettent aux utilisateurs de consulter le code source du logiciel[4][5]. Cela offre une certaine transparence et permet aux développeurs d'examiner le fonctionnement interne du programme.
+
+2. Restrictions sur l'utilisation : Contrairement aux licences open source traditionnelles, les licences Shared Source imposent généralement des restrictions sur la modification, la redistribution et l'utilisation commerciale du code[1][4].
+
+3. Variété de licences : Il existe différentes variantes de licences Shared Source, certaines étant plus permissives que d'autres[1]. Certaines versions peuvent autoriser des modifications limitées, tandis que d'autres sont plus restrictives.
+
+4. Non considérées comme open source : Les licences Shared Source ne sont généralement pas considérées comme des licences de logiciel libre ou open source, car elles ne répondent pas aux critères de l'Open Source Initiative (OSI) ou de la Free Software Foundation (FSF)[4][9].
+
+5. Utilisation spécifique : Ces licences sont souvent utilisées pour des cas particuliers, comme permettre à des partenaires commerciaux, des institutions académiques ou des gouvernements d'examiner le code pour des raisons de sécurité ou de compatibilité[5].
+
+6. Contrôle commercial et légal : L'utilisation de licences Shared Source permet à Microsoft de maintenir un contrôle commercial et légal sur ses produits tout en offrant une certaine transparence[1].
+
+7. Pas de droit de vente : Généralement, les licences Shared Source n'accordent pas le droit de vendre le logiciel ou ses dérivés[4].
+
+En résumé, les licences Shared Source offrent un compromis entre le modèle propriétaire traditionnel et le modèle open source, permettant un accès limité au code source tout en conservant des restrictions sur son utilisation et sa distribution. Cette approche vise à équilibrer les intérêts commerciaux de l'entreprise avec une certaine ouverture envers les développeurs et les partenaires.

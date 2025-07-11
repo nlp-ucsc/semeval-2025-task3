@@ -1,0 +1,15 @@
+Le Canon EOS 70D a principalement été reconnu pour sa technologie d'autofocus innovante appelée AF CMOS Dual Pixel. Cette technologie a révolutionné l'autofocus en mode Live View et en vidéo pour les appareils reflex numériques[1][2][9].
+
+Voici les principaux aspects qui ont fait la renommée de cette fonctionnalité :
+
+1. Autofocus fluide et continu en vidéo : Le Dual Pixel AF a permis pour la première fois un suivi autofocus rapide et régulier lors de l'enregistrement vidéo sur un reflex numérique[6].
+
+2. Amélioration de l'autofocus en Live View : Cette technologie a considérablement amélioré les performances de mise au point automatique lors de l'utilisation de l'écran LCD pour cadrer[2].
+
+3. Innovation technique : Le 70D était le premier appareil photo à intégrer cette technologie, où chaque pixel du capteur dispose de deux photodiodes pouvant être lues indépendamment pour l'autofocus ou simultanément pour capturer l'image[6].
+
+4. Performances en vidéo : La combinaison du Dual Pixel AF avec l'enregistrement vidéo Full HD a permis d'obtenir des vidéos de haute qualité avec une mise au point précise et fluide[6].
+
+5. Reconnaissance de l'industrie : Le Canon EOS 70D a reçu le prix TIPA (Technical Image Press Association) du "meilleur reflex averti" en 2014, en grande partie grâce à cette innovation[9].
+
+Cette technologie a marqué une avancée significative dans le domaine des reflex numériques, comblant l'écart entre les performances d'autofocus des appareils reflex traditionnels et celles des appareils hybrides en mode Live View et en vidéo.

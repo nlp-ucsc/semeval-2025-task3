@@ -1,0 +1,34 @@
+Cerebral palsy (CP) is a group of permanent disorders that appear in early childhood, characterized by developmental delays, impaired muscle tone, posture, and movement. The causes of cerebral palsy are not fully understood, but it is primarily associated with abnormal brain development or brain damage in the developing brain. Here are some of the known causes and risk factors:
+
+### 1. **Brain Development Issues**
+   - **Abnormal Brain Development**: Problems during the development of the brain, such as improper formation of brain structures, can lead to cerebral palsy.
+   - **Genetic Factors**: Mutations in genes that control brain development have been identified in some cases of CP. These genetic mutations can affect how the brain develops and functions.
+
+### 2. **Prenatal Factors**
+   - **Infections During Pregnancy**: Infections such as rubella or toxoplasmosis can affect the developing brain.
+   - **Toxins and Drugs**: Exposure to certain toxins or drugs during pregnancy can harm the developing brain. Alcohol and cocaine use during pregnancy are known to increase the risk of CP.
+   - **Placental Problems**: Issues with the placenta, such as placental insufficiency, can lead to a lack of oxygen and nutrients to the developing brain.
+   - **Multiple Pregnancies**: Carrying twins or multiple babies increases the risk of CP, likely due to limited space and resources for each baby.
+
+### 3. **Perinatal Factors (During Birth)**
+   - **Premature Birth**: Babies born prematurely are at a higher risk of developing CP. Premature babies often experience underdeveloped brains and are more susceptible to brain injuries.
+   - **Low Birth Weight**: Low birth weight, especially in premature babies, is a significant risk factor for CP.
+   - **Birth Asphyxia**: Lack of oxygen during birth can cause brain damage, which may lead to CP. This can happen due to complications like umbilical cord prolapse, placental abruption, or other issues that disrupt oxygen supply.
+   - **Infections After Birth**: Severe infections in the first few weeks of life, such as meningitis or sepsis, can cause brain damage leading to CP.
+
+### 4. **Postnatal Factors (After Birth)**
+   - **Brain Infections**: Infections like meningitis or encephalitis can cause inflammation in the brain, leading to CP.
+   - **Head Injuries**: Severe head injuries, such as those from car accidents, falls, or abuse, can result in brain damage and CP, especially in young children.
+   - **Stroke**: Perinatal or postnatal strokes can cause brain damage leading to CP.
+
+### 5. **Risk Factors**
+   - **Maternal Health Conditions**: Conditions like hypertension, diabetes, and preeclampsia during pregnancy can increase the risk of CP.
+   - **Assisted Reproductive Technology (ART)**: Babies conceived through ART, such as in vitro fertilization, may have a slightly increased risk of CP, though the exact reasons are not fully understood.
+   - **Male Genital Tract Infections**: Infections in the male reproductive tract can lead to inflammation that may affect the developing baby.
+
+### 6. **Other Factors**
+   - **Exposure to Certain Substances**: Environmental toxins like lead or mercury exposure during early development can potentially contribute to brain damage.
+   - **Chromosomal Abnormalities**: Certain chromosomal abnormalities may increase the risk of CP, though this is rare.
+
+### Summary
+Cerebral palsy is often the result of a combination of genetic and environmental factors. While some causes are preventable, such as avoiding harmful substances during pregnancy, others are unavoidable. Early diagnosis and intervention can significantly improve the quality of life for individuals with CP.

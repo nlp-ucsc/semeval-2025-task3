@@ -1,0 +1,13 @@
+<think>
+Okay, so the user is asking when Jef Raskin died. I need to find the correct date from the search results provided. Let me look through each source.
+
+First, search result [1] from CBC News says he died on Saturday, February 26, 2005. It also mentions he was diagnosed with pancreatic cancer in December 2004 and passed away at his home in California.
+
+Looking at search result [2] from the LA Times, it confirms the same date: he died on Saturday, February 26, 2005, at his home in Pacifica. His son Aza announced this on Monday, March 1, 2005.
+
+Search result [3] is his Wikipedia page, which also states he died on February 26, 2005.
+
+All three sources agree on the date, so I can confidently say Jef Raskin died on February 26, 2005. I should present this information clearly, citing each source as per the instructions.
+</think>
+
+Jef Raskin died on **Saturday, February 26, 2005**, at the age of 61, due to pancreatic cancer[1][2][3]. He passed away at his home in Pacifica, California[2].

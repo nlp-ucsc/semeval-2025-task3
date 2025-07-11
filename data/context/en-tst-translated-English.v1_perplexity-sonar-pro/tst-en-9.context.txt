@@ -1,0 +1,17 @@
+The dry boiling point of DOT 5 brake fluid is 500°F (260°C)[1][3][8]. This is the minimum temperature at which fresh, unopened DOT 5 brake fluid will begin to boil.
+
+DOT 5 brake fluid has a higher dry boiling point compared to DOT 3 and DOT 4 fluids:
+
+- DOT 3: Minimum dry boiling point of 401°F (205°C)
+- DOT 4: Minimum dry boiling point of 446°F (230°C)
+- DOT 5: Minimum dry boiling point of 500°F (260°C)
+
+It's important to note that DOT 5 brake fluid is silicone-based, unlike DOT 3 and DOT 4 which are glycol-based[5]. This silicone composition gives DOT 5 fluid some unique properties:
+
+1. It does not absorb water (hydrophobic), which helps maintain its boiling point over time[8].
+2. It's not compatible with DOT 3, DOT 4, or DOT 5.1 fluids and should not be mixed with them[2].
+3. It's not recommended for use in anti-lock braking systems (ABS)[3][7].
+
+The high dry boiling point of DOT 5 brake fluid contributes to its resistance to vapor formation, which helps minimize the potential for "vapor lock" and subsequent loss of braking power[2]. This property makes it suitable for high-performance applications where consistent braking performance is crucial.
+
+However, it's crucial to remember that while DOT 5 has advantages in certain situations, it's not universally better than other brake fluid types. The choice of brake fluid should always be based on the vehicle manufacturer's recommendations and the specific requirements of the braking system.

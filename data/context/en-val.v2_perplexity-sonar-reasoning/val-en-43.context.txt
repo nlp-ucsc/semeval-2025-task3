@@ -1,0 +1,29 @@
+<think>
+Okay, so the user is asking how many groups are compared in a case–control study. Let me break this down. I remember from the search results that case–control studies involve comparing two groups: cases and controls. 
+
+First, I'll start by defining what a case–control study is. It's an observational study where researchers look at two existing groups that have different outcomes. The cases are the individuals who have the condition or disease being studied, while the controls are similar but don't have that condition. 
+
+Next, I should explain the purpose of comparing these two groups. The main goal is to identify factors or exposures that might contribute to the outcome. By comparing the frequency of these exposures between cases and controls, researchers can determine if there's an association.
+
+I also need to mention the typical ratio of cases to controls. From what I recall, it's common to have one control per case, but sometimes studies use multiple controls per case, often up to four, to increase statistical power, especially when the disease is rare.
+
+It's important to highlight the advantages of this setup. Using two groups allows for efficient investigation of rare diseases and provides insights into potential risk factors without the need for long-term follow-up. Plus, it's cost-effective compared to cohort studies.
+
+I should also touch on the analysis part, like how odds ratios are used to measure the association between exposures and outcomes. This helps in understanding the strength and significance of the factors being studied.
+
+Finally, I'll summarize the key points to reinforce the answer, making sure it's clear that two groups are compared and why this design is beneficial in epidemiological research.
+</think>
+
+In a case–control study, **two groups** are compared:  
+
+1. **Cases**: Individuals who have the specific condition, disease, or outcome of interest.  
+2. **Controls**: Individuals who do not have the condition or disease being studied but are otherwise similar to the cases.  
+
+The primary purpose of this comparison is to identify factors or exposures that may contribute to the outcome by examining differences in the frequency of these exposures between the two groups.  
+
+### Key Points:  
+- The study design typically involves **one control per case**, but researchers may use **multiple controls per case** (e.g., 2-4 controls per case) to increase statistical power, especially when the disease is rare[2][4].  
+- The comparison helps researchers determine whether certain exposures or risk factors are associated with the outcome.  
+- This design is particularly useful for studying rare diseases or outcomes and is more cost-effective than cohort studies[3][4].  
+
+In summary, a case–control study compares **two groups** (cases and controls) to investigate potential risk factors for a specific outcome.

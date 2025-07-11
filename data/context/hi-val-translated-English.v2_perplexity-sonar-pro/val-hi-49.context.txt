@@ -1,0 +1,15 @@
+The rotational speed of Beta Camelopardalis (Beta Giraffe) is not explicitly stated in the provided search results. However, we can infer some information about its rotation based on the available data:
+
+Beta Camelopardalis is a yellow-white supergiant star classified as G0 Ib-IIa[2]. Supergiants typically have lower rotational velocities compared to main sequence stars due to their expanded size. However, there are a few interesting points to consider:
+
+1. X-ray emission: Beta Cam is noted as an X-ray source, which suggests some kind of solar-like magnetic behavior[2]. This could be indicative of some level of rotation, as stellar magnetic activity is often linked to rotation.
+
+2. Stability and pulsations: The star falls into a temperature and luminosity zone where stars typically become unstable and pulsate (like Cepheid variables). However, Beta Cam does not show significant variability, though some multiple pulsations with periods of tens of days are present[2]. This stability is unusual and not fully understood.
+
+3. Potential flare activity: In 1967, Beta Cam was observed to suddenly flash, brightening by about a magnitude over only a quarter of a second[2]. This behavior, combined with its X-ray emission, might suggest something akin to a solar flare, which could be related to rotation and magnetic activity.
+
+4. Evolutionary state: Beta Cam is likely transitioning from being a hydrogen-fusing dwarf (of hot class B) to a larger helium-fusing giant[2]. This transitional state could affect its rotational characteristics.
+
+While we don't have a specific rotational velocity for Beta Camelopardalis, it's worth noting that in general, B-type stars (which Beta Cam may have been earlier in its evolution) can have a wide range of rotational velocities. A study of main sequence B stars in various metallicity environments showed rotational velocities (v sin i) up to 350 km s^-1[1].
+
+Given its current supergiant status, Beta Camelopardalis is likely rotating more slowly than it did as a B-type star, but the exact speed remains uncertain based on the provided information. Further spectroscopic studies focusing specifically on Beta Cam's rotational characteristics would be needed to determine its current rotational velocity.

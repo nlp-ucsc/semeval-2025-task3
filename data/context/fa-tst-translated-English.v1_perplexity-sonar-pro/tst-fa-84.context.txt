@@ -1,0 +1,11 @@
+Based on the search results provided, the first bank to implement automatic payment in Iran appears to be Bank Sepah. 
+
+Bank Sepah introduced the first modern electronic payment tools in Iran in 1991. Specifically, the search results state:
+
+"Due Introduction of the modern tools of electronic payments in Iran returns to the year of 1991 and initiation of the services of the Bank Sepah AberBank, when the first samples of these cards with a possibility of withdrawing from the ATMs were introduced."[2]
+
+Bank Sepah pioneered the use of bank cards that could be used to withdraw money from ATMs, which was a significant step towards automated payments in Iran's banking system. This introduction of ATM cards in 1991 by Bank Sepah marked the beginning of electronic and automated payment methods in the country.
+
+It's worth noting that Bank Melli Iran, the first state-owned Iranian bank established in 1927, also played an important role in modernizing Iran's banking system. However, based on the information provided, Bank Sepah appears to have been the first to specifically implement automatic payment tools in 1991.
+
+The widespread adoption of automated payment systems in Iran gained momentum later, particularly with the introduction of the Shetab Banking System in 2002. Shetab created a uniform backbone for electronic banking clearance and automated payments across Iranian banks[1]. However, Bank Sepah's initiative in 1991 laid the groundwork for these later developments in Iran's electronic banking infrastructure.

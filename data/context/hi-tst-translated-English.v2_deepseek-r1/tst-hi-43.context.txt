@@ -1,0 +1,7 @@
+The time equation in astronomy defines the difference between two types of solar time:
+
+1. **Apparent Solar Time**: This is based on the visible position of the Sun in the sky. It is measured by the movement of the Sun as it appears to move across the sky from east to west. Apparent Solar Time is not uniform because the Earth's orbit is elliptical and its rotational axis is tilted, causing variations in the Sun's apparent speed.
+
+2. **Mean Solar Time**: This is a uniform and average measure of solar time, calculated to smooth out the irregularities in the Earth's rotation and orbit. It is based on the idea of a fictitious "mean sun" that moves at a constant rate across the sky, ignoring the actual variations caused by the Earth's orbit and tilt.
+
+The Time Equation, used by astronomers and clockmakers, quantifies the difference between these two types of solar time at any given date. It is expressed in terms of the difference between apparent and mean solar time, showing how much faster or slower the actual sun is compared to the mean sun. This difference can be up to about 15 minutes either way over the course of a year.

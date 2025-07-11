@@ -1,0 +1,7 @@
+Protoi eta neutroiek, batera, atomoaren nukleoaren karga positiboa osatzen dute. Atomoaren nukleoa, hain zuzen ere, protoi eta neutroiz eratua dago, eta karga positiboa protoietatik dator. Protoi bakoitzak karga positibo bat du, eta neutroiek, berriz, karga elektrikorik gabeak dira, neutralak.
+
+Atomo baten nukleoaren masaren gehiengoa ere protoi eta neutroiek osatzen dute, elektroiak askoz arinagoak baitira. Kasu gehienetan, atomoaren masa zenbaki (masa Sequence) protoi eta neutroien kopuren baturarekin adierazten da.
+
+Aurkaketa partikula gisa, protoiak eta neutroiak nukleoiak dira, eta atomoaren nukleoan batzen diren partikula subatomiko txikiak. Protoneko eta neutroiko konbinaketak atomoaren zenbait propietate zehazten ditu, hala nola bere zenbakia atomikoa (protoien kopurua) eta bere isotopo motak (neutroien kopurua).
+
+Laburbilduz, protoiak eta neutroiek batera atomoaren nukleoaren karga positiboa sortzen dute eta atomoaren masa gehiena osatzen dute.

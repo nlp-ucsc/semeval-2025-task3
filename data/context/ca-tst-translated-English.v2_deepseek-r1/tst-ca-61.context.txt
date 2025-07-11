@@ -1,0 +1,15 @@
+The MBR-200, also known as the **My Briggs Reader-200**, was a critical component in the development and testing of the **Liberty Engine** during **World War I**. The Liberty Engine was a key aircraft engine used primarily in American and British aircraft during the war.
+
+### Key Points about the MBR-200:
+
+1. **Function**: The MBR-200 was a **test instrument** designed to measure the **pressure** within the **cylinders** of the Liberty Engine. It was essential for diagnosing engine performance issues and ensuring the reliability of the engine during production and maintenance.
+
+2. **Development**: The MBR-200 was developed by the **U.S. Bureau of Standards** (now the **National Institute of Standards and Technology, or NIST**) in collaboration with the **U.S. Army** and **engine manufacturers**. The development was a response to the need for precise and efficient testing methods to meet the high demand for aircraft engines during the war.
+
+3. **Mechanism**: The MBR-200 utilized a **piezoelectric pressure sensing mechanism**, which was innovative for its time. It was capable of measuring the **high-pressure conditions** inside the engine's cylinders with great accuracy. The data collected was crucial for identifying issues such as improper combustion, cylinder wear, or other mechanical problems.
+
+4. **Impact**: The MBR-200 played a significant role in **standardizing engine testing procedures** and improving the overall **quality control** during the production of the Liberty Engine. This contributed to the reliability and performance of the engine, which was vital for military aircraft during World War I.
+
+5. **Legacy**: The development of the MBR-200 marked an important step in the **advancement of engine testing technology**. Its use of piezoelectric sensors laid the groundwork for future innovations in pressure measurement and diagnostics in the automotive and aerospace industries.
+
+The MBR-200 is a testament to the **rapid innovation** driven by the technological demands of World War I, and it played a crucial role in supporting the war effort by ensuring the reliability and efficiency of one of the most important aircraft engines of the time.

@@ -1,0 +1,1 @@
+In a case–control study, two groups are compared: cases and controls. The cases are individuals who have the outcome or disease being studied, while the controls are individuals who do not have the outcome or disease. The study aims to identify potential risk factors by comparing the exposures or characteristics between these two groups.

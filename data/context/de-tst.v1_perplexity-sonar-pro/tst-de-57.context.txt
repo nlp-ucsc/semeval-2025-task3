@@ -1,0 +1,19 @@
+Der erste Absturz eines Airbus A320 ereignete sich am 26. Juni 1988 mit Air France Flug 296Q[1][2]. Dieser Flug war ein Charterflug eines neuen Airbus A320-111, der von Air Charter International für Air France durchgeführt wurde. Das Flugzeug stürzte während eines Tiefflugs über dem Flughafen Mulhouse-Habsheim (ICAO-Code LFGB) ab, der Teil einer Flugschau war[1].
+
+Wichtige Details zu diesem Unfall:
+
+1. Es war der erste Passagierflug dieses A320[1].
+
+2. Die meisten Passagiere waren Journalisten und Gewinner eines Gewinnspiels[1].
+
+3. Der Überflug sollte in einer Höhe von 100 Fuß (30 m) stattfinden, tatsächlich flog das Flugzeug aber in nur 30 Fuß (9 m) Höhe[1].
+
+4. Das Flugzeug streifte Bäume am Ende der Landebahn und stürzte ab[1][2].
+
+5. Von den 136 Passagieren überlebten alle den anfänglichen Aufprall, aber 3 starben später an Rauchvergiftung[1].
+
+6. Die offiziellen Berichte kamen zu dem Schluss, dass die Piloten zu tief und zu langsam flogen und den Wald nicht sahen[1].
+
+7. Der Kapitän, Michel Asseline, bestritt den Bericht und behauptete, ein Fehler im Fly-by-wire-Computer habe ihn daran gehindert, Schub zu geben und hochzuziehen[1].
+
+Dieser Unfall war ein kritischer Moment für Airbus, da es sich um den ersten Absturz ihres neuen A320-Modells handelte[3]. Er führte zu intensiven Untersuchungen und Diskussionen über die Sicherheit und Zuverlässigkeit des Fly-by-wire-Systems des A320.

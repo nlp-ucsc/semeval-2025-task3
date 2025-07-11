@@ -1,0 +1,24 @@
+19521 Chaos is a celestial body classified as a cubewano, which is a type of Kuiper belt object not in resonance with any planet[4]. Here are its key physical properties:
+
+Size and Shape:
+- Estimated to be equivalent to a sphere 400 to 500 km in diameter[4]
+- Likely a compact or contact binary, based on occultation observations[4]
+- Preliminary analysis of a September 2023 occultation suggests it may be a binary or contact binary system[4]
+
+Orbit:
+- Semi-major axis: 45.796 AU (astronomical units)[4]
+- Orbital period: 309.92 years[4]
+- Eccentricity: 0.10567[4]
+- Inclination: 12.0502°[4]
+- Average orbital speed: 4.3931 km/s[4]
+
+Other characteristics:
+- Geometric albedo: approximately 0.1[4]
+- Absolute magnitude: 4.8 to 5.0[4]
+- Spectral type: B–V=0.95±0.03, V–R=0.63±0.03, V–I=1.25±0.04[4]
+
+Chaos will reach its perihelion (closest approach to the Sun) around December 2033, coming as close as 40 AU from Earth[4]. At this point, it is expected to reach its brightest magnitude of 20.8[4].
+
+The object was discovered in 1998 by the Deep Ecliptic Survey using Kitt Peak's 4-meter telescope[4]. Its name comes from the primeval state of existence in Greek mythology, from which the first gods appeared[4].
+
+It's worth noting that our understanding of Chaos's properties may evolve as more observations are made. The recent occultations, particularly the one in September 2023 observed by over 30 observers, may provide more precise information about its size, shape, and binary nature once the full results are analyzed and released[4].

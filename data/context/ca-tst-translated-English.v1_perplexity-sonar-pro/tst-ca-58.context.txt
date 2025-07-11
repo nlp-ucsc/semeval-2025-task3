@@ -1,0 +1,25 @@
+I apologize, but there appears to be a misunderstanding in your query. There is no such thing as an "interlaced arcade" in the context of video technology or gaming. The term "interlaced" is typically associated with video display technology, not arcade games or systems. Let me explain the concept of interlacing and how it relates to video displays:
+
+Interlacing is a technique used in video display technology, particularly in older television systems and some computer monitors. It's a method of doubling the perceived frame rate without increasing bandwidth[1][2]. Here's a more detailed explanation:
+
+1. Interlaced video:
+   Interlaced video, also known as interlaced scan, is a technique where a single video frame is split into two fields[1]. Each field contains half of the lines of the full frame - one field has all the odd-numbered lines, and the other has all the even-numbered lines[1].
+
+2. How it works:
+   - In an interlaced display, the screen refreshes in two passes.
+   - The first pass displays all odd-numbered lines from top to bottom.
+   - The second pass fills in the even-numbered lines[1].
+   - This process happens so quickly that the human eye perceives it as a single, complete image.
+
+3. Purpose:
+   Interlacing was developed to provide a higher perceived frame rate and reduce flicker on older CRT (Cathode Ray Tube) displays, while conserving bandwidth[1][2].
+
+4. Usage in television:
+   Interlaced video was widely used in analog television broadcasting. For example, in the NTSC system used in North America, 480i (480 interlaced lines) was the standard definition format[2].
+
+5. Modern displays:
+   Most modern displays, including LCD and LED screens, use progressive scan technology rather than interlacing. These displays show the entire frame in one pass, which generally provides better image quality, especially for fast-moving content[2].
+
+While arcades and arcade games don't directly relate to interlacing, it's worth noting that some older arcade machines may have used interlaced displays. However, this was more a function of the display technology available at the time rather than a specific feature of arcade systems.
+
+In the context of modern gaming and displays, progressive scan (non-interlaced) is generally preferred for its superior image quality and reduced motion artifacts.

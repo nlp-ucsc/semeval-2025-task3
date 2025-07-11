@@ -1,0 +1,20 @@
+According to the Julian calendar, the year 1382 started on a Wednesday[3]. 
+
+The Julian calendar, introduced by Julius Caesar in 45 BC, was the predominant calendar used in the Western world for over 1,600 years[1]. In this calendar system, each year consisted of 365 days, with an additional leap day added every four years without exception[1].
+
+To understand why 1382 began on a Wednesday, it's important to note a few key points about the Julian calendar:
+
+1. The Julian calendar had a consistent pattern of leap years, adding February 29th every four years[1][4].
+
+2. This regular pattern allows for the calculation of weekdays for historical dates with relative ease.
+
+3. The year 1382 was not a leap year in the Julian calendar.
+
+It's worth noting that while we can determine the day of the week for January 1, 1382 in the Julian calendar, the concept of January 1st as New Year's Day was not universally adopted at that time. In fact, different regions and cultures often used different dates to mark the beginning of the year[1]. For instance:
+
+- In Anglo-Saxon England, the year commonly began on December 25th[1].
+- In some places, March 25th (the Feast of the Annunciation) was considered the start of the year[1][2].
+
+However, for the purposes of calendar calculations and historical dating, January 1st is typically used as the reference point.
+
+When comparing this date to our current Gregorian calendar, it's important to remember that there is a discrepancy between the two systems. By 1582, when the Gregorian calendar was introduced, the Julian calendar had drifted about 10 days from the solar year[7]. This drift continued to increase over time, reaching 13 days by the 21st century[7].

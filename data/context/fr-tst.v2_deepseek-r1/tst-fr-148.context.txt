@@ -1,0 +1,15 @@
+Internet Explorer, développé par Microsoft, a été l'un des navigateurs web les plus populaires dans les années 1990 et au début des années 2000. Cependant, au fil du temps, il est devenu obsolète pour plusieurs raisons :
+
+1. **Manque de mises à jour et d'innovation** : Après sa domination du marché, Microsoft a ralenti le développement d'Internet Explorer, ne l'adaptant pas suffisamment aux nouvelles technologies et tendances du web moderne.
+
+2. **Problèmes de sécurité** : IE était connu pour ses failles de sécurité nombreuses, ce qui en faisait une cible pour les pirates et les logiciels malveillants.
+
+3. **Performance lente** : Par rapport à des navigateurs comme Chrome, Firefox ou Safari, Internet Explorer était souvent plus lent et moins réactif.
+
+4. **Incompatibilité avec les standards web** : IE avait des difficultés à respecter les standards du web (HTML5, CSS3, JavaScript), ce qui posait des problèmes d'affichage et de fonctionnalité sur de nombreux sites modernes.
+
+5. **Arrivée de concurrents performants** : L'émergence de navigateurs comme Google Chrome, Mozilla Firefox et Microsoft Edge a offert aux utilisateurs des alternatives plus rapides, plus sûres et plus compatibles avec les standards du web.
+
+6. **Abandon par Microsoft** : En 2016, Microsoft a officiellement annoncé la fin du support pour Internet Explorer (sauf pour certaines versions sur des systèmes d'exploitation spécifiques) et a orienté ses efforts vers son nouveau navigateur, Microsoft Edge.
+
+Ces facteurs ont conjugué pour rendre Internet Explorer obsolète et pousser les utilisateurs à adopter des navigateurs plus modernes et performants.

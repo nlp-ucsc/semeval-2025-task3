@@ -1,0 +1,23 @@
+The main causes of the Air France Flight 296 accident in 1988 were:
+
+1. Extremely low flyover altitude: The aircraft descended to a dangerously low altitude of about 30-40 feet, much lower than the planned 100 feet, putting it below the height of surrounding obstacles[1][2][3]. This low altitude left little room for error or recovery.
+
+2. Slow airspeed: The aircraft's speed dropped to only 112 knots, which is extremely slow for an A320[4]. This low speed, combined with the low altitude, made it difficult for the aircraft to gain altitude quickly when needed.
+
+3. Engine power at flight idle: The throttles were kept at idle power for too long, reducing the aircraft's ability to accelerate and climb rapidly when required[2][3].
+
+4. Late application of go-around power: The crew applied full power too late to avoid the collision with trees[1][2].
+
+5. Inadequate flight preparation: The crew received the flight plan on the morning of the accident, leaving little time for thorough preparation[1].
+
+6. Change in runway approach: The crew had to alter their approach at the last minute due to spectators being positioned on a different runway than expected, destabilizing their planned approach[1].
+
+7. Possible misreading of altitude: There's evidence suggesting the crew may have misinterpreted their actual altitude, believing they were higher than they actually were[2].
+
+8. Potential issues with the A320's fly-by-wire system: While controversial, some argue that the aircraft's computer systems may have contributed to the accident by overriding pilot inputs in the final moments[4][5].
+
+9. Environmental factors: The presence of a forest at the end of the runway, which from above looked like a continuation of the grass, may have contributed to the pilots' misjudgment[1].
+
+10. Lack of experience with demonstration flights: The crew had limited experience with this type of low-altitude, high-precision demonstration flying[1].
+
+It's important to note that while official reports primarily blamed pilot error, there remains controversy over the exact causes, with some arguing for greater emphasis on potential technical issues with the aircraft's systems[4][5].

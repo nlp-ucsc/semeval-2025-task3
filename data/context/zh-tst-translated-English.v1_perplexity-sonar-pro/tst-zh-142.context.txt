@@ -1,0 +1,41 @@
+Voice disorders encompass a wide range of medical conditions that affect a person's ability to produce normal speech sounds. These disorders can be categorized into several types based on their underlying causes and manifestations:
+
+## Structural Voice Disorders
+
+These disorders result from physical changes in the laryngeal anatomy:
+
+- **Vocal nodules**: Noncancerous growths on the vocal cords caused by vocal abuse[8].
+- **Vocal polyps**: Soft, noncancerous growths similar to blisters that cause hoarseness[8].
+- **Cysts**: Fluid-filled sacs on the vocal cords[5].
+- **Laryngocele**: Bulging air sacs in the voice box that can obstruct the airway or create hoarseness[4].
+
+## Neurogenic Voice Disorders
+
+These disorders are related to abnormalities in the nervous system's interaction with the larynx:
+
+- **Spasmodic dysphonia**: Involuntary spasms in the larynx muscles causing voice "breaks" or strained quality[5][8].
+- **Vocal tremor**: Shakiness in the voice caused by neurological disorders or medication side effects[5].
+- **Vocal cord paralysis/paresis**: Weakness or paralysis in one or both vocal cords due to nerve damage[3][5][8].
+
+## Functional Voice Disorders
+
+These are caused by improper use of the larynx without identifiable physical or neurological abnormalities:
+
+- **Vocal fatigue**: Caused by overuse of the voice[2].
+- **Muscle tension dysphonia**: Hypertonicity of laryngeal muscles limiting vocal fold movement[2].
+- **Diplophonia**: Production of two separate fundamental frequencies during phonation[2].
+- **Ventricular phonation**: False vocal folds become the primary vibratory surfaces[2].
+
+## Inflammatory Voice Disorders
+
+- **Laryngitis**: Inflammation of the vocal cords, causing hoarseness or loss of voice[4][7][8].
+- **Chronic cough**: Can lead to persistent voice changes[4].
+
+## Other Voice Disorders
+
+- **Dysphonia**: A general term for voice disorders causing changes in voice quality[4].
+- **Presbyphonia**: Age-related changes in vocal fold tissues and function[5].
+- **Paradoxical vocal cord motion disorder (PVCMD)**: Vocal cords close instead of opening during breathing[4].
+- **Resonance disorders**: Occur when the soft palate doesn't close properly against the back of the throat[5].
+
+Voice disorders can be caused by various factors, including vocal abuse, neurological conditions (e.g., Parkinson's disease, multiple sclerosis), respiratory infections, acid reflux, hormonal imbalances, and even certain medications[1][4][7][8]. Treatment approaches vary depending on the specific disorder and may include voice therapy, medication, or in some cases, surgical intervention.

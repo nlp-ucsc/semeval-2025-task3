@@ -1,0 +1,13 @@
+All curves that are called ovals share the following traits:
+
+1. **Closed and Continuous**: Ovals are closed curves, meaning they form a continuous loop without any breaks or endpoints.
+
+2. **Symmetry**: Ovals typically exhibit symmetry. While they may not always be perfectly symmetrical like an ellipse, they usually have at least one line of symmetry.
+
+3. **Smoothness**: Ovals are generally smooth curves, meaning they don't have sharp corners or sudden changes in direction.
+
+4. **Convexity**: Ovals are convex shapes. This means that any line segment connecting two points within the oval lies entirely inside the oval.
+
+5. **Single-Component Shape**: An oval is a single, uninterrupted curve that doesn't intersect itself.
+
+These traits collectively define what is commonly recognized as an oval shape, although the exact mathematical definition can vary depending on the context.

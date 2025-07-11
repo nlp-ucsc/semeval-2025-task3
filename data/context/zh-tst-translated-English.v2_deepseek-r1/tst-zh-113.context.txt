@@ -1,0 +1,21 @@
+**Semimajor Axis (a):** 2.195 AU
+
+**Eccentricity (e):** 0.149
+
+**Inclination (i):** 5.1°
+
+**Longitude of the Ascending Node (Ω):** 41.3°
+
+**Argument of Periapsis (ω):** 237.7°
+
+**Period (P):** 3.25 years
+
+**Mean Anomaly (M):** 354.7° (at the epoch of March 21, 2023)
+
+**Perihelion (q):** 1.870 AU
+
+**Aphelion (Q):** 2.520 AU
+
+**Absolute Magnitude (H):** 13.7
+
+**Diameter:** ~4.4 km (assuming an albedo of 0.15)

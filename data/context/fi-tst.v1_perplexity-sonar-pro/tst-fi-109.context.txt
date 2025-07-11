@@ -1,0 +1,12 @@
+Canon EOS 70D -kamerassa on 20.2 megapikselin APS-C CMOS -kenno[1][2][4]. Tarkemmat tiedot kennosta ovat:
+
+- Koko: 22.5 x 15.0 mm (APS-C)[2][4][5]
+- Efektiiviset pikselit: noin 20.2 megapikseliä[1][2][4]
+- Kokonaispikselimäärä: noin 20.9 megapikseliä[2][4]
+- Kuvasuhde: 3:2[4]
+- Alipäästösuodatin: Kiinteä, fluoriinipinnoitteella[4]
+- Värisuodatintyyppi: Päävärit[4]
+
+Kenno on yhdistetty DIGIC 5+ -kuvaprosessoriin, mikä mahdollistaa 14-bittisten kuvien tuottamisen erinomaisella yksityiskohtaisuudella ja selkeydellä[1]. Tämä yhdistelmä tarjoaa erinomaisen kuvanlaadun ja mahdollistaa jopa ISO 12800 -herkkyyden (laajennettavissa ISO 25600:aan), mikä auttaa vähentämään kohinaa hämärässä kuvatessa[1][8].
+
+Kameran kenno hyödyntää myös Canonin Dual Pixel CMOS AF -teknologiaa, joka mahdollistaa nopean ja tarkan automaattitarkennuksen videokuvauksessa ja live view -tilassa[1][7].

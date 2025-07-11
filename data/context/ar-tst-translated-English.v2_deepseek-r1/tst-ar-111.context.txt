@@ -1,0 +1,8 @@
+Pleiotropy can be referred to as:
+
+1. **Pleiotropism** - Although less commonly used, it is another term for pleiotropy.
+2. **Multiple Effects** - This term is often used to describe the phenomenon where one gene affects multiple traits.
+3. **Multifactorial Effects** - Suggests that one factor (like a gene) influences multiple outcomes or traits.
+4. **Polypheny** - Sometimes used interchangeably, though it can have slightly different connotations depending on the context.
+
+These terms all describe the genetic phenomenon where a single gene influences multiple, seemingly unrelated phenotypic traits.

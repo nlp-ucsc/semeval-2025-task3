@@ -1,0 +1,31 @@
+Observational cosmology focuses on studying the origin, evolution, structure, and properties of the universe through astronomical observations and data collection. Key aspects of observational cosmology include:
+
+## Large-Scale Structure and Distribution of Matter
+
+Observational cosmologists map the large-scale structure of the universe by studying the distribution of galaxies and galaxy clusters[1][2]. This helps reveal how matter is organized on cosmic scales and provides insights into the processes of structure formation driven by gravity and cosmic expansion[2].
+
+## Dark Matter and Dark Energy
+
+A major focus is investigating the nature and effects of dark matter and dark energy, which together are thought to make up about 95% of the universe's content[4]. Observational techniques are used to detect the gravitational influence of dark matter and measure the accelerating expansion attributed to dark energy[2][4].
+
+## Cosmic Microwave Background (CMB)
+
+Studying the cosmic microwave background radiation provides a snapshot of the early universe about 380,000 years after the Big Bang[4]. CMB observations offer crucial data on the universe's early conditions, composition, and evolution[5].
+
+## Gravitational Lensing
+
+Observational cosmologists use gravitational lensing effects to map dark matter distributions and probe the expansion history of the universe[2][6]. This technique allows for indirect observations of invisible matter through its gravitational effects on light from distant sources.
+
+## Baryon Acoustic Oscillations (BAO)
+
+Measuring the characteristic scale of baryon acoustic oscillations in the distribution of galaxies serves as a "standard ruler" for determining cosmic distances and probing the expansion history of the universe[6].
+
+## High-Energy Phenomena
+
+Observations of high-energy events like supernovae, gamma-ray bursts, and black hole activity provide insights into extreme cosmic environments and the physics of the early universe[2][3].
+
+## Technological Advancements
+
+Observational cosmology relies heavily on advancing telescope and detector technologies. Projects like the Hyper Suprime-Cam (HSC), Sloan Digital Sky Survey (SDSS), and upcoming missions like the Vera C. Rubin Observatory are expanding our observational capabilities[2][6].
+
+By combining these various observational techniques and data sets, cosmologists work to construct and refine comprehensive models of the universe's history, composition, and future evolution[1][4]. This field continues to push the boundaries of our understanding of the cosmos, addressing fundamental questions about the nature of space, time, and the physical laws governing our universe.

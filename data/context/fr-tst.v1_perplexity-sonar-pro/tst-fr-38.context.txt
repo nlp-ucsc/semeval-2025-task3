@@ -1,0 +1,23 @@
+Je n'ai pas d'informations spécifiques sur l'orbite d'un objet nommé "Rou" dans les résultats de recherche fournis. Cependant, je peux vous expliquer comment une orbite est généralement caractérisée, en me basant sur les informations données pour les orbites en général.
+
+Une orbite est typiquement caractérisée par plusieurs paramètres clés :
+
+1. Demi-grand axe : Il représente la moitié de la distance entre le point le plus proche (périastre) et le point le plus éloigné (apoastre) de l'orbite[4]. Cette mesure définit la taille absolue de l'orbite.
+
+2. Excentricité : Elle mesure la déviation de l'orbite par rapport à un cercle parfait. Une excentricité de 0 indique une orbite circulaire, tandis qu'une valeur entre 0 et 1 indique une orbite elliptique[4].
+
+3. Inclinaison : C'est l'angle formé entre le plan orbital et le plan de référence (généralement l'équateur pour les orbites terrestres)[4][9].
+
+4. Longitude du nœud ascendant : Elle correspond à l'angle entre une direction de référence et la ligne des nœuds (l'intersection entre le plan orbital et le plan de référence)[4].
+
+5. Argument du périastre : C'est l'angle formé par la ligne des nœuds et la direction du point le plus proche de l'objet central dans le plan orbital[4].
+
+6. Position de l'objet sur son orbite : Généralement exprimée par l'anomalie vraie, qui est l'angle entre la direction du périastre et la position actuelle de l'objet[4].
+
+En plus de ces paramètres orbitaux, d'autres caractéristiques importantes incluent :
+
+- Période orbitale : Le temps nécessaire pour effectuer une révolution complète[1].
+- Altitude : La distance entre l'objet en orbite et la surface de l'objet central[10].
+- Vitesse orbitale : La vitesse à laquelle l'objet se déplace sur son orbite, qui peut varier selon sa position[9].
+
+Sans informations spécifiques sur "Rou", il n'est pas possible de fournir les valeurs exactes de ces paramètres pour son orbite. Pour caractériser précisément l'orbite d'un objet spécifique, il faudrait disposer de données observationnelles ou de spécifications techniques détaillées.

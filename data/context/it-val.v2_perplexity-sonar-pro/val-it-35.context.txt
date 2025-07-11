@@ -1,0 +1,5 @@
+Il logo che appare nella start page di Windows Neptune è preso da Windows 2000[1]. Specificamente, il logo di Windows Neptune consiste nella parte sinistra del classico logo a bandiera di Windows, con un effetto gradiente arcobaleno. Accanto ad esso appare la scritta "Microsoft Neptune"[7].
+
+Questo logo rappresenta un'evoluzione del design utilizzato in Windows 2000, adattato per il nuovo progetto Neptune. Neptune era infatti concepito come un successore consumer-oriented di Windows 2000, basato sullo stesso kernel NT[5]. Sebbene Neptune sia stato poi cancellato, molti dei suoi elementi di design e funzionalità sono stati successivamente incorporati in Windows XP[5].
+
+È interessante notare che, nonostante Neptune fosse un progetto separato, manteneva una continuità visiva con Windows 2000 attraverso l'uso di elementi grafici simili. Questo approccio sottolinea il fatto che Neptune era visto come un'evoluzione della linea Windows NT, piuttosto che come un prodotto completamente nuovo.

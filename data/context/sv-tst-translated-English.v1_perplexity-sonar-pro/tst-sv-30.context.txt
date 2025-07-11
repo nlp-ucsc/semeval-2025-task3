@@ -1,0 +1,28 @@
+Hylarana elberti, also known as Papurana elberti or the Lesser Sundas frog, is a species of true frog native to Indonesia and Timor-Leste[1][4]. This amphibian is specifically found on the islands of Timor and Wetar in the Lesser Sunda Islands[1].
+
+## Taxonomy and Classification
+
+The species was originally described as Hylarana elberti, but recent taxonomic revisions have led to changes in its classification:
+
+1. It is currently placed in the genus Papurana, although this placement is considered provisional[1].
+2. The species belongs to the family Ranidae, which includes true frogs[2].
+3. Its full scientific classification is as follows:
+   - Kingdom: Animalia
+   - Phylum: Chordata
+   - Class: Amphibia
+   - Order: Anura
+   - Family: Ranidae
+   - Genus: Papurana (provisionally)
+   - Species: Papurana elberti
+
+It's worth noting that the taxonomic placement of this species is still under scrutiny. A 2015 molecular study split the previously diverse genus Hylarana into several genera, but P. elberti was not included in this study. As a result, its placement in Papurana is awaiting confirmation through further morphological and molecular data[1].
+
+## Etymology and Naming
+
+The specific name "elberti" honors Johannes Elbert, a German naturalist who participated in an expedition to the Lesser Sunda Islands and Sulawesi in 1910[1]. The common name "Lesser Sundas frog" has been proposed for this species[1][4].
+
+## Conservation Status
+
+The International Union for Conservation of Nature (IUCN) has assessed Papurana elberti, but it's important to note that the assessment is from 2004 and may not reflect the most current understanding of its range and status[1]. More recent sources suggest a potentially different distribution than what was previously thought.
+
+In conclusion, Hylarana elberti (now Papurana elberti) is a frog species with an interesting taxonomic history, native to specific islands in Indonesia and Timor-Leste. Its classification and conservation status are subjects of ongoing research and assessment in the field of herpetology.

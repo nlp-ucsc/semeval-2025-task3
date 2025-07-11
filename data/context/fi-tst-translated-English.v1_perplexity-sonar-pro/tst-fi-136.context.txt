@@ -1,0 +1,26 @@
+Muscarine exerts its toxic effects primarily by acting as a potent agonist of muscarinic acetylcholine receptors in the parasympathetic nervous system. The key aspects of muscarine's toxicity mechanism are:
+
+1. Receptor binding: Muscarine mimics the action of the neurotransmitter acetylcholine by binding to and activating muscarinic acetylcholine receptors[1]. These receptors were named after muscarine due to its high affinity for them.
+
+2. Parasympathetic overstimulation: By activating muscarinic receptors, muscarine causes excessive stimulation of the parasympathetic nervous system[1][4]. This leads to a range of physiological effects across multiple organ systems.
+
+3. Cholinergic toxidrome: The overstimulation of muscarinic receptors results in a characteristic set of symptoms known as the cholinergic toxidrome or SLUDGE syndrome (Salivation, Lacrimation, Urination, Defecation, Gastrointestinal distress, and Emesis)[5][7].
+
+4. Rapid onset: Muscarine poisoning typically manifests quickly, with symptoms appearing within 15 minutes to 2 hours after ingestion[2][4].
+
+5. Peripheral effects: As a quaternary ammonium compound, muscarine does not readily cross the blood-brain barrier[1]. Therefore, its effects are primarily limited to the peripheral nervous system.
+
+6. Specific physiological impacts:
+   - Cardiovascular: Bradycardia (slowed heart rate) and hypotension[1][4]
+   - Respiratory: Bronchoconstriction and increased bronchial secretions[1][4]
+   - Gastrointestinal: Increased motility, abdominal cramping, and diarrhea[1][4]
+   - Exocrine glands: Excessive salivation, sweating, and lacrimation[1][4]
+   - Eyes: Miosis (pupil constriction) and blurred vision[1][4]
+
+7. Dose-dependent severity: The intensity of symptoms correlates with the amount of muscarine ingested. High doses can lead to severe effects, including circulatory collapse and potentially death[1][7].
+
+8. Persistence of action: Unlike acetylcholine, muscarine is not degraded by acetylcholinesterase enzymes[4]. This allows it to have a more prolonged effect at receptor sites.
+
+9. Treatment approach: The toxicity of muscarine can be effectively counteracted by anticholinergic drugs like atropine, which block muscarinic receptors[2][4].
+
+Understanding this mechanism of toxicity is crucial for diagnosing and treating muscarine poisoning, which can occur from ingestion of certain mushroom species, particularly those in the Inocybe and Clitocybe genera[1][2].

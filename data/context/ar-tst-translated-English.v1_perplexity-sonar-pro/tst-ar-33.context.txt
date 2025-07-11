@@ -1,0 +1,7 @@
+Progeria was first described in 1886 by Jonathan Hutchinson[1][5][7]. It was then independently described in 1897 by Hastings Gilford[1][5][7]. Due to their contributions, the condition was later named Hutchinson-Gilford progeria syndrome (HGPS)[1][5].
+
+Jonathan Hutchinson was an English surgeon and pathologist who initially documented the condition in 1886[7]. Hastings Gilford, also an English surgeon, provided a more detailed description of the syndrome in 1897, building upon Hutchinson's initial observations[1][5].
+
+The term "progeria" itself comes from the Greek words "pro" meaning "before" or "premature," and "gēras" meaning "old age"[1]. This name aptly describes the condition's hallmark feature of accelerated aging in children.
+
+It's worth noting that while Hutchinson and Gilford were the first to formally describe and name the condition, our understanding of progeria has greatly advanced since their time. In 2003, researchers discovered that progeria is caused by a mutation in the LMNA gene, which produces the lamin A protein crucial for cell nucleus structure[1][5]. This genetic discovery has been pivotal in advancing research into potential treatments for this rare and devastating condition.

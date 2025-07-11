@@ -1,0 +1,5 @@
+The chemical compound used by German submarines as a sonar decoy during World War II was **Ferroxene**. 
+
+Ferroxene is a mixture of very fine iron and carbon particles. When deployed in the water, these particles form a cloud that scatters and absorbs sound waves, thereby creating a decoy or "bubble" effect. This interfered with the sonar (Sound Navigation and Ranging) technology used by Allied forces to detect and track submarines. By releasing Ferroxene, German U-boats could create false targets or obscure their actual position, making it more difficult for enemies to target them effectively.
+
+The use of such decoys was part of the broader cat-and-mouse technological race during the Battle of the Atlantic, as both sides sought to improve their submarine detection and evasion techniques.

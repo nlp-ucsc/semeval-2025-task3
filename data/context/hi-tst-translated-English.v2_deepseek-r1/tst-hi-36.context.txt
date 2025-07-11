@@ -1,0 +1,13 @@
+The ITU-T Q.1200 series recommendations are related to the Intelligent Network (IN) signaling protocols used in telecommunications. Specifically, these recommendations outline the procedures and protocols for various intelligent network services and supplementary services in public switched telephone networks (PSTN) and integrated services digital networks (ISDN).
+
+The devices that use the Q.1200 series of recommendations are primarily:
+
+1. **SSP (Service Switching Point):** These are the switches in the PSTN or ISDN that recognize when a call requires Intelligent Network (IN) services and trigger the necessary actions.
+
+2. **SCP (Service Control Point):** These are centralized databases that store the service logic and data needed for providing various IN services. The SCP communicates with the SSP using the protocols defined in the Q.1200 series.
+
+3. **SDF (Service Data Function):** This component is responsible for maintaining and providing the necessary service data to other components in the IN architecture.
+
+4. **SFP (Service Feature Server):** In some architectures, this component may also be involved in executing specific service features, communicating with other IN components as per the Q.1200 standards.
+
+These devices work together in the Intelligent Network to provide advanced telecommunication services such as number translation, call forwarding, prepaid calling cards, and other value-added services efficiently.

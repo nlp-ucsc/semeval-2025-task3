@@ -1,0 +1,45 @@
+Esistono diverse tipologie di disturbi del linguaggio, che possono essere classificate in vari modi a seconda dei criteri utilizzati. Basandomi sulle informazioni fornite, posso delineare le principali categorie:
+
+## Classificazione generale
+
+I disturbi del linguaggio si dividono principalmente in due macro-categorie:
+
+1. Disturbi primari (o specifici): Questi sono indipendenti da altri problemi cognitivi, relazionali, neuromotori o sensoriali[10].
+
+2. Disturbi secondari: Derivano da altre condizioni come lesioni cerebrali, autismo, ADHD, ecc[10].
+
+## Tipologie specifiche
+
+All'interno di queste macro-categorie, possiamo identificare diverse tipologie specifiche:
+
+### Disturbi specifici del linguaggio (DSL)
+
+1. Disturbo fonologico isolato: Colpisce solo la componente fonetica e fonologica del linguaggio[10].
+2. Ritardo specifico espressivo: Influenza tutte le componenti espressive, ma lascia intatta la comprensione[10].
+3. Disturbo specifico espressivo: Colpisce tutte le componenti espressive e causa anche un deficit di comprensione[10].
+4. Disturbo specifico recettivo ed espressivo: Influenza sia le componenti espressive che quelle di comprensione[10].
+
+### Altre classificazioni
+
+Secondo il DSM-5, i disturbi della comunicazione includono:
+
+1. Disturbo del linguaggio[1][3].
+2. Disturbo fonetico-fonologico[1][3][9].
+3. Disturbo della fluenza con esordio nell'infanzia (balbuzie)[1][3][9].
+4. Disturbo della comunicazione sociale (pragmatica)[1][3][9].
+
+### Ulteriori distinzioni
+
+- Disturbo del linguaggio espressivo: Difficoltà nell'articolare pensieri, idee o sentimenti attraverso le parole[6].
+- Disturbo del linguaggio ricettivo: Problemi nella comprensione di ciò che viene detto[6].
+- Afasia: Un disturbo del linguaggio che colpisce gli adulti, spesso a seguito di ictus o lesioni cerebrali[3].
+- Mutismo selettivo: Una condizione in cui un bambino è in grado di parlare normalmente in alcune situazioni ma non in altre[3].
+
+## Classificazioni basate su aspetti linguistici
+
+I disturbi possono anche essere classificati in base agli aspetti linguistici coinvolti:
+
+- Componenti formali linguistiche: Fonetica, fonologia, semantica, morfologia, sintassi[5].
+- Aspetti funzionali: Pragmatica, dialogica, discorsiva, narrativa[5].
+
+In conclusione, la classificazione dei disturbi del linguaggio è complessa e multiforme, riflettendo la complessità stessa del linguaggio umano. Le varie tipologie possono sovrapporsi e manifestarsi in modi diversi a seconda dell'individuo, rendendo essenziale un approccio personalizzato nella diagnosi e nel trattamento.

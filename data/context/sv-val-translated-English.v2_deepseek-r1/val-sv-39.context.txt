@@ -1,0 +1,13 @@
+Under the Vienna Convention on Diplomatic Relations, 1961, diplomatic missions are broadly categorized into four classes:
+
+1. **Embassy**: This is the highest-ranking diplomatic mission, typically representing one sovereign state in another. It is headed by an Ambassador, who is the highest-ranking diplomat and represents the head of state of the sending country.
+
+2. **High Commission**: This is similar to an embassy but is specifically used by member states of the Commonwealth of Nations when they establish diplomatic missions in each other's countries. It is also headed by a High Commissioner.
+
+3. **Legation**: Historically, a legation was a diplomatic mission lower in rank than an embassy, often headed by a Minister (or Envoy Extraordinary and Minister Plenipotentiary) rather than an Ambassador. The use of legations has largely fallen out of practice, especially since the general upgrading of missions to embassy status after World War II.
+
+4. **Chargé d'Affaires**: This is not a mission but represents a lower level of diplomatic representation. A Chargé d'Affaires ad interim is an officer who temporarily heads a diplomatic mission in the absence of the Ambassador or Minister. A Chargé d'Affaires en pied is a junior officer who is appointed as the head of a mission that is not raised to the level of an embassy or legation.
+
+Additionally, there are also **Consulates**, which are not technically part of the diplomatic mission hierarchy under the Vienna Convention but serve specific functions related to trade, commerce, and assistance to citizens abroad. Consulates are classified separately and operate under the Vienna Convention on Consular Relations, 1963.
+
+In summary, while the primary classes of diplomatic missions are Embassy, High Commission, and Legation, the Chargé d'Affaires represents a temporary or lower-level representation. Consulates, on the other hand, serve distinct roles and are governed by a different convention.

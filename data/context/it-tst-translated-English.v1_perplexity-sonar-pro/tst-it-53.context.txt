@@ -1,0 +1,13 @@
+The Nintendo Classic Mini: Nintendo Entertainment System (NES Classic Edition) offers three display modes that you can choose from[1][2]:
+
+1. Pixel Perfect: This mode renders each pixel as a perfect square, allowing you to see the games exactly as they were designed. It provides the most accurate representation of the original graphics[1][2].
+
+2. 4:3 Mode: This setting gives you the original NES game look with a slight horizontal stretch. It matches the aspect ratio that most original NES gamers would be familiar with when playing on a cathode ray tube (CRT) television[1][2].
+
+3. CRT Filter: This mode is designed to replicate the authentic look of playing on an old television set. It adds simulated scan lines to mimic the appearance of a CRT display, providing a nostalgic feel for those who want to experience the games as they remember them from the 1980s[1][2].
+
+You can easily switch between these display modes from the HOME Menu. Simply go to the menu bar at the top of the screen and select the Display icon. Use the +Control Pad to highlight your preferred display mode and press A to select it. The new display mode will be visible when you start or resume a game[2].
+
+Additionally, the system allows you to choose different background frames to surround the game display, further customizing your visual experience[2][3].
+
+These display options give players the flexibility to enjoy their favorite NES games in a way that best suits their preferences, whether they want pixel-perfect accuracy or a more nostalgic, retro feel.

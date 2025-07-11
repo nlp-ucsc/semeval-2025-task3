@@ -1,0 +1,29 @@
+La pleiotropía es un fenómeno genético en el que un solo gen influye en múltiples características fenotípicas aparentemente no relacionadas en un organismo[1][2]. Algunas características clave de la pleiotropía son:
+
+- Un único gen afecta a diversos rasgos fenotípicos en el mismo organismo[1].
+
+- Los rasgos afectados por el gen pleiotrópico suelen no estar relacionados entre sí[1].
+
+- Se produce cuando un mismo gen se activa en diferentes tejidos, generando efectos distintos[1].
+
+- Es un fenómeno común, ya que la mayoría de los genes tienen efectos en más de un tejido[1].
+
+La pleiotropía tiene importantes implicaciones:
+
+1. En enfermedades genéticas: Muchos trastornos genéticos exhiben pleiotropía, causando múltiples síntomas aparentemente no relacionados[2]. Por ejemplo:
+
+   - El síndrome de Marfan, causado por una mutación en el gen FBN1, afecta el tejido conectivo y produce anomalías esqueléticas, oculares y cardiovasculares[1].
+   
+   - La anemia falciforme, que afecta la hemoglobina, causa problemas en los glóbulos rojos y otros síntomas[1].
+
+2. En la evolución: La pleiotropía puede influir en los cambios correlativos durante la evolución. Si un rasgo controlado por un gen pleiotrópico es seleccionado, otros rasgos asociados también se verán afectados[6].
+
+3. En el desarrollo: Genes pleiotrópicos como SOX10 pueden afectar múltiples procesos de desarrollo, influyendo en diversos fenotipos como la pigmentación, audición y función intestinal[2].
+
+Es importante destacar que la pleiotropía difiere de otros conceptos genéticos:
+
+- No es lo mismo que la epistasis, que se refiere a la interacción entre diferentes genes[8].
+
+- Se distingue de la heterogeneidad de locus, donde mutaciones en genes distintos causan la misma enfermedad[3].
+
+En resumen, la pleiotropía es un concepto fundamental en genética que destaca la complejidad de las relaciones entre genes y características fenotípicas, teniendo importantes implicaciones en la comprensión de enfermedades genéticas, el desarrollo y la evolución.

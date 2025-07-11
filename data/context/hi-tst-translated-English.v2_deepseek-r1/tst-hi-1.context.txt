@@ -1,0 +1,5 @@
+Newton's law of gravitation is based on his **Third Law of Motion**, which states that every action has an equal and opposite reaction. 
+
+When two masses interact, each exerts a gravitational force on the other, and these forces are equal in magnitude and opposite in direction. However, the fundamental basis of gravity as a force is described by **Newton's Law of Universal Gravitation**, which is derived from his understanding of the forces and motions, particularly the Third Law. 
+
+So, while gravity is a force that is explained by the **Law of Universal Gravitation**, it adheres to the principles outlined in Newton's Three Laws of Motion, especially the Third Law.

@@ -1,0 +1,12 @@
+Muhammad ibn Musa al-Khwarizmi, the renowned Persian mathematician and astronomer, compiled his astronomical tables under the name "Zij al-Sindhind"[3][7]. Al-Khwarizmi lived from around 780 to 850 AD and worked at the House of Wisdom in Baghdad during the Islamic Golden Age[1][7].
+
+The "Zij al-Sindhind" was a significant work in astronomy that contained detailed tables for calculating the positions of celestial bodies such as the sun, moon, planets, and stars[1][2]. This work was based on various Hindu and Greek sources, demonstrating al-Khwarizmi's ability to synthesize knowledge from different traditions[3].
+
+Some key points about al-Khwarizmi's astronomical work include:
+
+1. It included a table of sines for a circle with a radius of 150 units[3].
+2. The tables provided information on calendars, eclipse calculations, and the positions of celestial bodies[2].
+3. While the original Arabic version of the "Zij al-Sindhind" has been lost, Latin translations have been preserved, allowing its influence to spread to Europe[2][3].
+4. Al-Khwarizmi's astronomical work played a crucial role in the development of astronomy in the Islamic world and later in Europe[1].
+
+It's worth noting that al-Khwarizmi made numerous other contributions to astronomy beyond the "Zij al-Sindhind." He wrote on various astronomical topics, including the construction and use of astrolabes, and supervised a project to determine the Earth's circumference[4][7]. His work in astronomy, along with his groundbreaking contributions to algebra and geography, solidified his position as one of the most influential scholars of the Islamic Golden Age.

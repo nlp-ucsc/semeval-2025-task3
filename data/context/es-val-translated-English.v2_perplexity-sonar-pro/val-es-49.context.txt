@@ -1,0 +1,24 @@
+Fungi of the order Erysiphales, commonly known as powdery mildews, primarily affect plants. These fungi are obligate plant parasites that infect a wide range of plant species[1][3][4]. Specifically:
+
+1. Host range: Powdery mildews can infect an estimated 7,600 plant species[2]. They have a nearly cosmopolitan distribution, affecting plants across the globe[3].
+
+2. Agricultural impact: Powdery mildews are significant plant pathogens that affect the quality and quantity of many economically important crops, including:
+   - Food plants
+   - Forage crops
+   - Ornamental plants[4]
+
+3. Plant parts affected: These fungi typically infect the aerial parts of plants, primarily:
+   - Leaves
+   - Stems
+   - In some cases, fruits[3][4]
+
+4. Diverse plant families: Powdery mildews can infect plants from various families. For example:
+   - The genus Podosphaera, which belongs to the Erysiphales, has a strong association with the Rosaceae family. About 86% of hosts for the section Podosphaera and 57% of hosts for the subsection Sphaerotheca belong to Rosaceae[5].
+   - Other plant families affected include Asteraceae, Fabaceae, Cucurbitaceae, and many more[1][6].
+
+5. Specific examples:
+   - Erysiphe cruciferarum can infect plants in the Capparaceae family, such as Cleome hassleriana[1].
+   - Podosphaera erigerontis-canadensis causes powdery mildew on dandelion (Taraxacum spp.)[2].
+   - Various Erysiphe species can infect plants like Celosia argentea (Amaranthaceae), Prunus cerasifera (Rosaceae), and Sedum species (Crassulaceae)[1].
+
+It's important to note that while powdery mildews have a broad host range, individual species or races of these fungi often have more specialized host preferences. The relationship between powdery mildews and their plant hosts is the result of a long evolutionary history, with evidence suggesting close but complex evolutionary relationships between the fungi and their host plants[5][9].

@@ -1,0 +1,23 @@
+The RGB code for International Klein Blue (IKB) is R: 0, G: 47, B: 167[1][2].
+
+To break this down further:
+
+- Red (R): 0
+- Green (G): 47
+- Blue (B): 167
+
+This RGB combination creates the deep, vibrant blue that is characteristic of International Klein Blue. In percentage terms, it can be expressed as 0% red, 18.4% green, and 65.5% blue[1].
+
+Some additional details about International Klein Blue:
+
+1. Hex code: The hexadecimal color code for IKB is #002FA7[1][2].
+
+2. CMYK values: In the CMYK color space, IKB is composed of 100% cyan, 72% magenta, 0% yellow, and 35% black[1].
+
+3. HSL values: In the HSL color space, IKB has a hue angle of 223.1 degrees, 100% saturation, and 32.7% lightness[1].
+
+4. Color description: IKB is often described as a dark, intense blue[1].
+
+5. Historical significance: This color was developed by French artist Yves Klein in the late 1950s and registered in 1960[2]. It combines ultramarine blue pigment with a specific binder, creating a unique and vibrant blue that became central to Klein's artistic work[2].
+
+International Klein Blue is known for its depth and intensity, often evoking feelings of infinity and transcendence. It has been used extensively in art, design, and even fashion due to its striking visual impact[6].

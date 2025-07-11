@@ -1,0 +1,9 @@
+La diagnosi del diabete mellito si basa su specifici valori della glicemia a digiuno misurati in mg/dl. Ecco i criteri diagnostici:
+
+1. **Glicemia a digiuno ≥ 126 mg/dl**: Un valore superiore o uguale a 126 mg/dl conferma la presenza del diabete. Questo parametro è utilizzato dialogRef delle linee guida internazionali.
+
+2. **Valori tra 100 e 125 mg/dl**: Se il valore si trova in questa fascia, si.diagnosi una condizione prediabetica, chiamata "alterazione della glicemia a digiuno" (IFG). Ciò indica un rischio aumentato per lo sviluppo del diabete tipo 2.
+
+Inoltre, può essere utilizzato anche il test dell'emoglobina glicata (HbA1c) che, se superiore o uguale al 6,5%, conferma il diabete. 
+
+Diagnosi altre, una volta confermata, richiede ulteriori accertamenti per determinarne il tipo (1, 2, gestazionale, etc.) e stabilire il piano terapeutico adeguato.

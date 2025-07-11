@@ -1,0 +1,15 @@
+Yes, the Arts and Humanities Citation Index (AHCI) is indeed still maintained and updated by Clarivate Analytics. This can be confirmed based on the following information from the search results:
+
+1. The AHCI is part of the Web of Science Core Collection, which is a comprehensive citation database covering multiple disciplines[1][7].
+
+2. As of recent data, the AHCI indexes approximately 1,800 journals across 28 arts and humanities disciplines[8][9]. It contains over 4.9 million records and 33.4 million cited references, with coverage dating back to 1975[9].
+
+3. The AHCI covers a wide range of subjects including archaeology, art, architecture, Asian studies, classics, dance, folklore, history, language, linguistics, literary reviews, literature, music, philosophy, poetry, radio, television, film, religion, and theatre[5].
+
+4. Recent updates to the Journal Citation Reports (JCR) by Clarivate have included the addition of profile pages for journals indexed in the AHCI[6]. This indicates ongoing maintenance and development of the index.
+
+5. In 2023, Clarivate expanded the Journal Impact Factor (JIF) to include AHCI journals, further demonstrating the continued relevance and maintenance of the index[6].
+
+6. The AHCI is accessible through the Web of Science platform, which is described as "the world's most trusted publisher-independent global citation database"[9].
+
+This information confirms that the AHCI is not only still maintained but is also being actively updated and integrated into Clarivate's broader citation analysis tools and metrics.

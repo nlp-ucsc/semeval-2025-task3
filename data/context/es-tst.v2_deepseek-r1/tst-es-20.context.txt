@@ -1,0 +1,17 @@
+La cosmología observacional es una rama de la astronomía que estudia el origen, estructura y evolución del universo a través de observaciones directas y mediciones. En lugar de centrarse exclusivamente en modelos teóricos, la cosmología observacional se basa en datos empíricos obtenidos mediante telescopios, satélites y otras tecnologías. Algunos de los temas clave que estudia incluyen:
+
+1. **La expansión del universo**: A través del estudio de la velocidad a la que las galaxias y otras estructuras cósmicas se alejan de nosotros, los cosmólogos observacionales pueden medir la tasa de expansión del universo y cómo ha cambiado con el tiempo.
+
+2. **La radiación cósmica de fondo de microondas (RCFM)**: El residuo del calor del Big Bang, esta radiación es fundamental para entender las condiciones iniciales del universo y confirmar modelos cosmológicos.
+
+3. **Las estructuras a gran escala**: El estudio de la distribución de galaxias, cúmulos de galaxias y otras estructuras a gran escala del universo ayuda a comprender cómo la materia se organizó después del Big Bang.
+
+4. **La materia oscura y la energía oscura**: Aunque no se pueden ver directamente, sus efectos en la dinámica del universo y su expansión acelerada son objeto de intensas observaciones.
+
+5. **Supernovas y estándares candles**: El estudio de estas explosiones estelares se utiliza para medir distancias cósmicas y entender la expansión acelerada del universo, lo que ha llevado a la propuesta de la energía oscura.
+
+6. **El estudio del universo temprano**: Observando objetos muy distantes, como cuásares y galaxias lejanas, los científicos pueden inferir cómo se formaron las primeras estructuras después del Big Bang.
+
+7. **Los agujeros negROS supermasivos**: Su presencia en los núcleos galácticos y su influencia en la evolución de las galaxias son objeto de estudio en cosmología observacional.
+
+En resumen, la cosmología observacional utiliza observaciones para probar teorías, refinar modelos y descubrir nuevos fenómenos que enriquecen nuestra comprensión del cosmos.

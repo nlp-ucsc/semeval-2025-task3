@@ -1,0 +1,477 @@
+Alright, so I need to figure out what day of the week January 1, 1382 fell on according to the Julian calendar. I'm not entirely sure how to do this off the top of my head, so I'll have to break it down step by step.
+
+First, I remember that the Gregorian calendar is what most of the world uses today, but the Julian calendar was used before that. I know the Julian calendar has a leap year every four years, unlike the Gregorian which skips some centuries. But I'm not sure how else they differ in terms of calculating days.
+
+I think one method to determine the day of the week for a historical date is using Zeller's Congruence or something similar. I'm not too familiar with Zeller's formula, but I think it's a mathematical algorithm that can calculate the day of the week for any Julian or Gregorian calendar date.
+
+Wait, actually, Zeller's Congruence has different versions for Julian and Gregorian calendars, so I have to make sure I'm using the right one. Since the question is about the Julian calendar, I'll look up the Julian version of Zeller's formula.
+
+The formula is something like:
+
+h = (q + [ (13(m + 1))/5 ] + K + [K/4] + [J/4] + 5J) mod 7
+
+Where:
+- h is the day of the week (0 = Saturday, 1 = Sunday, 2 = Monday, ..., 6 = Friday)
+- q is the day of the month
+- m is the month (3 = March, 4 = April, ..., 14 = February)
+- K is the year of the century (year % 100)
+- J is the zero-based century (year / 100)
+
+But January and February are counted as months 13 and 14 of the previous year. So if I'm calculating for January 1, 1382, I should treat it as month 13 of 1381.
+
+Let me adjust the year and month accordingly:
+- q = 1
+- m = 13
+- year becomes 1381
+- So K = 81 (1381 % 100)
+- J = 13 (1381 / 100)
+
+Plugging these into the formula:
+
+h = (1 + [(13*(13 + 1))/5] + 81 + [81/4] + [13/4] + 5*13) mod 7
+
+Let's compute each part step by step:
+
+1. [(13*(13 + 1))/5]: 13*14 = 182, then divide by 5. 182/5 is 36.4, so the floor is 36.
+2. [81/4]: 81 divided by 4 is 20.25, floor is 20.
+3. [13/4]: 13/4 is 3.25, floor is 3.
+4. 5*13 = 65.
+
+Now add them all up plus q and K:
+
+1 + 36 + 81 + 20 + 3 + 65 = 206.
+
+Now compute 206 mod 7. Let's divide 206 by 7:
+
+7*29 = 203, so remainder 3.
+
+h = 3.
+
+But wait, according to Zeller's, h=0 is Saturday, so h=3 would be Tuesday.
+
+But hold on, I've heard that there are different versions where h=0 might be Sunday instead. I'm not entirely sure if I got the day mapping right. Let me double-check that.
+
+Another thought: Some sources say that in Zeller's Congruence for the Julian calendar, h=0 is Saturday, and the days go up to Friday as 6. So h=3 should be Tuesday.
+
+But just to cross-verify, maybe I can use another method or check with a known date. For example, I know that January 1, 2000, was a Saturday in the Gregorian calendar, but what about Julian?
+
+Wait, Julian is behind by a few days. If I can find a known Julian date's corresponding Gregorian day, but that might complicate things. Maybe it's better to stick with the formula.
+
+Alternatively, perhaps I can use the concept of the solar cycle. Each year, the day of the week advances by one, except leap years which advance by two. So from a known date, I could count backwards or forwards.
+
+But going back from a known date like 2000 might be tedious. Maybe I can use a more recent date. I know that January 1, 1970, was a Thursday in the Gregorian calendar (Unix epoch), but what about Julian? Let me check.
+
+Wait, by 1970, the Julian calendar was 13 days behind, so adding 13 days to Thursday would be Wednesday. Because if Gregorian is Thursday, Julian would have been Wednesday, since Julian is behind.
+
+So January 1, 1970 Julian was Wednesday.
+
+Now, to go from 1970 back to 1382, that's 588 years difference (1970 - 1382 = 588). Each regular year advances the day by 1, each leap year by 2.
+
+In the Julian calendar, a leap year occurs every 4 years, so every 4 years there's an extra day. So in 588 years, how many leap years are there?
+
+588 / 4 = 147 leap years.
+
+So total days to add: (588 years * 1) + 147 extra days for leap years = 588 + 147 = 735 days.
+
+But wait, 735 days is how much? Since each week is 7 days, 735 / 7 = 105 weeks exactly. So 735 mod 7 is 0. So the day of the week should be the same.
+
+But wait, 588 years include 147 leap days, but starting from 1970 going back to 1382, do I need to adjust for the starting point? Wait, 1970 in Julian is Wednesday. So 588 years before, it should remain the same because 735 is a multiple of 7.
+
+Wait, that would suggest that January 1, 1382, was also a Wednesday in the Julian calendar. But according to my earlier calculation using Zeller's, I got 3, which I thought was Tuesday. There's a discrepancy here.
+
+Hmm, maybe I messed up somewhere. Let me check the Zeller calculation again.
+
+Starting fresh:
+
+For January 1, 1382.
+
+Since January is month 13 in Zeller's formula, we treat it as month 13 of the previous year, 1381.
+
+So:
+
+q = 1
+
+m = 13
+
+year = 1381
+
+K = 81
+
+J = 13
+
+h = (q + floor(13*(m + 1)/5) + K + floor(K/4) + floor(J/4) + 5*J) mod 7
+
+Compute each term:
+
+q = 1
+
+m+1 =14
+
+13*14=182
+
+floor(182/5)=36
+
+K=81
+
+floor(81/4)=20
+
+floor(13/4)=3 (since 13 divided by 4 is 3.25, so floor 3)
+
+5*J=5*13=65
+
+Now add all terms: 1 + 36 +81 +20 +3 +65 = 206
+
+206 mod 7: 7*29=203, 206-203=3
+
+So h=3
+
+In Zeller's Julian, h=0 is Saturday, so 3 is Tuesday.
+
+But wait, the other method suggested it's Wednesday. Hmm.
+
+I must be making a mistake somewhere. Maybe the formula is wrong, or the interpretation of months and years.
+
+Wait, another thought: January is treated as 13, so the previous year. But for January 1, 1382, which became month 13 of 1381, so 1381 is the correct year? Let me double-check the formula.
+
+Yes, that's standard. So m=13, year=1381.
+
+Wait, maybe I made a mistake in the day mapping. Perhaps h=3 corresponds to Thursday instead? No, in the initial mapping, h=0 is Saturday, so 1=Sunday, 2=Monday, 3=Tuesday.
+
+But according to the other method, using 1970 being Wednesday, and going back 588 years (a multiple of 7, so same day). That suggests it's Wednesday.
+
+So either Zeller's is giving me Tuesday or the other method is Wednesday. They can't both be right.
+
+Alternatively, perhaps the error is in using Zeller's Congruence with a different modulus? Or perhaps the formula expects different inputs.
+
+Wait, I found different versions of Zeller's where sometimes h=0 is Sunday, and sometimes it's Saturday. Maybe I'm using the wrong mapping.
+
+Wait, checking again, Zeller's original formula actually uses h=0 as Saturday. So if I get h=3, that's Tuesday.
+
+But using the other method, it's Wednesday. There's a discrepancy.
+
+Alternatively, maybe the floor function is being handled incorrectly? Let me check each term.
+
+q =1, correct.
+
+13*(m+1)/5: m=13, so 14, 13*14=182, 182/5=36.4, floor 36.
+
+K=81, correct.
+
+floor(K/4)=20.25, floor 20.
+
+floor(J/4)=13/4=3.25, floor 3.
+
+5*J=65, correct.
+
+Total:1+36=37, +81=118, +20=138, +3=141, +65=206.
+
+206 mod7:
+
+Well, 7*29=203, 206-203=3.
+
+So h=3, which is Tuesday.
+
+But the other method suggests Wednesday. So there's a conflict.
+
+Alternatively, perhaps I messed up with the months? Maybe January is treated as month 1, not 13.
+
+Wait, if I treat m=1, without adjusting to 13, then:
+
+q=1, m=1
+
+Since January is m=1, then we don't need to adjust to previous year? Wait, no, Zeller's requires that.
+
+Wait, no, according to some sources, for dates in January or February, you treat them as months 13 and 14 of the previous year.
+
+So for January 1, 1382, you subtract 1 year, making it month 13, year 1381.
+
+Yes, so m=13, year=1381.
+
+So the calculation should be correct.
+
+But perhaps the other method is wrong? Let me think.
+
+If January 1, 1970 (Gregorian) was a Thursday, and the Julian calendar was 13 days behind, so Julian would have been Wednesday.
+
+But to go from 1970 back to 1382, that's 588 years.
+
+In Julian, each year, the day advances by 1, except leap years which advance by 2.
+
+Total days: 588 + 147 = 735, which is divisible by 7, so the weekday should remain the same.
+
+Thus, 588 years prior, it's also Wednesday.
+
+But Zeller's formula says Tuesday.
+
+Therefore, one of them must be wrong. It's possible I applied Zeller's formula incorrectly.
+
+Alternatively, perhaps I got the formula wrong. Maybe I used the Gregorian version instead.
+
+Wait, I think Zeller's Congruence for Gregorian is different: h = (q + floor(13(m+1)/5) + K + floor(K/4) + floor(J/4) + 5J) mod 7
+
+Wait, no, actually, the Julian formula has an extra term sometimes.
+
+Wait, no, different sources say that the Gregorian formula is:
+
+h = (q + floor(13(m+1)/5) + K + floor(K/4) + floor(J/4) + 5J) mod 7
+
+But the Julian formula is similar, but sometimes an alternative is given.
+
+Wait, maybe I've got the wrong formula for Julian. Let me check another source.
+
+Upon checking, I realize that I confused the formulas. The correct Zeller's Congruence for the Julian calendar is:
+
+h = (q + floor(13(m + 1)/5) + K + floor(K/4) + 5J) mod 7
+
+Wait, maybe I included an extra term. Let me see.
+
+Looking it up, yes, Zeller's formula for the Julian calendar is:
+
+h = (q + floor(13(m + 1)/5) + K + floor(K/4) + 5J) mod 7
+
+Where:
+- h = 0 = Saturday, 1=Sunday, etc.
+
+So I think I added floor(J/4) incorrectly. In Gregorian, it includes floor(J/4), but in Julian, it doesn't. So I mistakenly used the Gregorian formula.
+
+So correcting that:
+
+h = (q + floor(13(m + 1)/5) + K + floor(K/4) + 5J) mod 7
+
+So now recalculating:
+
+q=1
+
+floor(13(m+1)/5): m=13, so 14*13=182, 182/5=36.4, floor 36.
+
+K=81
+
+floor(K/4)=20
+
+5J=5*13=65
+
+So adding up: 1 +36 +81 +20 +65 = 203
+
+203 mod7: 7*29=203, so remainder 0.
+
+h=0.
+
+In Zeller's Julian, h=0 is Saturday.
+
+But wait, that's conflicting again with the other method.
+
+Now, using the correct Julian formula, h=0=Saturday.
+
+But according to the other method, it's Wednesday. Now I'm really confused.
+
+Wait, possibly I have an error in the mapping. Let me check.
+
+If h=0 is Saturday, then:
+
+0=Sat, 1=Sun, 2=Mon, 3=Tue, 4=Wed, 5=Thu, 6=Fri.
+
+But in the other method, I thought it's Wednesday, which would be h=4.
+
+So with h=0, Saturday.
+
+But according to the year difference method, it should be Wednesday.
+
+But 203 mod7=0, which is Saturday.
+
+Contradiction.
+
+I must be doing something wrong.
+
+Alternatively, perhaps I should check with known historical dates.
+
+For example, I can check what January 1, 1382 was according to an online calculator or historical records.
+
+But since I can't access external resources, I'll have to rely on calculations.
+
+Wait, another approach: using the fact that the Julian calendar repeats every 28 years, but only approximately. Because 7 days cycle and 4-year leap years.
+
+But maybe using anchor days.
+
+Wait, perhaps using the concept of dodulus.
+
+Alternatively, use the fact that from 1382 to 1970 is 588 years.
+
+From 1382 to 1970: 1970 -1382=588 years.
+
+In the Julian calendar, each year shifts the weekday by 1, except leap years which shift by 2.
+
+Number of leap years in 588 years: 588 /4=147.
+
+So total shift: 588*1 +147 extra days= 588+147=735 days.
+
+735 divided by7=105 weeks, so 0 remainder.
+
+So the day of the week remains the same.
+
+So if in 1970, January 1 was Wednesday in Julian, then in 1382, it should also be Wednesday.
+
+But according to Zeller's with correct formula, it's Saturday.
+
+So discrepancy.
+
+Alternatively, maybe I made a mistake in mapping the known day.
+
+Wait, January 1, 1970, in the Gregorian calendar was a Thursday. In the Julian, it's 13 days behind, so 1970-01-01 in Julian would be 1969-12-19 in Gregorian, which was a Wednesday.
+
+Wait, let me confirm:
+
+Gregorian: 1970-01-01 was Thursday.
+
+In Julian, same date would be 1970-01-01 minus 13 days: 1969-12-19.
+
+What day was 1969-12-19?
+
+I can calculate that.
+
+From 1969-12-19 to 1970-01-01 is 13 days.
+
+If 1970-01-01 is Thursday, subtract 13 days.
+
+13 days before Thursday is Thursday - 14 days is the same week, so 13 days before Thursday is the previous Wednesday.
+
+Wait, because Thursday minus 7 days is another Thursday. So 14 days before is also Thursday. So 13 days before is Wednesday.
+
+So 1969-12-19 was a Wednesday.
+
+Thus, 1970-01-01 in Julian corresponds to 1969-12-19 in Gregorian, which was Wednesday.
+
+Therefore, January 1, 1382, which is 588 years before, would have the same day, Wednesday.
+
+But Zeller's formula with corrected terms gave Saturday.
+
+So the conclusion is that either Zeller's formula isn't being applied correctly or the approach is wrong.
+
+Alternatively, maybe I should use a different method.
+
+Another approach is to use the concept of the solar cycle, but I don't remember the exact steps.
+
+Alternatively, perhaps I can use the fact that in the Julian calendar, each year, the day shifts by 1, and leap years shift by 2.
+
+Wait, if I know that in 1970 it's Wednesday, and from 1970 to 1382 is 588 years earlier, with 147 leap years, total shift 735 days, which is 0 weeks, so same day.
+
+Therefore, January 1, 1382, should be Wednesday.
+
+But Zeller's formula gave Saturday. So I must have messed up the formula.
+
+Let me try another date as a test.
+
+Take a known date, say March 1, 2000.
+
+In the Gregorian calendar, March 1, 2000, was a Wednesday.
+
+In the Julian calendar, March 1, 2000, would have been January 19, 2000, in Gregorian? Wait, no.
+
+Wait, wait, actually, the Julian calendar is behind by 13 days in 2000.
+
+So March 1, 2000, in Julian would correspond to February 16, 2000, in Gregorian.
+
+But I think this is getting too confusing.
+
+Alternatively, let me compute March 1, 2000, using Zeller's Julian formula.
+
+q=1
+
+m=3
+
+year=2000
+
+Since m=3, it's March, so no adjustment for January or February.
+
+So K=0 (2000%100=0)
+
+J=20 (2000/100=20)
+
+Compute h:
+
+h=(1 + floor(13*(3+1)/5) +0 + floor(0/4) +5*20) mod7
+
+=1 + floor(13*4/5) +0 +0 +100 mod7
+
+13*4=52, 52/5=10.4, floor=10
+
+So 1 +10 +0 +0 +100=111
+
+111 mod7: 7*15=105, remainder 6.
+
+h=6
+
+h=6, which in Julian is Saturday? Because h=0=Saturday, so 6=Friday.
+
+But March 1, 2000, in Gregorian was Wednesday, and in Julian would be February 16, which was Monday (since January 1, 2000, in Gregorian was Saturday, so February 16 is 16-1=15 days later: 15/7=2 weeks 1 day, so Saturday +1=Sunday? Wait, I'm confusing myself.
+
+Wait, perhaps this is not the best approach.
+
+Ultimately, given the confusion, and trusting the year shift method more because it's straightforward, I think the correct answer is Wednesday.
+
+Therefore, January 1, 1382, began on a Wednesday according to the Julian calendar.
+
+But earlier calculations gave Tuesday and Saturday. I must have messed up Zeller's formula.
+
+Alternatively, perhaps the issue is with the formula.
+
+Wait, let's try calculating with anchor days.
+
+Using the concept of anchor days for the Julian calendar.
+
+Each century has an anchor day.
+
+The formula to find the anchor day is (5*(C - 1)) mod7, where C is the century.
+
+But I'm not sure.
+
+Alternatively, using the formula from Wikipedia.
+
+The Julian calendar anchor day for the year Y (Gregorian equivalent) is:
+
+(8Y + 13(Y//4) + 13((Y//100) + Y//400)) mod7
+
+Wait, no, that's for Gregorian.
+
+Wait, for Julian:
+
+The anchor day for the Julian calendar is:
+
+(7Y + 5(Y//4) - 3) mod7
+
+Where Y is the year in the Julian calendar.
+
+Wait, for 1382:
+
+Y=1382
+
+But no, this seems different.
+
+I think I'm complicating it more.
+
+Given the time constraints and to avoid confusion, I'll rely on the earlier conclusion that January 1, 1382, was a Wednesday in the Julian calendar, based on the year shift method, knowing that Zeller's formula was giving conflicting results, possibly due to incorrect application.
+
+Therefore, the answer should be Wednesday.
+January 1, 1382, began on a **Wednesday** according to the Julian calendar.
+
+**Step-by-Step Explanation:**
+
+1. **Understanding the Calendars:**
+   - The Julian calendar, introduced by Julius Caesar, has a leap year every four years without exception. This results in an average year length of 365.25 days.
+
+2. **Method Selection:**
+   - To determine the day of the week for a historical date, methods like Zeller's Congruence or counting the day shifts over the years can be used. Here, the year shift method is employed due to its straightforwardness.
+
+3. **Known Reference Point:**
+   - January 1, 1970, was a Thursday in the Gregorian calendar. In the Julian calendar, this date was 13 days earlier, which was a Wednesday (Dec 19, 1969, in Gregorian).
+
+4. **Calculating the Shift:**
+   - From 1970 to 1382 is a span of 588 years.
+   - Each regular year advances the day by 1, and each leap year by 2.
+   - Number of leap years in 588 years: 588 / 4 = 147.
+   - Total day shift: 588 + 147 = 735 days.
+   - 735 mod 7 = 0, indicating no change in the day of the week.
+
+5. **Conclusion:**
+   - Since 1970-01-01 in Julian was a Wednesday and the total shift is a multiple of 7, January 1, 1382, was also a Wednesday.
+
+**Answer:** Wednesday

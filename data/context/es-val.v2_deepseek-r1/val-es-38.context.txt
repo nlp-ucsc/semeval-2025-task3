@@ -1,0 +1,11 @@
+Las cuatro fuerzas fundamentales conocidas en la física de partículas son:
+
+1. **Fuerza Gravitatoria**: Aunque es la más débil de las cuatro, es la responsable de las interacciones a gran escala, como la atracción entre planetas y estrellas.
+
+2. **Fuerza Electromagnética**: Actúa sobre partículas cargadas eléctricamente y es responsable de fenómenos como la luz y el calor.
+
+3. **Fuerza Nuclear Fuerte**: Mantiene unidas a las partículas dentro del núcleo atómico y es la encargada de la estabilidad de los núcleos.
+
+4. **Fuerza Nuclear Débil**: Es responsable de ciertos tipos de desintegración radioactiva, como la desintegración beta, e influye en las interacciones entre partículas subatómicas.
+
+Estas fuerzas son fundamentales para entender cómo interactúan las partículas más pequeñas de la materia.

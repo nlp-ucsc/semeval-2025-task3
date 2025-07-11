@@ -1,0 +1,17 @@
+The main purpose of the Folding@home project is to simulate protein dynamics, particularly protein folding and misfolding, to advance scientific understanding and aid in the development of therapeutics for various diseases[7][3]. 
+
+Folding@home achieves this through distributed computing, leveraging the idle processing power of volunteers' personal computers worldwide to create a massive network of computational resources[4]. This approach allows researchers to conduct complex simulations that would be impractical or impossible on traditional supercomputers due to time and cost constraints[3].
+
+The project's key objectives include:
+
+1. Studying protein folding mechanisms: Folding@home simulates how proteins assemble themselves into 3D shapes, a process crucial for their proper function in the body[3].
+
+2. Investigating protein misfolding: The project examines how proteins can misfold, which is associated with numerous diseases such as Alzheimer's, Parkinson's, and certain cancers[4][5].
+
+3. Developing new therapeutics: By understanding protein behavior, researchers aim to design more effective drugs and treatments for various diseases, including COVID-19[1][5].
+
+4. Advancing computational methods: The project continually develops novel algorithms and techniques to improve the efficiency and accuracy of protein simulations[5].
+
+5. Exploring viral mechanisms: Folding@home assists in research on preventing viruses like influenza and HIV from recognizing and entering biological cells[4].
+
+By combining the power of distributed computing with advanced simulation techniques, Folding@home aims to push the boundaries of scientific research and contribute to breakthroughs in understanding and treating complex diseases[1][3].

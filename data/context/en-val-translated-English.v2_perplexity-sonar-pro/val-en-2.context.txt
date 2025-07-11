@@ -1,0 +1,19 @@
+The Erysiphales order contains 28 genera within a single family, Erysiphaceae[3]. This order comprises fungi commonly known as powdery mildews, which are important plant pathogens. 
+
+Some key points about the Erysiphales order:
+
+1. Family structure: It contains only one family, Erysiphaceae[3].
+
+2. Species diversity: The order includes around 1000 species[3].
+
+3. Major genera: Some of the notable genera within Erysiphales include Erysiphe, Podosphaera, Blumeria, Phyllactinia, and Golovinomyces[3].
+
+4. Evolutionary lineages: Recent molecular data have revealed six main evolutionary lineages within the order[3].
+
+5. Host range: Erysiphales exclusively infect angiosperms (flowering plants) and have never been reported to infect ferns or gymnosperms[4].
+
+6. Origin: Molecular clock studies suggest that the Erysiphales originated in the late Cretaceous period[4].
+
+7. Parasitism: All members of this order are obligate parasites, meaning they require living host plants to grow and reproduce[6].
+
+The taxonomy and systematics of Erysiphales continue to be refined as new molecular and morphological data become available, leading to ongoing updates in the classification and relationships among genera within this important fungal order.

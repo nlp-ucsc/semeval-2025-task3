@@ -1,0 +1,11 @@
+The time it takes for a spontaneously combustible substance to ignite upon contact with air can vary widely depending on several factors, such as the specific material, environmental conditions (like temperature and humidity), and the surface area of the material exposed to air.
+
+Spontaneous combustion typically occurs when a material undergoes a process called self-heating, where the material's internal temperature increases due to exothermic reactions, such as oxidation, leading to ignition. Some materials, like certain types of coal or hay, may take hours or even days to ignite under normal conditions, while others might ignite more rapidly.
+
+For example:
+
+1. **Certain metals (e.g., sodium or potassium)**: These can ignite almost instantly when exposed to air, especially in the form of thin shavings or powder.
+2. **Phosphorus (e.g., white phosphorus)**: This can ignite within minutes when exposed to air, especially in warm or hot conditions.
+3. **Organic materials (e.g., coal, hay, or lint)**: These might take hours or days to ignite under typical conditions but can combust much faster if conditions like high ambient temperature or moisture are present.
+
+It's important to consult specific safety data sheets (SDS) for precise information on the combustion properties of particular substances. Always handle such materials with caution and follow safety guidelines.

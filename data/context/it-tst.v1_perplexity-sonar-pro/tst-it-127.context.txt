@@ -1,0 +1,13 @@
+Il liquido freni DOT 4 ha un punto di ebollizione che varia tra 230°C e 260°C circa, a seconda delle specifiche formulazioni[1][3][5].
+
+Più precisamente:
+
+- Il punto di ebollizione a secco (per liquido nuovo) del DOT 4 è tipicamente tra 230°C e 250°C[3][5].
+
+- Il punto di ebollizione a umido (dopo aver assorbito umidità) è di circa 155°C[10].
+
+- Alcune formulazioni avanzate di DOT 4 possono raggiungere temperature di ebollizione ancora più elevate, fino a 268°C a secco[7].
+
+È importante notare che il punto di ebollizione tende a diminuire nel tempo man mano che il liquido assorbe umidità dall'ambiente, essendo igroscopico[2]. Per questo motivo si raccomanda di sostituire regolarmente il liquido freni, in genere quando il punto di ebollizione scende sotto i 180°C[4].
+
+Il punto di ebollizione elevato del DOT 4 lo rende adatto per l'uso in sistemi frenanti moderni con ABS ed ESP, che generano temperature più elevate[4][5]. La sua capacità di resistere alle alte temperature senza vaporizzare è fondamentale per mantenere l'efficienza frenante e la sicurezza del veicolo.

@@ -1,0 +1,8 @@
+Microsoft har lanserat flera licensvarianter som tillåter delad källkod. Några av dessa inkluderar:
+
+*   Shared Source Initiative: Detta är ett initiativ av Microsoft där de delar källkod för vissa produkter med specifika villkor. Det finns flera olika licenser under detta initiativ, som tillåter olika nivåer av återanvändning och modifiering.
+*   Microsoft Public License (Ms-PL): Denna licens tillåter användare att se, kopiera och distribuera källkod, samt göra ändringar och dela dem med andra. Det är en av de mer tillåtande licenserna som Microsoft erbjuder.
+*   Microsoft Reciprocal License (Ms-RL): Denna licens liknar Ms-PL men kräver att ändringar som distribueras också måste dela källkoden under samma licens.
+*   Apache License 2.0: Microsoft använder ibland denna licens för vissa projekt, vilken är en populär öppen källkodslicens som tillåter stor flexibilitet.
+
+Dessa licenser är utformade för att möjliggöra samarbete och innovation samtidigt som de skyddar Microsofts intellektuella egendom.

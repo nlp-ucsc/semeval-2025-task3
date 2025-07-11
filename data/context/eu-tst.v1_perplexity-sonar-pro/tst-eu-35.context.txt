@@ -1,0 +1,7 @@
+1276. urteak 366 egun izan zituen, bisiesto edo bisurte urtea izan baitzen[1].
+
+Bisurte edo bisiesto urteak 366 egun dituzte, ohiko 365 egunen ordez. Hau gertatzen da lau urtean behin, Gregorio XIII.aren egutegiaren arabera, zeina gaur egun mundu mailan erabiltzen den egutegi ofiziala baita. 
+
+Bisurte urteetan, otsailak 29 egun ditu 28ren ordez. Honen arrazoia da Lurraren orbita eguzkiaren inguruan ez dela zehazki 365 egunekoa, baizik eta 365 egun, 5 ordu, 48 minutu eta 46 segundokoa. Denbora gehigarri hori konpentsatzeko, lau urtean behin egun bat gehitzen zaio egutegiari.
+
+1276. urtea Erdi Aroan kokatzen da, eta garai hartan ere jada bisurte urteak kontuan hartzen ziren, nahiz eta egutegi gregorianoa oraindik ez zen existitzen (1582an ezarri zen). Beraz, 1276. urteak 366 egun izan zituen, gaur egun bezala.

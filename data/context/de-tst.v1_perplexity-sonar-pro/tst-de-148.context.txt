@@ -1,0 +1,24 @@
+Microsoft Edge became available for iOS and Android devices in late 2017. Here are the key details:
+
+- Microsoft officially released Microsoft Edge for iOS and Android on November 30, 2017, removing the "preview" label from the apps[1].
+
+- The initial release was limited to certain countries:
+
+  - For iOS: Available in the United States, China, France, and the UK[1].
+  - For Android: Available in the United States, Australia, Canada, China, France, India, and the UK[1].
+
+- Prior to the official release, Microsoft had introduced preview versions of Microsoft Edge for iOS and Android in October 2017[1].
+
+- The release followed a period of beta testing, during which hundreds of thousands of users downloaded and provided feedback on the preview apps[1].
+
+- At launch, Microsoft Edge for mobile devices included features like:
+  - Syncing of favorites, reading list, and passwords across devices
+  - A "Continue on PC" feature to open mobile pages on a Windows PC
+  - Reading View
+  - New Tab Page[1]
+
+- Microsoft committed to expanding availability to additional markets and languages over time[1].
+
+- By March 26, 2018, Microsoft Edge became available for iPads and Android tablets as well[1].
+
+It's worth noting that Microsoft has continued to update and improve Edge for mobile platforms since its initial release, adding new features and expanding its availability to more regions over time[4][5].

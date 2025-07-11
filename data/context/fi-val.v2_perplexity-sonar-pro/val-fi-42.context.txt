@@ -1,0 +1,28 @@
+Metallisidos on kemiallinen sidos, joka muodostuu metalliatomien välille. Se on yksi tärkeimmistä kemiallisista sidostyypeistä ja selittää metallien ainutlaatuiset ominaisuudet. Tässä metallisidoksen keskeiset piirteet:
+
+1. Rakenne:
+- Metallisidoksessa metalliatomit luovuttavat uloimmat elektroninsa yhteiseen "elektronimereen"[1][2].
+- Positiivisesti varautuneet metalli-ionit (kationit) jäävät säännölliseen hilarakenteeseen, jota ympäröi vapaasti liikkuvien elektronien pilvi[1][3].
+
+2. Elektronien käyttäytyminen:
+- Uloimmat elektronit delokalisoituvat eli ne eivät ole sidottuja mihinkään tiettyyn atomiin[2].
+- Nämä vapaat elektronit muodostavat "elektronimeren", joka liikkuu koko metallikappaleen läpi[5].
+
+3. Sidoksen luonne:
+- Metallisidos perustuu positiivisten metalli-ionien ja negatiivisten vapaiden elektronien väliseen sähköiseen vetovoimaan[3][5].
+- Sidos on vahva mutta joustava, mikä selittää metallien ominaisuuksia[2].
+
+4. Ominaisuudet:
+- Sähkönjohtavuus: Vapaat elektronit mahdollistavat sähkövirran kulun[5].
+- Lämmönjohtavuus: Elektronit ja ionit siirtävät lämpöenergiaa tehokkaasti[6].
+- Muovattavuus ja sitkeys: Metallisidoksen joustavuus sallii atomien siirtymisen ilman sidosten rikkoutumista[2][6].
+- Metallikiilto: Vapaat elektronit heijastavat valoa tehokkaasti[2].
+
+5. Esiintyminen:
+- Metallisidos esiintyy puhtaissa metalleissa ja metalliseoksissa (lejeeringeissä)[3].
+- Yli puolet alkuaineista muodostaa metallisidoksia[4].
+
+6. Vertailu muihin sidostyyppeihin:
+- Eroaa ionisidoksesta ja kovalenttisesta sidoksesta elektronien käyttäytymisen ja sidoksen luonteen osalta[2].
+
+Metallisidos on siis monimutkainen vuorovaikutus, jossa vapaat elektronit sitovat positiiviset metalli-ionit yhteen muodostaen kestävän mutta joustavan rakenteen. Tämä selittää metallien monet hyödylliset ominaisuudet, kuten niiden kyvyn johtaa sähköä ja lämpöä sekä niiden muovattavuuden[1][2][5].

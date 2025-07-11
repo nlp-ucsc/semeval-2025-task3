@@ -1,0 +1,34 @@
+The term "shared source code" typically refers to Microsoft's Shared Source Initiative. This initiative, launched in 2001, is Microsoft's framework for making portions of its source code available to certain customers, partners, developers, and other interested parties under specific licensing terms. Here are the key aspects of the Shared Source Initiative:
+
+1. Purpose: The initiative aims to increase transparency, foster innovation, and build trust with Microsoft's customers and partners by providing controlled access to source code[3][7].
+
+2. Scope: Initially, the initiative covered Windows 2000, Windows XP, Windows .NET Server, Windows CE 3.0, and Windows CE .NET. Over time, it expanded to include other Microsoft products and technologies[1][4].
+
+3. Licensing programs: The initiative encompasses various licensing programs tailored to different communities:
+
+   - Enterprise Source Licensing Program (ESLP)
+   - Systems Integrator Source Licensing Program (SISLP)
+   - OEM Source Licensing Program (OEMSLP)
+   - Academic licensing programs
+   - Government licensing programs[1][3]
+
+4. Access levels: Different programs offer varying levels of access, from viewing and debugging to modifying code, but generally do not allow commercial redistribution[1].
+
+5. Objectives: The initiative aims to:
+   - Bolster customer and partner success
+   - Enrich the development community
+   - Improve feedback processes
+   - Enhance educational opportunities
+   - Protect intellectual property rights[3][7]
+
+6. Growth: By 2004, Microsoft announced that the Shared Source community had grown to 1 million participants[4][7].
+
+7. Distinct from open source: While sharing some similarities, the Shared Source Initiative is distinct from open source software. It maintains Microsoft's intellectual property rights and places restrictions on code usage and distribution[5][8].
+
+8. Evolution: The initiative has evolved over time, with Microsoft introducing new licenses and expanding access to different products and technologies[4][7].
+
+9. Academic focus: A significant aspect of the initiative is its emphasis on academic partnerships, providing universities with access to source code for research and educational purposes[3][7].
+
+10. Feedback loop: The initiative aims to create a stronger feedback loop between Microsoft and its user community, helping to shape product development and research[4].
+
+It's important to note that while the Shared Source Initiative does make some Microsoft source code available, it does so under controlled conditions and specific licensing terms that differ from traditional open source licenses. This approach allows Microsoft to balance increased transparency with the protection of its intellectual property in its commercial software business model[5][8].

@@ -1,0 +1,15 @@
+The number 41 can be expressed as the sum of two squares in the following way:
+
+41 = 4² + 5²
+
+This means:
+41 = 16 + 25
+
+To break it down further:
+- 4 squared (4 × 4) equals 16
+- 5 squared (5 × 5) equals 25
+- The sum of these two squared numbers (16 + 25) equals 41
+
+This representation of 41 as a sum of two squares is consistent with Fermat's theorem on sums of two squares[10]. The theorem states that an odd prime p can be expressed as the sum of two squares if and only if p is congruent to 1 modulo 4. Indeed, 41 is a prime number, and it is congruent to 1 modulo 4 (since 41 ÷ 4 leaves a remainder of 1).
+
+It's worth noting that for prime numbers like 41, there is only one unique way to express them as the sum of two squares, disregarding the order of the terms[9]. This means that 5² + 4² is considered the same representation as 4² + 5².

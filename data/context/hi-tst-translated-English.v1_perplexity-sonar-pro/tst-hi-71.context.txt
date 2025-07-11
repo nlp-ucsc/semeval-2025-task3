@@ -1,0 +1,19 @@
+E. F. Codd defined the concept of a relational database in 1970 while working at IBM[1][4]. Codd, an Oxford-educated mathematician, published a groundbreaking paper titled "A Relational Model of Data for Large Shared Data Banks" that introduced a new way to model and store data[3].
+
+Codd's work was revolutionary because it addressed significant problems with existing database systems of the time:
+
+1. Complexity: Prior database systems were overly complicated to use and required advanced technical expertise[2].
+
+2. Lack of theoretical foundation: There was no solid theory backing up the principles of existing database models[2].
+
+3. Inefficiency: Retrieving data from early databases was time-consuming and expensive, often requiring entire programs to be written just to access specific information[4].
+
+Codd's relational model proposed organizing data into linkable tables based on common characteristics. This approach allowed users to retrieve new tables from existing data with a single query, without needing to understand the physical structure of the database[4]. 
+
+The key innovations of Codd's relational model included:
+
+1. Data independence: Users could access information without expertise in or knowledge of the database's physical blueprint[4].
+2. Value-based relationships: Relationships between data items were based on their values rather than separately specified linking or nesting[4].
+3. Natural language level: Codd believed computer users should be able to work at a more intuitive level without concern for data storage details[4].
+
+Codd's work laid the foundation for modern relational databases, which have become the standard for processing financial records, personnel data, and logistical information across various industries[4]. His contributions were so significant that he was named an IBM Fellow in 1976 and received the prestigious Turing Award from the Association of Computing Machinery in 1981[4].

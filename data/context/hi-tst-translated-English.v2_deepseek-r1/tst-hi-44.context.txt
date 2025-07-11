@@ -1,0 +1,1 @@
+An International Mobile Equipment Identity (IMEI) number contains 15 digits. It is a unique identifier for mobile devices and is used to identify the device on a cellular network.

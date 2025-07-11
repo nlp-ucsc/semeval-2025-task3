@@ -1,0 +1,11 @@
+Diabetes mellitus is diagnosed based on specific fasting blood glucose levels, which are measured in milligrams per deciliter (mg/dL). According to criteria established by organizations such as the American Diabetes Association (ADA) and the World Health Organization (WHO), the following fasting plasma glucose (FPG) values are used to diagnose diabetes:
+
+1. **Normal Fasting Blood Glucose:** Less than 100 mg/dL is considered normal. This indicates that blood sugar levels are within a healthy range, and diabetes is not present.
+
+2. **Impaired Fasting Glucose (Prediabetes):** A fasting blood glucose level between 100 mg/dL and 125 mg/dL indicates impaired fasting glucose, often referred to as prediabetes. This condition suggests that blood sugar levels are higher than normal but not high enough to be classified as diabetes. Individuals with prediabetes are at an increased risk of developing type 2 diabetes and cardiovascular diseases.
+
+3. **Diabetes Mellitus:** A fasting blood glucose level of 126 mg/dL or higher is diagnostic of diabetes mellitus. This level indicates that the body is not properly regulating blood sugar, which can lead to various complications if not managed properly.
+
+It's important to note that a diagnosis of diabetes should be confirmed with repeat testing on a separate day to ensure accuracy. Additionally, other tests such as the oral glucose tolerance test (OGTT) or a hemoglobin A1c (HbA1c) test may also be used to confirm the diagnosis. The HbA1c test measures average blood sugar levels over the past 2-3 months, with a value of 6.5% or higher indicating diabetes.
+
+In summary, diabetes mellitus is diagnosed when fasting blood glucose levels are 126 mg/dL or higher. Early detection and appropriate management are crucial to prevent complications associated with the disease.

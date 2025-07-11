@@ -1,0 +1,15 @@
+Die Shared Source Initiative von Microsoft wurde erstmals im Jahr 2001 ins Leben gerufen. Dieses Programm sollte den Zugang zu Quellcode von Microsoft-Produkten ermöglichen, um die Zusammenarbeit mit Entwicklern, akademischen Institutionen und ausgewählten Unternehmen zu fördern. Die Initiative zielte darauf ab, Transparenz zu schaffen und Innovationen innerhalb der Entwicklergemeinschaft zu unterstützen.
+
+Die Shared Source Initiative umfasste verschiedene Lizenzen, wie die Microsoft Shared Source License oder die Microsoft Research License. Diese Lizenzen erlaubten unterschiedliche Grade des Quellcodezugriffs, von nur lesbar bis hin zu Änderungsmöglichkeiten. Einige bekannte Beispiele für unter der Shared Source Initiative veröffentlichte Projekte sind:
+
+1. **Windows Vista/7/8/10:** Bereits im Jahr 2012 veröffentlichte Microsoft Teile des Windows-Quellcodes unter der Shared Source Initiative, insbesondere für akademische und industrielle Partner.
+
+2. **Singularity:** Ein experimentelles Betriebssystem, das 2006 veröffentlicht wurde, um Forschung und Lehre zu unterstützen.
+
+3. **ROSlyn (C# und VB Compiler):** 2014 veröffentlichte Microsoft die Quellcode für die Roslyn-Compiler unter der Shared Source Initiative, später jedoch unter die MIT-Lizenz.
+
+4. **ASP.NET:** Im Jahr 2012 begann Microsoft damit, den Quellcode von ASP.NET unter Open-Source-Lizenzen herauszugeben.
+
+Es ist jedoch zu beachten, dass Microsoft im Laufe der Zeit seine Open-Source-Strategie weiterentwickelte und viele Projekte nun unter der GitHub-Plattform und unter anderern Open-Source-Lizenzen gestellt werden. 
+
+Insgesamt war die Shared Source Initiative ein wichtiger Schritt von Microsoft in Richtung Offenheit und Zusammenarbeit mit der Entwicklergemeinschaft.

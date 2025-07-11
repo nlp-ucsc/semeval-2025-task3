@@ -1,0 +1,15 @@
+The provided answer is incorrect. Here is the accurate information to fact-check and correct it:
+
+Gregor Mendel was the first to experiment on pleiotropic traits, although he did not use that term at the time[1]. In his 1866 pea plant experiments, Mendel recognized that certain traits like seed coat color, flower color, and axial spots seemed to be inherited together[1]. This observation was an early indication of pleiotropy, though the connection to a single gene was not proven at that time.
+
+To clarify some key points:
+
+1. Pleiotropy refers to when one gene influences multiple seemingly unrelated phenotypic traits, not just traits expressed in more than one way[1].
+
+2. Height and weight are not examples of pleiotropic traits. They are separate traits that may be influenced by multiple genes.
+
+3. The term "pleiotropie" was first coined by Ludwig Plate in 1910, defining it as occurring when "several characteristics are dependent upon ... [inheritance]; these characteristics will then always appear together and may thus appear correlated"[1].
+
+4. Hans Gruneberg conducted the first focused study on the mechanisms of pleiotropy in 1938, experimenting on rats with skeletal mutations[1].
+
+In summary, while Mendel first observed what we now recognize as pleiotropic traits, the concept was not fully developed until later, with significant contributions from researchers like Plate and Gruneberg in the early 20th century.

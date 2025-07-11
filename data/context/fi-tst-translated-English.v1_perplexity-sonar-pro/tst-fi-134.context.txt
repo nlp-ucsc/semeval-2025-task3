@@ -1,0 +1,27 @@
+A dual-use item refers to goods, software, or technology that can be used for both civilian and military applications[1][2][3]. These items have legitimate commercial purposes but also have the potential to be utilized for military, terrorism, or weapons of mass destruction (WMD) related activities[3].
+
+Key characteristics of dual-use items include:
+
+1. Versatility: They have applications in both civilian and military contexts[1][2][3].
+
+2. Regulatory control: Due to their potential for misuse, dual-use items are subject to export controls and regulations[4][8].
+
+3. Wide range of categories: Dual-use items span various sectors, including nuclear materials, chemicals, electronics, computers, telecommunications, sensors, lasers, navigation systems, and aerospace technologies[1][5].
+
+4. Potential for transformation: Some dual-use items can be modified or repurposed for military use even if originally intended for civilian applications[4].
+
+Examples of dual-use items include:
+
+- Global positioning satellites
+- Certain types of missiles
+- Nuclear technology
+- Chemical and biological tools
+- Night vision technology
+- Thermal imaging equipment
+- Some drone models
+- Specific types of ball bearings
+- Aluminum pipes with precise specifications[4]
+
+The concept of dual-use technology has significant implications for international security, trade, and diplomacy. Governments and international organizations have established various control regimes and regulations to manage the export and transfer of dual-use items[8]. These measures aim to prevent the proliferation of weapons and technologies that could threaten global security while allowing legitimate trade and technological development[6].
+
+It's important to note that the classification of dual-use items can be complex, as it often depends on specific technical characteristics, intended use, and potential for misuse. Companies and researchers working with potentially dual-use technologies must be aware of relevant regulations and export control requirements to ensure compliance with international and national laws[7][9].

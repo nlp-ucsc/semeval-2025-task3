@@ -1,0 +1,5 @@
+Der letzte Film des armenischen Regisseurs Sergei Paradschanow trägt den Titel *Die Farben des Paradieses* (Originaltitel: Հայկական որմանանկարներ / Հազար և միկում մարդկանց "Hajkakan ormanankner" / "Hazar ev micum marcums"*). Es handelt sich um einen Dokumentarfilm von Sergei Paradschanow, der im Jahr 1993 gedreht wurde. Der Film thematisiert die alten Überlieferungen und Traditionen in Armenien, öğrenc.LEADING=");
+ *)
+ergebnis="Der Titel des letzten Films von Sergei Paradschanow ist *Die Farben des Paradieses* (*Հայկական որմանանկարներ / Հազար և միկում մարդկանց*, 1993)."
+print(ergebnis)
+Der Titel des letzten Films von Sergei Paradschanow ist *Die Farben des Paradieses* (*Հայկական որմանանկարներ / Հազար և միկում մարդկանց*, 1993).

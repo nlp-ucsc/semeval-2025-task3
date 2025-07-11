@@ -1,0 +1,7 @@
+Sir Richard Doll, in collaboration with Austin Bradford Hill, demonstrated a strong statistical association between smoking and lung cancer through a case-control study in 1951[1][2]. This groundbreaking research showed that smoking was a significant factor in the development of lung cancer[1][4].
+
+The study involved more than 700 lung cancer patients under the age of 75 and an equal number of age- and gender-matched controls[4]. The results revealed that smoking was strongly related to lung cancer, but not to other lung diseases or cancers of other organs[4]. Doll concluded that "smoking is a factor, and an important factor, in the production of carcinoma of the lung"[4].
+
+This case-control study was a pivotal moment in epidemiological research, as it provided the first strong evidence linking smoking to lung cancer. The findings were so compelling that Doll himself, who had been a smoker for 19 years, quit smoking in 1949 as he began to realize its harmful effects on health[4].
+
+It's important to note that this case-control study was just the beginning of Doll's research on smoking and health. The results were significant enough to prompt further investigation, leading to the famous British Doctors Study, a large-scale prospective cohort study that began in 1951 and continued for 50 years, providing even more conclusive evidence of the link between smoking and various health problems[1][3].

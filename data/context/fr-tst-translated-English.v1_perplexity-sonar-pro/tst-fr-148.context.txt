@@ -1,0 +1,19 @@
+Internet Explorer became obsolete due to several key factors:
+
+1. Outdated technology: Internet Explorer struggled to keep up with modern web standards and technologies[1][2]. As the internet evolved rapidly, IE's codebase and rendering engine became increasingly outdated, leading to compatibility issues with many websites and web applications.
+
+2. Security vulnerabilities: IE was plagued by frequent security vulnerabilities and exploits[2]. Microsoft found it challenging to maintain IE's security while keeping pace with new threats, requiring constant patches and updates.
+
+3. Poor performance: Compared to newer browsers, IE was notoriously slow and resource-intensive. This led to a poor user experience, especially as websites became more complex and interactive.
+
+4. Lack of innovation: Microsoft was slow to innovate and add new features to IE[2]. Significant gaps between new releases and version updates allowed competing browsers to gain market share by offering more advanced functionality.
+
+5. Rise of competitors: Browsers like Google Chrome, Mozilla Firefox, and Apple Safari quickly gained popularity due to their superior performance, security features, and user-friendly interfaces[1]. This competition eroded IE's market dominance.
+
+6. Microsoft's shift in strategy: Microsoft decided to focus on developing a new browser, Microsoft Edge, as a replacement for IE[1][4]. This shift in strategy meant less investment in IE's development and support.
+
+7. Mobile incompatibility: IE was not designed for mobile devices, which became increasingly important as smartphone usage grew. This limited its relevance in the mobile-first era.
+
+8. Legacy dependencies: Many businesses and organizations relied on IE for legacy applications, which paradoxically hindered its ability to modernize without breaking compatibility[3].
+
+As a result of these factors, Microsoft officially retired Internet Explorer on June 15, 2022[4][5]. The company now encourages users to switch to Microsoft Edge, which offers an IE mode for backwards compatibility with legacy websites and applications[4]. This transition marks the end of IE's 25+ year history as a major web browser and reflects the rapidly changing landscape of web technologies and user expectations.

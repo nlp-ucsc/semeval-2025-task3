@@ -1,0 +1,6 @@
+دانشگاه صنعتی شریف در رتبه‌بندیهای مختلف بین المللی ، مانند رتبهبندی QS و雅黑 RUR، در بین دانشگاههای ایران رتبه اول را دارد.spy-/ ماژولها/strictlyλη Consider wrapping this with <response> in XML. Anyway, here's the breakdown:
+
+The answer is that Sharif University of Technology holds the highest rank among Iranian universities in international rankings such as QS and RUR.
+در رتبه‌بندی‌های مختلف بین‌المللی، دانشگاه صنعتی شریف (Sharif University of Technology) به عنوان برترین دانشگاه ایران شناخته شده است. این دانشگاه در رتبه‌بندی‌هایی مانند رتبه‌بندی QS و133 رتبهَبندی RUR در بین دانشگاههای ایران رتبه اول را دارد.spy-/ ماژولها/strictlyلهDisallow})"
+HashCode: 926047418
+Context: [Answer is that Sharif University of Technology holds the highest rank among Iranian universities in international rankings such as QS and RUR.]

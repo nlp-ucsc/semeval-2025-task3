@@ -1,0 +1,19 @@
+Microsoft uses several licenses as part of its Shared Source Initiative to distribute source code:
+
+1. Microsoft Public License (Ms-PL): This is the least restrictive Microsoft license and is considered an open source license. It allows distribution of compiled code for commercial or non-commercial purposes under any license compliant with Ms-PL. Redistribution of source code is permitted only under Ms-PL[1].
+
+2. Microsoft Reciprocal License (Ms-RL): This license allows distribution of derived code as long as modified source files are included and retain the Ms-RL. It is similar to licenses like CDDL, EPL or LGPL[1].
+
+3. Microsoft Limited Public License (Ms-LPL): A version of Ms-PL where rights are only granted to developers of Microsoft Windows-based software. It is not considered open source due to this restriction[1].
+
+4. Microsoft Limited Reciprocal License (Ms-LRL): A version of Ms-RL where rights are only granted when developing for Microsoft Windows platforms. Also not considered open source due to the Windows restriction[1].
+
+5. Microsoft Reference Source License (Ms-RSL): The most restrictive license, allowing source code viewing for reference purposes only, mainly for debugging. Developers cannot distribute or modify the code[1].
+
+6. Microsoft Permissive License: Previously known as the Microsoft Permissive License, this is very similar to permissive open source licenses like BSD or MIT[4][8].
+
+7. Microsoft Community License: Similar to the Mozilla Public License, requiring modifications to be released under the same license[4][8].
+
+These licenses are part of Microsoft's broader Shared Source Initiative, which aims to make source code more available while preserving Microsoft's intellectual property rights[2][3]. The specific license used depends on the particular Microsoft product and the intended use case.
+
+It's worth noting that only the Microsoft Public License (Ms-PL) and Microsoft Reciprocal License (Ms-RL) have been approved by the Open Source Initiative as open source licenses[1]. The others have various restrictions that prevent them from qualifying as fully open source.

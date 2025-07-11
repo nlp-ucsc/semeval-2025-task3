@@ -1,0 +1,15 @@
+The stratosphere is typically located between about 10 to 50 kilometers (6 to 31 miles) above the Earth's surface[1][2][3]. However, the exact altitude of the stratosphere's boundaries can vary depending on latitude and other factors:
+
+1. Lower boundary (tropopause):
+   - Near the equator: As high as 20 km (66,000 ft; 12 mi)[1]
+   - At mid-latitudes: Around 10 km (33,000 ft; 6.2 mi)[1]
+   - At the poles: About 7 km (23,000 ft; 4.3 mi)[1]
+
+2. Upper boundary (stratopause):
+   - Generally extends up to about 50 km (31 miles)[2][3][7]
+
+The stratosphere is the second layer of Earth's atmosphere, situated above the troposphere and below the mesosphere[1][3]. It contains the ozone layer, which is crucial for absorbing harmful ultraviolet radiation from the sun[4][6].
+
+An interesting characteristic of the stratosphere is that temperature increases with altitude within this layer, unlike in the troposphere where temperature decreases with height[1][4]. This temperature inversion is caused by the absorption of UV radiation by the ozone layer, which leads to temperatures ranging from an average of −51°C (−60°F) near the tropopause to an average of −15°C (5.0°F) near the mesosphere[1][4].
+
+The stratosphere's unique temperature profile and composition make it a stable layer with little vertical mixing, which is why it's often used by commercial aircraft for smoother flights[4][5].

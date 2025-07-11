@@ -1,0 +1,27 @@
+Sriwijaya Air Flight 182 experienced a catastrophic sequence of events shortly after takeoff on January 9, 2021, leading to its crash into the Java Sea. Here's a detailed account of what happened:
+
+1. Takeoff and initial climb:
+The Boeing 737-500 aircraft departed from Soekarno–Hatta International Airport in Jakarta, Indonesia, bound for Pontianak[3]. The flight initially proceeded normally as it began its climb.
+
+2. Autothrottle malfunction:
+During the climb phase, the aircraft's autothrottle system malfunctioned. The thrust lever for the left engine reduced thrust, while the right engine's thrust lever remained fixed, creating an asymmetrical thrust condition[2][3].
+
+3. Deviation from flight path:
+As a result of the thrust asymmetry, the aircraft began to deviate from its intended flight path. It started banking to the left instead of maintaining a right turn as planned[3].
+
+4. Rapid descent:
+Approximately four minutes after takeoff, the aircraft suddenly entered a rapid descent. It dropped from 10,900 ft (3,300 m) to 7,650 ft (2,330 m) in a matter of seconds[1][3].
+
+5. Loss of control:
+The situation quickly deteriorated as the aircraft entered an upset condition. It rolled through its maximum allowable bank angle, eventually exceeding 90 degrees and becoming inverted[3].
+
+6. Attempted recovery:
+The captain attempted to recover from the dive by pulling back on the yoke. However, due to the aircraft's inverted position, this action actually increased the rate of descent[3].
+
+7. Final moments:
+In the last moments, the captain managed to nearly level the wings and raise the nose to 0 degrees. However, by this point, the altitude was too low, and the aircraft was in an overspeed condition, making recovery impossible[3].
+
+8. Impact:
+Less than five minutes after takeoff, Sriwijaya Air Flight 182 crashed belly-first into the Java Sea near Laki Island, approximately 19 km (12 mi) from Soekarno–Hatta International Airport[3].
+
+The accident resulted in the tragic loss of all 62 people on board, including 50 passengers and 12 crew members[3]. Subsequent investigation revealed that the crash was caused by a combination of the faulty autothrottle system and pilot error, particularly in responding to the thrust asymmetry and upset condition[2][6].

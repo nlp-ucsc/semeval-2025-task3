@@ -1,0 +1,9 @@
+On the Nintendo Classic Mini: Nintendo Entertainment System (NES Classic Edition), there are three display modes available:
+
+1. **4:3 Mode (Default)**: This is the original aspect ratio of the NES. It provides a classic, pixel-perfect representation of the games as they were meant to be seen, with discrete pixels and no scaling.
+
+2. **Pixel-Perfect Mode**: This mode scales the games to fit your modern TV while maintaining the original pixel aspect ratio. Each pixel from the game is displayed as a perfect square, creating a sharp, clean look that is reminiscent of the original hardware but without the blurring effect that might occur with other scaling methods.
+
+3. **CRT Mode**: This mode mimics the look of an old CRT television. It adds scanlines and a slight blur to the image to simulate the appearance of older TVs, providing a more authentic retro gaming experience.
+
+These display modes can be selected from the main menu or by pressing the "SELECT" button on the controller while in a game. Each mode can be tried to see which one best suits your visual preference, ensuring an enjoyable experience with the classic NES games.

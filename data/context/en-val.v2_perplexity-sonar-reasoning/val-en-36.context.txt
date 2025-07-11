@@ -1,0 +1,17 @@
+<think>
+Okay, so I need to figure out the home stadium of FC Zhenis. Let me start by looking through the search results provided. 
+
+First, I see that result [1] is from Wikipedia about the Kazhymukan Munaitpasov Stadium in Astana. It mentions that the stadium is used mostly for football matches and is the home of FC Zhenis, with a capacity of 12,350. That seems relevant.
+
+Looking at result [2], it's from BetsAPI and also states that FC Zhenis is based at the K.Munaitpasov Stadium. It adds some history about the club being a founding member of the Kazakhstan Premier League and their relegation in 2009. This confirms the stadium's name and the team's association.
+
+Result [3] is from Soccer Wiki, which again lists the stadium as K.Munaitpasov with a capacity of 12,343, and the club as FC Zhenis. The slight difference in capacity might be due to updates, but the name is consistent.
+
+Result [4] is another BetsAPI page, which repeats the same information about FC Zhenis being at the K.Munaitpasov Stadium. It also includes details about their European competitions, which adds context but isn't necessary for the stadium name.
+
+Result [5] is the Wikipedia page for FC Zhenis itself. It clearly states that their home stadium is the Kazhymukan Munaitpasov Stadium with a capacity of 12,350. This is a primary source and confirms the information from the other results.
+
+Putting it all together, all five search results consistently mention that FC Zhenis's home stadium is the Kazhymukan Munaitpasov Stadium in Astana, Kazakhstan. The capacity is either 12,350 or 12,343, which is a minor discrepancy but doesn't affect the stadium's identity. Therefore, the answer is clear and consistent across all sources.
+</think>
+
+The home stadium of FC Zhenis is the **Kazhymukan Munaitpasov Stadium**, located in Astana, Kazakhstan. This stadium has a seating capacity of **12,350** and is primarily used for association football matches[1][2][5]. It is named after the renowned Kazakh wrestler Kazhymukan Munaitpasov, who was the first Kazakh to become a world champion[1]. The stadium serves as the home ground for FC Zhenis, a professional football club that has won the Kazakhstan Premier League three times[2][4][5].

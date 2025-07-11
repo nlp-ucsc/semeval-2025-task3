@@ -1,0 +1,12 @@
+The perihelion of asteroid 661 Cloelia is approximately 2.91 AU (Astronomical Units) from the Sun[1][4].
+
+More specifically:
+
+- One source lists the perihelion as 2.9148486 AU[1].
+- Another source provides a slightly different value of 2.9143 AU[4].
+
+The small difference between these values is likely due to slight variations in the orbital calculations or the specific epoch used for the measurements.
+
+For context, the perihelion is the point in an object's orbit that is closest to the Sun. Cloelia, like other asteroids in the main belt, has an elliptical orbit around the Sun. Its perihelion distance of about 2.91 AU places it well within the main asteroid belt, which typically ranges from about 2.2 to 3.2 AU from the Sun.
+
+It's worth noting that asteroid orbits can be slightly perturbed over time due to gravitational interactions with other bodies, so the exact perihelion distance may vary slightly depending on when the measurement was taken.

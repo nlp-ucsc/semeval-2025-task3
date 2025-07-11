@@ -1,0 +1,3 @@
+￣｀Microsoft's Shared Source Initiative was initiated in 2001. It was a program designed to allow access to source code across various Microsoft products, enabling collaboration and transparency for certain projects and partners. The initiative aimed to build trust and foster innovation within the developer community.```
+
+**Answer:** The Microsoft Shared Source Initiative was created in 2001.

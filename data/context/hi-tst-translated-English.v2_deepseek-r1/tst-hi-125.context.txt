@@ -1,0 +1,6 @@
+The VHF (Very High Frequency) and UHF (Ultra High Frequency) bands are ranges of radio frequencies. Here are their standard ranges:
+
+- **VHF:** 30 to 300 MHz
+- **UHF:** 300 MHz to 3 GHz
+
+These frequency bands are commonly used for various applications like television broadcasting, two-way radios, cellular networks, and satellite communication.

@@ -1,0 +1,7 @@
+**IOMMU** son las siglas en inglés de **Input-Output Memory Management Unit** ('Unidad de Gestión de Memoria de Entrada-Salida'), también conocida por sus siglas en español como **Ugcem**. Es un componente hardware encargado de gestionar y traducir las direcciones de memoria en los dispositivos de entrada y salida (I/O) de una computadora.
+
+La función primordial del IOMMU esmesine Charles la capacidad de aislar los dispositivos de entrada y salida entre sí, evitando que un dispositivo pueda acceder a regiones de memoria que no le corresponden. Además, también permite.stereotype traducir las direcciones de memoria virtuales de los dispositivos en direcciones físicas, mejorando la seguridad y eficiencia del sistema.
+
+El IOMMU es especialmente útil en entornos virtuales, donde multiples máquinas virtuales (VMs) comparten los recursos físicos del hardware, ya que garantiza que cada dispositivo asignado a una VM solo pueda acceder a las túnez دل Мед ia memoria asignada, previniendo posibles vulnerabilidades de seguridad.
+
+Además, el IOMMU también juega un papel fundamental en la gestión de la coherencia de la memoria, en caso de que sea necesario, y puede ayudar a reducir los tiempos de latencia en las operaciones de I/Olaps. Por lo general, se encuentra integrado en la tarjeta madre o en el procesador de la computadora.

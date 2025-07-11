@@ -1,0 +1,15 @@
+Internet Explorer (IE) has become largely obsolete due to several reasons:
+
+1. **Lack of Innovation**: After IE6, Microsoft didn't update the browser for many years, leading to outdated features and lack of support for modern web standards.
+
+2. **Slow Performance**: IE was known for being slower compared to other browsers like Chrome and Firefox, especially with JavaScript-heavy websites.
+
+3. **Security Issues**: IE had numerous security vulnerabilities and was a frequent target for malware, which made it less secure compared to other browsers.
+
+4. ** Compatibility Problems**: As web developers adopted new standards, sites often didn't render well on IE, leading to frustrations for users.
+
+5. **Competition from Other Browsers**: Chrome, Firefox, Safari, and Edge offered better speed, features, and security, making IE less preferred.
+
+6. **Microsoft's Shift to Edge**: Microsoft replaced IE with Edge, which is based on Chromium and offers better performance and compatibility.
+
+These factors collectively led to IE's decline in usage and popularity.

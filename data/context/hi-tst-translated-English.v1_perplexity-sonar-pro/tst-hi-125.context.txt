@@ -1,0 +1,32 @@
+VHF (Very High Frequency) and UHF (Ultra High Frequency) are two distinct radio frequency bands with different frequency ranges:
+
+## VHF Frequency Range
+
+VHF covers the frequency range from 30 MHz to 300 MHz[1][3]. This band is characterized by wavelengths between 10 meters to 1 meter[1]. VHF is further divided into sub-bands:
+
+- Low-band VHF: 49-108 MHz[7]
+- High-band VHF: 169-216 MHz[7]
+
+## UHF Frequency Range
+
+UHF encompasses a higher frequency range, from 300 MHz to 3 GHz[4][3]. The wavelengths in this band range from 1 meter to 1 decimeter (10 cm)[4]. UHF is also divided into sub-bands:
+
+- Low-band UHF: 378-512 MHz (some sources state 450-806 MHz)[6][7]
+- High-band UHF: 764-870 MHz (some sources state 900-952 MHz)[6][7]
+
+It's important to note that the exact frequency allocations can vary slightly depending on the source and specific applications. For example, some two-way radios operate in the following ranges:
+
+- VHF: 138-174 MHz
+- UHF: 400-512 MHz[2]
+
+## Key Differences
+
+1. Frequency: UHF operates at roughly three times higher frequencies than VHF[2].
+
+2. Wavelength: VHF has longer wavelengths compared to UHF, which affects their propagation characteristics[2].
+
+3. Penetration: UHF waves, being shorter, can generally penetrate obstacles like buildings more easily than VHF waves[3][6].
+
+4. Range: VHF waves typically travel farther in open spaces, while UHF is better for shorter-range communications, especially indoors[3][6].
+
+Understanding these frequency ranges and characteristics is crucial for selecting the appropriate band for specific communication needs, whether it's for two-way radios, broadcasting, or other applications.

@@ -1,0 +1,22 @@
+Napier produced several H-configuration engines in the 1920s-1940s, including:
+
+1. Napier Rapier: This was an H-16 engine designed by Frank Halford in the late 1920s[1][4]. It was Halford's first design for Napier under a 1928 contract to create engines between 404-718 cubic inches displacement[1][8].
+
+2. Napier Dagger: An H-24 air-cooled engine designed by Halford in the 1930s as a follow-up to the Rapier[2][4][8]. It had 24 cylinders arranged in an H configuration.
+
+3. Napier Sabre: The most famous and powerful of Napier's H engines, the Sabre was an H-24 liquid-cooled sleeve valve engine designed by Halford in the mid-1930s[2][3][4]. Key features included:
+
+   - 24 cylinders in an H configuration
+   - Liquid-cooled
+   - Used sleeve valves for improved volumetric efficiency
+   - Developed up to 3,500 hp in late prototypes
+   - Powered aircraft like the Hawker Typhoon and Tempest
+
+4. Napier E124: Though it may not have been fully built, designs were made for an extremely complex H-24 two-stroke diesel aircraft engine in the 1930s[5]. It featured:
+
+   - 75 liter displacement 
+   - Two-stroke operation
+   - Sleeve valves
+   - An integrated gas turbine for supercharging
+
+These H engines showcased Napier's innovative approach to aero engine design, with the company exploring compact H layouts to achieve high power outputs in relatively small packages[4]. The H configuration allowed Napier to fit many cylinders into a compact form, balancing out vibrations and achieving high power densities for the era[3][7].

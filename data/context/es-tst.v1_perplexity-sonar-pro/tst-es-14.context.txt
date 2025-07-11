@@ -1,0 +1,13 @@
+Microsoft utiliza varias licencias para distribuir su código fuente compartido bajo su Iniciativa de Código Fuente Compartido (Shared Source Initiative). Las principales licencias son:
+
+1. Microsoft Public License (Ms-PL): Es la menos restrictiva de las licencias de Microsoft. Permite la distribución de código compilado para fines comerciales y no comerciales bajo cualquier licencia que cumpla con la Ms-PL. La redistribución del código fuente solo se autoriza bajo la Ms-PL[1].
+
+2. Microsoft Reciprocal License (Ms-RL): Permite la distribución de código derivado, siempre que los archivos fuente estén incluidos y mantengan la Ms-RL[1].
+
+3. Microsoft Reference Source License (Ms-RSL): Es la más restrictiva. El código fuente está disponible solo para verse con fines de referencia, principalmente para poder ver las clases de código fuente de Microsoft durante la depuración[1].
+
+4. Microsoft Limited Public License (Ms-LPL): Es una versión de la Ms-PL donde los derechos solo se conceden a los desarrolladores de software basado en Microsoft Windows[1].
+
+5. Microsoft Limited Reciprocal License (Ms-LRL): Es la versión de la Ms-RL donde los derechos solo se conceden cuando se desarrolla software para una plataforma Microsoft Windows[1].
+
+Es importante destacar que solo las dos primeras licencias (Ms-PL y Ms-RL) son consideradas como licencias de código abierto por la Open Source Initiative y como licencias de software libre por la Free Software Foundation[1]. Las otras licencias tienen diversas limitaciones que las hacen no calificar como open source o software libre.

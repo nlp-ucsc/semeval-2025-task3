@@ -1,0 +1,13 @@
+<think>
+Okay, so the user is asking about the location of the 26th Biathlon World Championships. Let me check the search results provided.
+
+Looking at result [2], it's a Wikipedia page about the 1991 Biathlon World Championships. It clearly states that they were held in Lahti, Finland. That seems straightforward.
+
+I don't see any conflicting information in the other results. The other results are about different seasons or future events, so they don't impact this specific query. 
+
+I should make sure to present the answer clearly, citing the relevant source. Since the user wants a detailed manner, I'll mention the year and location, and perhaps note that it was the second time Lahti hosted the event, as mentioned in the search result.
+
+So, the answer should be concise but informative, ensuring that the citation is correctly placed at the end of the sentence.
+</think>
+
+The 26th Biathlon World Championships were held in **Lahti, Finland** in 1991[2].

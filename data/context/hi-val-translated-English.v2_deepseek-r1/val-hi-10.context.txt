@@ -1,0 +1,21 @@
+ICD-10 code E11 represents "Type 2 diabetes mellitus." The main causes of Type 2 diabetes mellitus are a combination of genetic, lifestyle, and environmental factors. 
+
+Key factors contributing to the development of Type 2 diabetes include:
+
+1. **Insulin Resistance**: The body's cells become less responsive to insulin, a hormone produced by the pancreas that regulates blood sugar levels. This leads to higher blood glucose levels as the body cannot effectively use insulin to take glucose into cells.
+
+2. **Impaired Insulin Secretion**: Over time, the pancreas may also produce less insulin, further contributing to high blood sugar.
+
+3. **Genetic Predisposition**: There is a strong genetic component, with certain ethnic groups and family histories increasing the risk.
+
+4. **Obesity**: Excess body fat, particularly visceral fat around the abdomen, is linked to insulin resistance.
+
+5. **Physical Inactivity**: Lack of exercise contributes to obesity and insulin resistance.
+
+6. **Diet**: A diet high in calories, sugars, and unhealthy fats can contribute to weight gain and insulin resistance.
+
+7. **Age**: The risk increases with age, particularly after the age of 45.
+
+8. **Other Health Conditions**: Conditions like hypertension, high cholesterol, and polycystic ovary syndrome (PCOS) can increase the risk.
+
+Preventive measures such as maintaining a healthy diet, regular physical activity, and managing weight can help reduce the risk of developing Type 2 diabetes. If you have any specific concerns or symptoms, it's important to consult a healthcare professional for personalized advice.

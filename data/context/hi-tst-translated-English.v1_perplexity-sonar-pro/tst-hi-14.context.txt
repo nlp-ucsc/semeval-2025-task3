@@ -1,0 +1,27 @@
+FNAC stands for Fine Needle Aspiration Cytology. It is a minimally invasive diagnostic procedure used to examine small or unclear lumps in various parts of the body[1][2]. 
+
+Fine Needle Aspiration Cytology involves using a thin, hollow needle to extract a small sample of cells from a suspicious lump, mass, or abnormal tissue[2]. The procedure is typically quick, cost-effective, and simple, causing minimal discomfort to the patient[1].
+
+Here's a more detailed breakdown of the FNAC procedure:
+
+1. Preparation: The skin over the area to be examined is cleaned with an antiseptic solution. Local anesthesia may be applied to minimize discomfort[2][4].
+
+2. Aspiration: A fine needle attached to a syringe is inserted into the lump or tissue of interest. The healthcare professional moves the needle back and forth while applying suction to extract cells or fluid[2].
+
+3. Guidance: For deeper or less accessible areas, imaging techniques like ultrasound or CT scans may be used to guide the needle accurately[2][4].
+
+4. Sample collection: Multiple samples may be taken to ensure adequate cell collection. The extracted material is then placed on glass slides for examination[2].
+
+5. Analysis: The samples are sent to a laboratory where they are stained and examined under a microscope by a pathologist to determine if the cells are benign, malignant, or indicative of other conditions[2][4].
+
+FNAC is widely used for various purposes, including:
+
+- Evaluating breast lumps for potential cancer[1][2]
+- Examining thyroid nodules[2]
+- Assessing lymph node abnormalities[1][2]
+- Investigating salivary gland masses[1]
+- Diagnosing various types of cancer and other conditions[4]
+
+The results of an FNAC test typically fall into one of three categories: benign (non-cancerous), malignant (cancerous), or indeterminate (unclear results that may require further testing)[2]. These results help guide further medical decisions and treatments.
+
+FNAC is valued for its ability to provide crucial diagnostic information while minimizing patient discomfort and avoiding more invasive procedures in many cases[2].

@@ -1,0 +1,43 @@
+Speech disorders can be classified into several main categories:
+
+1. Speech Sound Disorders
+Speech sound disorders involve difficulties in producing specific speech sounds correctly. These can be further subdivided into:
+
+- Articulation Disorders: Difficulty physically producing specific speech sounds[3][6].
+- Phonological Disorders: Issues with understanding and using the sound system of language[6].
+- Childhood Apraxia of Speech: Difficulty planning and coordinating the movements needed for speech[8].
+- Dysarthria: Weakness or paralysis of speech muscles, often due to neurological conditions[2][8].
+
+2. Fluency Disorders
+These disorders affect the rhythm and flow of speech. The main types are:
+
+- Stuttering: Characterized by repetitions, blocks, or prolongations of sounds or syllables[3][5][7].
+- Cluttering: Rapid speech rate with irregular rhythm, making speech difficult to understand[2].
+
+3. Voice Disorders
+These involve abnormalities in the production of voice, including issues with:
+
+- Pitch
+- Loudness
+- Quality
+- Resonance[3][4]
+
+4. Resonance Disorders
+These affect the nasal quality of the voice, often due to improper airflow during speech[3].
+
+5. Language Disorders
+While distinct from speech disorders, language disorders can impact speech and are often considered in conjunction with speech disorders. They affect the understanding or use of spoken or written language[3][4].
+
+6. Central Auditory Processing Disorders (CAPD)
+These involve difficulties in processing auditory information in the central nervous system[1].
+
+7. Orofacial Myofunctional Disorders (OMD)
+These disorders affect the development and function of the muscles and bones in the mouth and face, impacting speech production[8].
+
+8. Neurogenic Speech Disorders
+These include conditions like aphasia, which can affect various aspects of speech and language due to brain damage[8].
+
+9. Selective Mutism
+A condition where a person is capable of speech but only speaks in certain situations, often related to anxiety[5][8].
+
+These categories can overlap, and individuals may experience multiple types of speech disorders simultaneously. The classification helps in diagnosis and determining appropriate treatment approaches for each specific disorder[1][4].

@@ -1,0 +1,72 @@
+To determine the day of the week for January 1st, 830 AD according to the Julian calendar, I can use Zeller's Congruence. This is a mathematical algorithm that helps calculate the day of the week for any given date. 
+
+First, I will break down the components needed for the calculation:
+- The date in question is January 1, 830 AD.
+- The Julian calendar was used during this period.
+
+Next, I will apply the formula for Zeller's Congruence, which requires converting the date into the appropriate variables for the formula. After calculating each part, I will add the components together and take the modulus to find the result.
+
+Finally, interpreting the result will tell me the day of the week. If the result is 0, it corresponds to a Saturday; if it's 1, it's a Sunday, and so on up to 6 for a Friday.
+
+Through this method, I determine that January 1st, 830 AD according to the Julian calendar fell on a Wednesday.
+</think>
+
+To determine the day of the week for **January 1, 830 AD** according to the **Julian calendar**, we can use **Zeller's Congruence**, a mathematical algorithm that allows us to calculate the day of the week for any given date.
+
+Zeller's Congruence formula for the Julian calendar is:
+
+\[
+h = (q + \left\lfloor \frac{13(m + 1)}{5} \right\rfloor + K + \left\lfloor \frac{K}{4} \right\rfloor + \left\lfloor \frac{J}{4} \right\rfloor + 5J) \mod 7
+\]
+
+Where:
+- \( h \) is the day of the week (0 = Saturday, 1 = Sunday, 2 = Monday, ..., 6 = Friday).
+- \( q \) is the day of the month.
+- \( m \) is the month (3 = March, 4 = April, ..., 14 = February).
+- \( K \) is the year of the century (\( \text{year} \mod 100 \)).
+- \( J \) is the zero-based century (\( \left\lfloor \frac{\text{year}}{100} \right\rfloor \)).
+
+### Given:
+- **Date:** January 1, 830 AD
+- **r:** Adjustment for the Julian calendar (\( r = 5 \)).
+
+### Step 1: Adjust the month and year
+Since the Julian calendar treats January as month **13** of the previous year:
+- \( m = 13 \)
+- \( q = 1 \)
+- Adjust the year: \( 830 - 1 = 829 \)
+  - \( K = 829 \mod 100 = 29 \)
+  - \( J = \left\lfloor \frac{829}{100} \right\rfloor = 8 \)
+
+### Step 2: Apply Zeller's Congruence
+\[
+h = (1 + \left\lfloor \frac{13(13 + 1)}{5} \right\rfloor + 29 + \left\lfloor \frac{29}{4} \right\rfloor + \left\lfloor \frac{8}{4} \right\rfloor + 5 \times 8) \mod 7
+\]
+
+Calculate each term:
+\[
+h = (1 + \left\lfloor \frac{182}{5} \right\rfloor + 29 + 7 + 2 + 40) \mod 7
+\]
+\[
+h = (1 + 36 + 29 + 7 + 2 + 40) \mod 7
+\]
+\[
+h = 115 \mod 7
+\]
+\[
+115 \div 7 = 16 \text{ remainder } 3
+\]
+\[
+h = 3
+\]
+
+### Step 3: Interpret the result
+In the Julian calendar:
+\[
+h = 3 \implies \text{Wednesday}
+\]
+
+### Final Answer:
+\[
+\boxed{\text{Wednesday}}
+\]

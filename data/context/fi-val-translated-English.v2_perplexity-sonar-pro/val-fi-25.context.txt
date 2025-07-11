@@ -1,0 +1,10 @@
+According to the basic law of dynamics, specifically Newton's Second Law, a constant force applied to an object with constant mass produces constant acceleration[1][2]. This relationship is expressed mathematically as F = ma, where F is the net force acting on the object, m is the mass of the object, and a is the acceleration[1][4].
+
+When a constant force is applied to an object:
+
+1. The object experiences uniform acceleration in the direction of the force[1].
+2. The magnitude of the acceleration is directly proportional to the force and inversely proportional to the mass of the object[4][9].
+3. The velocity of the object changes at a constant rate over time[1].
+4. The motion can be described using the kinematic equations for constant acceleration[1].
+
+It's important to note that this concept assumes the mass remains constant. In cases where the mass changes, such as with a rocket consuming fuel, the acceleration would vary even with a constant applied force[1][2].

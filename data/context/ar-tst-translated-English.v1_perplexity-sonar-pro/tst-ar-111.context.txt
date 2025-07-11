@@ -1,0 +1,19 @@
+Pleiotropy is primarily known by its main term, but there are a few related concepts and alternative names that are sometimes used to describe this genetic phenomenon:
+
+1. Pleiotropic gene action: This refers to the mechanism by which a single gene influences multiple phenotypic traits[1].
+
+2. Multiple gene effects: This phrase is sometimes used to describe the situation where one gene affects various traits, which is essentially pleiotropy[1].
+
+3. Gene pleiotropy: This specifically refers to when a gene product interacts with multiple other proteins or catalyzes multiple reactions[1].
+
+4. Developmental pleiotropy: This occurs when mutations have multiple effects on the resulting phenotype[1].
+
+5. Selectional pleiotropy: This term is used when the resulting phenotype has many effects on fitness, depending on factors such as age and sex[1].
+
+6. Antagonistic pleiotropy: This is a specific type of pleiotropy where a gene has both beneficial and harmful effects on an organism, often at different stages of life[1].
+
+7. Genuine pleiotropy: This term was coined by Hans Gruneberg in 1938 to describe when two distinct primary products arise from one locus. However, this definition is no longer commonly used[1].
+
+8. Spurious pleiotropy: Also introduced by Gruneberg, this term described what we now simply call pleiotropy - when one primary product is utilized in different ways or initiates a cascade of events with different phenotypic consequences[1].
+
+While these terms exist, it's important to note that "pleiotropy" remains the most widely used and recognized term in genetics and biology for describing the phenomenon of a single gene influencing multiple phenotypic traits.

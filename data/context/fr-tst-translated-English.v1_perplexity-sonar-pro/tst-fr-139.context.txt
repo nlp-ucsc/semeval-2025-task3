@@ -1,0 +1,19 @@
+The user interface of Microsoft Neptune was primarily based on a combination of HTML and Win32 technologies. Specifically:
+
+Neptune experimented with a new user interface called Activity Centers, which was built using HTML and Win32 components[9]. This was a novel approach at the time, blending web technologies with traditional Windows programming.
+
+The Activity Centers were designed to be task-centered interfaces for common operations[9]. They utilized Internet Explorer's web technology, often leveraging a framework called Mars[1]. This allowed for more dynamic and interactive interfaces compared to traditional Windows applications.
+
+Key aspects of the Neptune user interface included:
+
+1. HTML-based components: The Activity Centers were primarily implemented using web technologies, allowing for more flexible layouts and easier updates[1].
+
+2. Win32 integration: While using web technologies, the interface still integrated with the underlying Windows system through Win32 APIs[9].
+
+3. Task-oriented design: The interface was organized around specific activities or tasks, rather than traditional application-centric design[1].
+
+4. Internet Explorer integration: The user interface heavily relied on Internet Explorer's rendering engine to display HTML-based components[1].
+
+5. Mars framework: A then-new technology that facilitated the integration of web-based interfaces with the Windows operating system[1].
+
+It's worth noting that while Neptune was never released, many of its user interface concepts influenced future Windows versions. For example, Windows XP incorporated some elements originally designed for Neptune, such as the new logon screen and firewall features[9]. Additionally, the touch-oriented Metro design language introduced in Windows 8 shared some common goals with the Neptune project, including a focus on typography and dedicated full-screen applications for common tasks[1][7].

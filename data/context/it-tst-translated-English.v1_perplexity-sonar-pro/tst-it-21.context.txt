@@ -1,0 +1,23 @@
+Napier produced several notable H-configuration engines:
+
+1. Napier Rapier: This was a 16-cylinder H-configuration engine designed by Frank Halford in the late 1920s[3]. The Rapier had the following key characteristics:
+   - Air-cooled design
+   - Vertical H configuration with four banks of four cylinders each
+   - Displacement of 539 cubic inches (8.83 liters)
+   - Maximum output of 350 hp in the Rapier I version
+   - Used in aircraft like the Short Mercury seaplane[5]
+
+2. Napier Dagger: A 24-cylinder H-configuration engine, also designed by Frank Halford[1][5]. Features included:
+   - Air-cooled design
+   - Vertical H configuration
+   - Powered military aircraft like the Hawker Hart and Fairey Battle
+   - Final version (Dagger VIII) produced 955 horsepower
+
+3. Napier Sabre: The most powerful and advanced H-configuration engine from Napier[1][2][6]. Key aspects of the Sabre included:
+   - 24-cylinder horizontally-opposed H configuration
+   - Liquid-cooled design
+   - Used sleeve valves instead of traditional poppet valves
+   - Initially produced 2,200 hp in 1940, later versions reached 3,500 hp
+   - Powered notable World War II fighters like the Hawker Typhoon and Tempest
+
+These H-configuration engines were part of Napier's innovative approach to aircraft engine design, offering compact layouts and high power outputs for their time. The development of these engines spanned from the late 1920s through World War II, with each successive design building upon the experience gained from earlier models[1][2][3].

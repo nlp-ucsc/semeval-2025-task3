@@ -1,0 +1,17 @@
+Newton's law of universal gravitation is not directly based on any single one of his three laws of motion. Rather, it is a separate law that Newton formulated to describe the gravitational force between objects. However, Newton's laws of motion and his law of universal gravitation work together to explain the motion of objects under the influence of gravity.
+
+The law of universal gravitation states that every particle in the universe attracts every other particle with a force proportional to the product of their masses and inversely proportional to the square of the distance between them[1][2]. This can be expressed mathematically as:
+
+\[F = G\frac{m_1m_2}{r^2}\]
+
+Where:
+- F is the gravitational force between the objects
+- G is the gravitational constant
+- m1 and m2 are the masses of the two objects
+- r is the distance between the centers of the objects[2][5]
+
+While gravity itself is not based on the laws of motion, Newton's second law of motion (F = ma) is often used in conjunction with the law of universal gravitation to analyze the motion of objects under the influence of gravity[4]. This combination allows us to calculate the acceleration of objects due to gravity and predict their trajectories.
+
+It's important to note that Newton's discovery of universal gravitation was revolutionary because it unified the concept of gravity on Earth with the motion of celestial bodies[5]. This unification showed that the same force causing objects to fall on Earth also governs the orbits of planets and moons[6][7].
+
+In summary, while gravity is not directly based on Newton's laws of motion, these laws, particularly the second law, are crucial in applying the law of universal gravitation to understand and predict the motion of objects under the influence of gravity.

@@ -1,0 +1,15 @@
+Telebistako dekodifikatzaileek normalean bi prozesadore mota nagusi erabiltzen dituzte:
+
+1. Seinale-prozesadoreak (DSP): Hauek telebista-seinalea deskodifikatzeko eta prozesatzeko erabiltzen dira. DSPak oso eraginkorrak dira audio eta bideo seinaleak maneiatzeko[1].
+
+2. Helburu orokorreko prozesadoreak: Hauek dekodifikatzailearen sistema eragilea eta erabiltzaile-interfazea kudeatzeaz arduratzen dira. ARM arkitekturako prozesadoreak oso ohikoak dira aplikazio hauetarako[2].
+
+Dekodifikatzaile modernoenek bi prozesadore mota hauek konbinatzen dituzte sistema-on-chip (SoC) diseinu batean. SoC hauek dekodifikatzailearen funtzio guztiak txip bakar batean integratzen dituzte, energia-kontsumoa eta kostua murriztuz[3].
+
+Prozesadore hauen ezaugarri nagusiak hauek dira:
+
+- Energia-kontsumo baxua
+- Bideo-prozesatze ahalmen handia
+- Kostu efizientea
+
+Azken urteotan, 4K eta HDR edukia prozesatzeko gai diren prozesadore aurreratuagoak ere erabiltzen hasi dira dekodifikatzaile berrietan[1].

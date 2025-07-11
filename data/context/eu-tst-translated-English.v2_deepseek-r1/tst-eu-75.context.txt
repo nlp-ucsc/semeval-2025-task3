@@ -1,0 +1,5 @@
+Ovals possess three main characteristics:
+
+1. **Elongated Shape**: They are elongated, meaning they are longer in one direction than the other.
+2. **Curved Sides**: Both sides of an oval are curved, though not necessarily perfect circles.
+3. **Symmetry**: They typically exhibit bilateral symmetry, meaning they can be divided evenly along their longest axis.

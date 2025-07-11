@@ -1,0 +1,9 @@
+A case-control study (also known as case-referent study) is a type of observational study in which two existing groups differing in outcome are identified and compared on the basis of some supposed causal attribute. Case-control studies are often used to identify factors that may contribute to a medical condition by comparing subjects who have the condition with patients who do not have
+
+Case-control studies are basically comparison studies. Cases and controls must be comparable with respect to known "confounding factors" such as age, sex, occupation, social status, etc. ... then one tends to use one control for each case. If the study group is small (say under 50) as many as 2,3, or even 4 controls can be selected for each
+
+In many case-control studies, the groups are compared by evaluating the odds ratio which is defined as the odds of exposure among the cases divided by the odds of exposure among the controls. In general, investigators cannot determine incidence rates of the disease since the subjects are selected based on disease (outcome) status. Thus
+
+A case-control study is a type of observational study commonly used to look at factors associated with diseases or outcomes.[1] The case-control study starts with a group of cases, which are the individuals who have the outcome of interest. The researcher then tries to construct a second group of individuals called the controls, who are similar to the case individuals but do not have the
+
+In a case-control study, which of the following is true? a. The proportion of cases with the exposure is compared with the proportion of controls with the exposure b. Disease rates are compared for people with the factor of interest and for people without the factor of interest c. The investigator may choose to have multiple comparison groups d. Recall bias is a potential problem e. a,c,andd

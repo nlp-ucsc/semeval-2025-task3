@@ -1,0 +1,16 @@
+Die Siedetemperatur von DOT-4 Bremsflüssigkeit beträgt mindestens 230°C für den Trockensiedepunkt[2][6]. Allerdings variieren die genauen Werte je nach Hersteller und Produkt:
+
+- Der Trockensiedepunkt von DOT-4 Bremsflüssigkeit liegt typischerweise zwischen 230°C und 260°C[1][3][4].
+
+- Einige hochwertige DOT-4 Produkte erreichen sogar Trockensiedepunkte von über 260°C, wie zum Beispiel:
+  - Chevron Brake Fluid DOT 4 mit 260°C[1]
+  - Normfest DOT-4 Plus mit über 260°C[4]
+  - ADDINOL BRAKE FLUID DOT 4 mit ≥ 230°C[5]
+
+- Der Nasssiedepunkt (bei 3,5% Wassergehalt) von DOT-4 Bremsflüssigkeit muss laut Spezifikation mindestens 155°C betragen[2][6].
+
+- Auch hier gibt es Produkte mit höheren Werten, wie:
+  - Normfest DOT-4 Plus mit über 180°C Nasssiedepunkt[4]
+  - ATE SUPER DOT 5.1 mit 180°C Nasssiedepunkt[7]
+
+Es ist wichtig zu beachten, dass der tatsächliche Siedepunkt der Bremsflüssigkeit im Fahrzeug mit der Zeit abnimmt, da die Flüssigkeit hygroskopisch ist und Wasser aus der Umgebung aufnimmt[8]. Daher wird empfohlen, die Bremsflüssigkeit regelmäßig (typischerweise alle zwei Jahre) zu wechseln, um die optimale Leistung und Sicherheit des Bremssystems zu gewährleisten[8].

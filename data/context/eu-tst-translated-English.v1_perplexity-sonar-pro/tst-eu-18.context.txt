@@ -1,0 +1,21 @@
+The density of sodium sulfate varies depending on its form:
+
+For anhydrous sodium sulfate (Na2SO4):
+- The density is approximately 2.664-2.70 g/cm3 at room temperature[1][2][3][5].
+
+For sodium sulfate decahydrate (Na2SO4·10H2O):
+- The density is approximately 1.464 g/cm3[1][2].
+
+Some key points about sodium sulfate's density:
+
+1. The anhydrous form has a significantly higher density than the hydrated form due to the absence of water molecules in its crystal structure.
+
+2. The density of anhydrous sodium sulfate is reported as 2.664 g/cm3 by some sources[1][2], while others list it as 2.68 g/cm3[3][4] or 2.70 g/cm3[5]. This slight variation may be due to differences in measurement conditions or sample purity.
+
+3. Temperature can affect the density slightly. For example, one source specifies the density as 2.68 g/cm3 at 25°C[3].
+
+4. The bulk density of sodium sulfate powder (as opposed to a single crystal) is typically lower, ranging from 1400-1600 kg/m3 (equivalent to 1.4-1.6 g/cm3)[1][5]. This is because bulk density accounts for the spaces between particles in a powder.
+
+5. The hydrated form (decahydrate) has a lower density due to the incorporation of water molecules in its crystal structure, which increases its volume relative to its mass.
+
+In summary, the density of sodium sulfate is approximately 2.66-2.70 g/cm3 for the anhydrous form and 1.464 g/cm3 for the decahydrate form, with some variation depending on the specific conditions and measurement techniques used.

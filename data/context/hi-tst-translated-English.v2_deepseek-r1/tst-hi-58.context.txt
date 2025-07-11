@@ -1,0 +1,11 @@
+There are **two main types of data compression**:
+
+1. **Lossless Compression**:
+   - **Description**: This type of compression reduces the size of data without losing any information. The original data can be perfectly reconstructed from the compressed data.
+   - **Examples**: ZIP, gzip, PNG (for images), FLAC (for audio), and MP3 (though MP3 is typically lossy, some modes can be lossless).
+
+2. **Lossy Compression**:
+   - **Description**: This type of compression reduces the size of data by discarding some of the data. The original data cannot be perfectly reconstructed from the compressed data, but the loss is often imperceptible or acceptable for certain applications.
+   - **Examples**: JPEG (for images), MP3 (for audio), and MPEG (for video).
+
+**Summary**: The two primary types of data compression are **lossless**, which retains all data, and **lossy**, which discards some data to reduce size.

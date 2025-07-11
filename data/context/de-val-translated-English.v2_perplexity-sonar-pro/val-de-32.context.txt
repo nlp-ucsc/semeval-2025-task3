@@ -1,0 +1,26 @@
+The International System of Units (SI) measures physical force in newtons (N)[1][2][3]. One newton is defined as the force required to accelerate a mass of one kilogram at a rate of one meter per second squared[1][2]. 
+
+This can be expressed mathematically as:
+
+1 N = 1 kg · m/s²
+
+The newton is named after Sir Isaac Newton, in recognition of his work on classical mechanics, particularly his second law of motion[5][7]. This law states that the force (F) acting on an object is equal to the mass (m) of the object multiplied by its acceleration (a):
+
+F = ma
+
+When using SI base units, the newton can be expressed as:
+
+1 N = 1 kg · m · s⁻²
+
+To provide some context, here are a few examples of forces measured in newtons:
+
+1. The weight of an average apple on Earth is approximately 1 N.
+2. The thrust of a Saturn V rocket at liftoff was about 34 million N.
+3. The force exerted by Earth's gravity on a 70 kg person is about 686 N.
+
+While the newton is the standard SI unit for force, it's worth noting that other units of force exist in different systems:
+
+- In the CGS (centimeter-gram-second) system, force is measured in dynes, where 1 N = 100,000 dynes[5].
+- In the Imperial system, force is often measured in pounds-force (lbf), where 1 N ≈ 0.225 lbf[5].
+
+However, for scientific and international communication, the newton remains the preferred and standardized unit for measuring force.

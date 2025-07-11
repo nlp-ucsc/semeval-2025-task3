@@ -1,0 +1,7 @@
+The unit of force, the newton, is defined based on the International System of Units (SI). According to Newton's second law of motion, force is equal to mass times acceleration (F = ma). 
+
+In SI units, mass is measured in kilograms (kg) and acceleration in meters per second squared (m/s²). Therefore, one newton (1 N) is the force required to accelerate a 1 kilograms mass by 1 meter per second squared. 
+
+In equation form: 
+
+1 N = 1 kg × 1 m/s².

@@ -1,0 +1,33 @@
+Microsoft Neptune was a canceled version of Windows that was under development in 1999-2000. It was intended to be the first consumer version of Windows based on the Windows NT codebase. Here are the key features of Windows Neptune:
+
+1. NT-based kernel: Neptune was built on the Windows NT kernel, aiming to bring NT's stability and security to consumer PCs[1][4].
+
+2. Activity Centers: A new task-based user interface featuring individual "pages" for common tasks like browsing the internet, communication, document management, and entertainment[1][4].
+
+3. New login screen: Neptune introduced a login screen similar to the one later used in Windows XP[4].
+
+4. Windows Firewall: Neptune included a new firewall feature that was later integrated into Windows XP[4].
+
+5. User management improvements: 
+   - Introduced new user types: Owner, Adult, Child, and Guest[7].
+   - Implemented a new user management control panel called "Windows Identities"[7].
+
+6. Profile-Assisted Boot Accelerator: A feature designed to speed up system boot time by capturing and restoring initial system states[1][7].
+
+7. Windows Image Acquisition: New technology for managing scanners and digital cameras[7].
+
+8. Network improvements:
+   - Local network crawler for automatically discovering shared folders and printers[7].
+   - Improved networking utilities[1].
+
+9. Feedback system: Implemented a "Submit a comment" feature allowing users to provide feedback directly to Microsoft[7].
+
+10. Internet Explorer 6 SP1: Fully integrated and working in some custom builds[3].
+
+11. Help and Support: Introduced a new centralized hub for Windows documentation and troubleshooting[1].
+
+12. Hibernation by default: Neptune experimented with user experiences that didn't require manually saving work, enabling hibernation by default[1][4].
+
+13. Application caching and driver resource management improvements[1].
+
+While only one alpha build (5111) of Neptune was ever released to testers, many of its planned features and concepts influenced future Windows versions, particularly Windows XP[1][4]. The project was ultimately canceled in January 2000, with its team merging with the Odyssey project to form what would become Windows XP[1][4].

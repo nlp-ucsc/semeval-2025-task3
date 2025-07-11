@@ -1,0 +1,17 @@
+Microsoft Edge was originally codenamed "Project Spartan" during its development phase[1][3]. 
+
+Some key details about the origins and evolution of Microsoft Edge:
+
+1. Project Spartan: This was the codename used internally at Microsoft when developing the new browser that would eventually become Microsoft Edge[1][3].
+
+2. Initial Release: Microsoft Edge was first released on April 29, 2015 as part of Windows 10[3]. It was introduced as a replacement for Internet Explorer, Microsoft's previous default browser.
+
+3. EdgeHTML Engine: The original version of Microsoft Edge used Microsoft's own proprietary EdgeHTML browser engine and Chakra JavaScript engine[5].
+
+4. Chromium-based Rebuild: In December 2018, Microsoft announced they would rebuild Edge as a Chromium-based browser[1]. This new version was released to the public in January 2020[1].
+
+5. Legacy vs New Edge: After the switch to Chromium, Microsoft began referring to the original EdgeHTML-based version as "Microsoft Edge Legacy" to distinguish it from the new Chromium-based Edge[2].
+
+6. Anaheim: The Chromium-based version of Edge was codenamed "Anaheim" during its development[1].
+
+So while "Microsoft Edge" has been the official name since its public release, the browser went through different codenames during its development stages, starting with "Project Spartan" and later "Anaheim" for the Chromium-based version.

@@ -1,0 +1,41 @@
+Brake fluids are complex mixtures designed to meet specific performance requirements. The main types of brake fluids and their key ingredients are:
+
+## DOT 3 and DOT 4 Brake Fluids
+
+These are the most common types of brake fluids used in vehicles today. They are glycol-based fluids with the following main components:
+
+1. Glycol ethers: The primary ingredient, making up 50-80% of the fluid[3][6]. Common glycol ethers used include:
+   - Polyethylene glycol
+   - Polypropylene glycol
+   - Triethylene glycol
+
+2. Borate esters: Added to DOT 4 fluids to increase the boiling point[4].
+
+3. Additives (20-40% of the mixture)[6]:
+   - Corrosion inhibitors
+   - Antioxidants
+   - Metal deactivators
+   - pH buffers to maintain alkalinity
+
+DOT 4 fluids generally have a higher boiling point than DOT 3 due to the addition of borate esters[1].
+
+## DOT 5.1 Brake Fluid
+
+DOT 5.1 is also glycol-based but has an even higher boiling point than DOT 4. It uses similar ingredients to DOT 4 but with a modified formulation to achieve better performance[2].
+
+## DOT 5 Brake Fluid
+
+Unlike the other DOT fluids, DOT 5 is silicone-based[2][5]. Its main ingredients include:
+
+1. Silicone oils
+2. Additives for performance enhancement
+
+DOT 5 is not compatible with other DOT fluids and is primarily used in specific applications like classic cars or military vehicles[9].
+
+## Other Specialized Brake Fluids
+
+1. Racing brake fluids: These are typically based on glycol ethers but with specialized additives to achieve extremely high boiling points[8].
+
+2. Low viscosity brake fluids: These use similar base ingredients to standard DOT 4 fluids but are formulated to have lower viscosity for improved performance in ABS and ESP systems[8].
+
+It's important to note that the exact formulations of brake fluids can vary between manufacturers, and many products contain proprietary blends of additives to achieve specific performance characteristics[3].

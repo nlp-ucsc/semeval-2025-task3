@@ -1,0 +1,6 @@
+In a case-control study, there are typically **two groups** that are examined:
+
+1. **Cases** - These are individuals who have the disease, outcome, or condition being studied.
+2. **Controls** - These are individuals who do not have the disease, outcome, or condition being studied.
+
+The study compares these two groups to identify potential risk factors or associations between exposures and the outcome.

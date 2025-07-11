@@ -1,0 +1,17 @@
+The given answer is incorrect. The spade-toothed whale (Mesoplodon traversii) was not named for Georges Cuvier, nor was it first described in 1829.
+
+The correct information is:
+
+The spade-toothed whale (Mesoplodon traversii) was named by John Edward Gray in 1874[1][5]. Gray proposed the name Dolichodon traversii for a lower jaw and teeth found on Pitt Island, New Zealand in 1872 by naturalist Henry Travers[5]. The species name "traversii" honors Travers, the collector of the specimen[5].
+
+The initial discovery and naming occurred as follows:
+
+1. In 1872, Henry Travers found a lower jaw with teeth on Pitt Island, New Zealand[5].
+
+2. In 1873, James Hector, director of the Colonial Museum, reported the jaw, mistakenly identifying it as a strap-toothed whale (Dolichodon layardii)[1][5].
+
+3. In 1874, John Edward Gray doubted Hector's identification and proposed the name Dolichodon traversii for what he believed to be a new species[1][5].
+
+4. The species was later reclassified into the genus Mesoplodon, becoming Mesoplodon traversii[1][5].
+
+It's worth noting that the species went through some taxonomic confusion, being misidentified or described under different names over the years, before genetic analysis in 2002 confirmed its status as a distinct species[1][2].

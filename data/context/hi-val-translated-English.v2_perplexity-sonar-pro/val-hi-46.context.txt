@@ -1,0 +1,17 @@
+Probability is not inherently "in the middle of numbers," but it is often represented using numbers between 0 and 1. This range is chosen for several important reasons:
+
+1. Normalized scale: The 0 to 1 scale provides a standardized way to represent probabilities[1]. A probability of 0 means an event is impossible, while a probability of 1 means an event is certain to occur. All other probabilities fall between these two extremes.
+
+2. Intuitive interpretation: This scale allows for an intuitive understanding of likelihood. A probability closer to 0 indicates a less likely event, while a probability closer to 1 indicates a more likely event[1]. For example, a probability of 0.5 (or 50%) represents an event that is equally likely to occur or not occur, like flipping a fair coin[2].
+
+3. Mathematical convenience: The 0 to 1 scale facilitates mathematical operations and comparisons. It ensures that probabilities can be easily added, multiplied, and compared without exceeding the bounds of the scale.
+
+4. Percentage conversion: Probabilities can be easily converted to percentages by multiplying by 100. This allows for expressing probabilities in a format that many people find easier to understand (e.g., a 25% chance instead of 0.25)[2].
+
+5. Compatibility with statistical theory: Many statistical concepts and formulas are built around probabilities expressed in this range. For instance, the cumulative distribution function of a probability distribution is defined to be between 0 and 1[3].
+
+6. Representation of uncertainty: The 0 to 1 scale effectively captures the full spectrum of uncertainty, from complete impossibility to absolute certainty, with all degrees of likelihood in between.
+
+It's important to note that while probabilities are often represented as numbers between 0 and 1, they can also be expressed as fractions or percentages. For example, the probability of rolling a 3 on a fair six-sided die can be expressed as 1/6, 0.167, or 16.7%[2]. These are all equivalent ways of representing the same probability.
+
+In summary, probability is represented using numbers between 0 and 1 not because it is inherently "in the middle," but because this scale provides a standardized, intuitive, and mathematically convenient way to quantify and compare the likelihood of events.

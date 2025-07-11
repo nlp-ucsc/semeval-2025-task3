@@ -1,0 +1,15 @@
+<think>
+Okay, so the user is asking, if today is October 14th and it's not a leap year, how many days are left until the end of the year. Hmm, let me break this down.
+
+First, I need to figure out the number of days from October 14th to December 31st. Since it's not a leap year, February has 28 days, but that doesn't affect October to December.
+
+Looking at the months after October: November has 30 days, December has 31. So from October 14th to October 31st, that's 31 minus 14, which is 17 days. Then November has 30, and December up to the 31st is 31 days. Adding those together: 17 + 30 + 31 equals 78 days.
+
+Wait, but I should double-check. Maybe using a date calculator would help. Oh, the search results have a date calculator that says there are 78 days between October 14th and December 31st, 2024. That confirms it.
+
+So, the total days remaining would be 78. But wait, does that include both the start and end dates? The calculator mentions that if you include the end date, it's 79 days. But the user didn't specify, so I think the standard is to exclude the end date when counting remaining days.
+
+Therefore, the answer should be 78 days.
+</think>
+
+If today is October 14th, and it is not a leap year, there are **78 days** remaining until the end of the year. This calculation includes all days from October 15th to December 31st.

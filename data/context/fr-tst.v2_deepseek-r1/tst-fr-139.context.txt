@@ -1,0 +1,5 @@
+Microsoft Neptune était un projet de système d'exploitation de Microsoft, annoncé Vers 1990. Il était prévu pour être une version 32-bit de MS-DOS, conçue pour fonctionner sur des processeurs Intel 80386 et nouveaux. Cependant, le développement de Neptune a été annulé au profit de Windows 2000.
+
+En ce qui concerne l'interface utilisateur de Neptune, il était prévu qu'elle soit basée sur une interface utilisateur graphique similaire à celle de Windows, mais légère et plus proche du systèmede fichiers. Malheureusement, comme Neptune n'a jamais été officiellement publié, les détails exacts sur son interface utilisateur restent limités.
+
+Il est important de noter que Neptune a été un projet interne de Microsoft qui n'a jamais été publié. Beaucoup des technologies développées pour Neptune ont été intégrées dans d'autres versions de Windows. Si vous avez d'autres questions, n'hésitez pas à demander !

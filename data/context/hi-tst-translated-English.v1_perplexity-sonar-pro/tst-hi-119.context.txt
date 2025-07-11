@@ -1,0 +1,21 @@
+The unwanted AC signal present in the DC output obtained from a power supply is called ripple[2][6][8].
+
+Ripple refers to the small, residual AC voltage that remains superimposed on the desired DC output voltage of a power supply[2][6]. This AC component is an undesirable artifact that results from the power conversion process, particularly in switched-mode power supplies and rectifier circuits.
+
+Some key points about ripple:
+
+1. Origin: Ripple typically originates from the rectification and filtering stages of AC-to-DC conversion. In a basic rectifier circuit, the pulsating DC output still contains AC components at multiples of the input frequency[8].
+
+2. Measurement: Ripple is usually measured peak-to-peak and expressed as a percentage of the DC output voltage or as an RMS (root mean square) value[6].
+
+3. Effects: Excessive ripple can cause problems in sensitive electronic circuits, potentially leading to noise, interference, or improper operation of devices connected to the power supply[3].
+
+4. Reduction methods: Common techniques to reduce ripple include:
+   - Using larger filter capacitors
+   - Implementing more sophisticated filtering circuits
+   - Employing voltage regulation stages
+   - Using inductors in low-pass filter configurations[4]
+
+5. Terminology: While "ripple" is the most common term, it's sometimes also referred to as "residual AC" or "AC noise" in power supply contexts[2][6].
+
+Understanding and managing ripple is crucial for designing effective power supplies and ensuring the proper operation of electronic devices that rely on clean DC power.

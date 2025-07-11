@@ -1,0 +1,14 @@
+According to the official report from the Bureau of Enquiry and Analysis for Civil Aviation Safety (BEA), the probable cause of the Air France Flight 296 crash was a combination of several factors[2]:
+
+1. Very low flyover height, lower than surrounding obstacles
+2. Speed very slow and reducing to reach maximum possible angle of attack
+3. Engine speed at flight idle
+4. Late application of go-around power
+
+The BEA concluded that these factors together led to the aircraft impacting the trees at the end of the runway[2]. 
+
+Additionally, the report suggested that if the descent below 100 feet was not deliberate, it may have resulted from the crew's failure to properly account for the visual and aural information available to them regarding the aircraft's altitude above ground level[2].
+
+The investigation found no evidence of mechanical or electronic systems failure. The aircraft was determined to be airworthy, with its weight and center of gravity within limits[2]. The engines were found to have responded normally to throttle inputs, based on data from the flight data recorder and spectral analysis of engine sounds on the cockpit voice recorder[2].
+
+It's worth noting that while this is the official conclusion, the captain, Michel Asseline, disputed these findings and claimed there were issues with the A320's fly-by-wire system[1][4]. However, the official investigation did not support these claims.

@@ -1,0 +1,26 @@
+Kraftenheten newton (N) definieras som den kraft som krävs för att ge en massa på ett kilogram en acceleration av 1 meter per sekund i kvadrat (m/s²)[1][3]. 
+
+Mer specifikt kan definitionen uttryckas på följande sätt:
+
+1 newton = 1 kg · m/s²
+
+Detta innebär att:
+
+1. En kraft på 1 N ger en massa på 1 kg en acceleration på 1 m/s²[1][3].
+2. Newton är en härledd SI-enhet som uttrycks i grundenheterna kilogram, meter och sekund[1].
+
+Denna definition härstammar från Newtons andra rörelselag, som beskriver sambandet mellan kraft (F), massa (m) och acceleration (a):
+
+F = m · a
+
+Där:
+- F är kraften mätt i newton (N)
+- m är massan mätt i kilogram (kg)
+- a är accelerationen mätt i meter per sekund i kvadrat (m/s²)[3][5]
+
+För att ge en praktisk förståelse kan man säga att 1 newton är ungefär:
+
+- Den kraft som en massa på 100 gram utövar på sitt underlag vid normal gravitation på jorden (mer exakt 0,982 N)[1].
+- Tyngden av ett mindre äpple[1].
+
+Det är värt att notera att enheten newton namngavs efter den brittiske fysikern Sir Isaac Newton, som gjorde betydande bidrag till vår förståelse av krafter och rörelse[2]. Enheten antogs officiellt 1948 under den nionde allmänna konferensen för mått och vikt[1].

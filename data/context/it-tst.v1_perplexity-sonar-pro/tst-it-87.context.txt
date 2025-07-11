@@ -1,0 +1,25 @@
+Microsoft Edge, particularly the modern Chromium-based version, does not support several legacy technologies that were present in older browsers like Internet Explorer. Here are the key legacy technologies not supported by Microsoft Edge:
+
+1. ActiveX: Microsoft Edge does not support ActiveX controls, which were proprietary plugins widely used in Internet Explorer[1][3]. ActiveX was often used for interactive content and browser extensions, but it also posed security risks.
+
+2. Browser Helper Objects (BHOs): These were a type of plugin for Internet Explorer that allowed developers to customize and control the browser. Microsoft Edge does not support BHOs[1][3].
+
+3. VBScript: This scripting language, which was supported in Internet Explorer, is not supported in Microsoft Edge.
+
+4. Legacy Document Modes: Internet Explorer allowed websites to specify older rendering modes for compatibility. Microsoft Edge does not support these legacy document modes.
+
+5. Proprietary Microsoft-specific APIs: Many of the non-standard APIs that were specific to Internet Explorer are not supported in Edge.
+
+6. MSHTML (Trident) Engine: The legacy browser engine used by Internet Explorer is not used in modern Microsoft Edge. Instead, Edge now uses the Chromium engine (Blink)[1].
+
+7. Silverlight: Microsoft's deprecated application framework for rich internet applications is not supported in Edge.
+
+8. Adobe Flash Player: While initially supported, Flash has been completely removed from Microsoft Edge as of early 2021, following Adobe's end of support for Flash Player[1][4].
+
+9. Legacy Edge Synchronization: The new Chromium-based Edge does not synchronize with the legacy EdgeHTML-based version of Edge[2].
+
+10. Internet Explorer Synchronization: Microsoft Edge does not support synchronization with Internet Explorer[2].
+
+Instead of these legacy technologies, Microsoft Edge uses a more modern extension system based on the WebExtension API, which is compatible with many Chrome extensions[1][3]. This shift away from legacy technologies improves security, performance, and cross-browser compatibility while aligning Edge more closely with web standards.
+
+For organizations that still require access to sites or applications that depend on these legacy technologies, Microsoft provides Internet Explorer mode in Edge. This allows specific sites to be rendered using the legacy IE engine within the Edge browser, providing a bridge for compatibility while organizations work on modernizing their applications[6].

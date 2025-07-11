@@ -1,0 +1,7 @@
+Mir-avaruusasema perustui Neuvostoliiton avaruusohjelmaan. Sen suunnittelu alkoi 1970-luvulla, ja se oli osa Neuvostoliiton modulaarista avaruusasema-ohjelmaa, jossa eri osat (modulit) kytkeytyivät yhteen muodostaen suuremman avaruusaseman. Mir oli myös osa Neuvostoliiton pitkäaikaista avaruustutkimusohjelmaa, jossa tavoitteena oli luoda tehokas, pitkäaikainen avaruusasema, joka pystyisi tukemaan pitkäkestoista ihmisen läsnäoloa avaruudessa.
+
+Mir-avaruusasema koostui useista modulieerista, kuten esimerkiksi keskusmoduli "Zvezda", joka oli aseman pääosin jossa oli asuin- ja hallintotilat. Muita moduleita olivat "Kvant", "Kvant-2", "Kristall", "Spectr" ja "Priroda". Asema oli laajennettavissa ja sen massa oli siten melko suuri, yhteensä runsaat 250 tonnia.
+
+Mir oli toiminnassa vuosina 1986–2001, ja se oli osa Neuvostoliiton ja sittemmin Venäjän avaruusjärjestön (Roskosmos) toimintaa. Aseman toiminta päättyi vuonna 2001, jolloin se syöksyi maan ilmakehään ja tuhoutui.
+
+Mir oli merkittävä avaruustutkimuksen saavutus, ja se tarjosi tärkeää tietoa pitkäaikaisten avaruusasemien suunnitteluun ja toimintaan.

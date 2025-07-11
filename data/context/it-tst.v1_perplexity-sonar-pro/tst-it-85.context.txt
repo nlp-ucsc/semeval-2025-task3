@@ -1,0 +1,5 @@
+The Canon EOS 70D has a 20.2 megapixel sensor[1][2][4]. Specifically, it features a 20.2 megapixel APS-C CMOS sensor with dimensions of 22.5 x 15.0mm[1][4]. This sensor provides a maximum image resolution of 5472 x 3648 pixels[1][4].
+
+The 20.2 megapixel resolution represents an upgrade from the previous EOS 60D model, which had an 18 megapixel sensor[5]. Along with the increased resolution, the 70D's sensor incorporates Canon's innovative Dual Pixel CMOS AF technology, which enables on-chip phase detection autofocus at every pixel across a large portion of the sensor area[4][5].
+
+This new sensor design, combined with the DIGIC 5+ image processor, allows the 70D to deliver high-quality 14-bit images with accurate colors and natural tonal gradation[2][3]. The increased resolution and advanced sensor technology aim to provide improved image quality and performance compared to its predecessor.

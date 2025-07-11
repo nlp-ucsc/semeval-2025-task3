@@ -1,0 +1,25 @@
+Las licencias que Microsoft utiliza para distribuir su código fuente compartido varían dependiendo del proyecto y del contexto. Microsoft utiliza una variedad de licencias de código abierto y shared source. Algunas de las licencias más comunes que ha utilizado incluyen:
+
+1. **Licencia MIT (MIT License):** Una licencia permissiva que permite una amplia libertad para usar, modificar y distribuir el código.
+
+2. **Licencia Apache 2.0 (Apache License 2.0):** Otra licencia permissiva ampliamente utilizada que permite el uso, modificación y distribución del código, incluyendo en proyectos comerciales.
+
+3. **Licencia BSD (BSD License):** Similar a la licencia MIT, permite el uso, modificación y redistribución del código con pocos requisitos.
+
+4. **Licencia GPLv2 (GNU General Public License version 2):** Una licencia copyleft que requiere que las modificaciones y obras derivadas también sean distribuidas bajo la misma licencia.
+
+5. **Licencia LGPLv2.1 (Lesser General Public License version 2.1):** Similar a la GPLv2 pero más permisiva, permitiendo el uso en bibliotecas propietarias.
+
+6. **Licencia MS-PL (Microsoft Permissive License):** Una licencia permissiva de Microsoft que permite el uso, modificación y distribución del código, similar a la MIT.
+
+7. **Licencia MSRL (Microsoft Reciprocal License):** Una licencia de "copyleft" menos restrictiva que la GPL, que requiere compartir las modificaciones pero permite el uso en software comercial.
+
+8. **EPL (Eclipse Public License):** Utilizada por algunos proyectos de Microsoft, esta licencia es compatible con la GPL y permite ciertos usos comerciales.
+
+Es importante mencionar que Microsoft también ha lanzado el **Shared Source Initiative**, que abarca various programas y licencias específicas para compartir código fuente con diferentes términos y condiciones. Algunos ejemplos incluyen:
+
+- **Microsoft Reference Source License:** Permite ver y referenciar el código fuente pero no modificarlo ni redistribuirlo.
+
+- **Microsoft Limited Recursive License:** Permite modificar y compartir el código, siempre y cuando se mantengan los términos de la licencia.
+
+Para obtener información precisa sobre una licencia específica, es recomendable consultar los términos de la licencia incluidos en el repositorio o proyecto en cuestión.

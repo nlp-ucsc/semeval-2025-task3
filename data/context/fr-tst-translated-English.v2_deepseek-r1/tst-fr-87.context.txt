@@ -1,0 +1,11 @@
+The Shared Source license is a licensing model introduced by Microsoft that allows developers to view and modify the source code of certain software products. It's designed to promote collaboration and innovation within the developer community while maintaining some restrictions to protect Microsoft's intellectual property. Here are some key points about what the Shared Source license allows:
+
+1. **Access to Source Code**: Developers are granted access to the source code of the software, enabling them to inspect, understand, and learn from it.
+
+2. **Modification**: Users are allowed to modify the source code to meet their specific needs or to contribute to the improvement of the software.
+
+3. **Distribution**: The terms regarding distribution vary depending on the specific Shared Source license. Some versions may permit redistribution of the modified code, while others may restrict it.
+
+4. **Collaboration**: It encourages collaboration among developers, fostering a community-driven approach to software development.
+
+It's important to note that the Shared Source Initiative is not open-source under the traditional definition, as it imposes certain restrictions on how the source code can be used and shared. Microsoft uses various Shared Source licenses tailored to different projects, so the exact permissions may differ depending on the specific license agreement.

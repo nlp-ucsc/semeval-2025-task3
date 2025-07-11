@@ -1,0 +1,11 @@
+According to the 2010 census data, Gogebic County had a population density of approximately 14.9 inhabitants per square mile[5]. To convert this to inhabitants per square kilometer, we need to perform a unit conversion:
+
+1 square mile = 2.59 square kilometers
+
+14.9 inhabitants/square mile * (1 square mile / 2.59 square kilometers) = 5.75 inhabitants/square kilometer
+
+Therefore, based on the 2010 census, Gogebic County had approximately 5.75 inhabitants per square kilometer.
+
+This low population density reflects the rural nature of Gogebic County, which is located in the Upper Peninsula of Michigan. The county has experienced a gradual population decline over the years, with the total population decreasing from 17,370 in 2000 to 16,427 in 2010[1][2]. This trend has continued, with estimates showing a further decrease to 14,224 by 2023[7].
+
+The sparse population distribution is typical for many counties in Michigan's Upper Peninsula, which is characterized by vast forested areas and a relatively small number of urban centers. Gogebic County's largest city, Ironwood, had a population of 5,387 in 2010, with a higher population density of 839.1 inhabitants per square mile (or about 324 inhabitants per square kilometer) within the city limits[3].

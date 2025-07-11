@@ -1,0 +1,14 @@
+The year 1276 had 366 days[1][5]. 
+
+This is because 1276 was a leap year in the Julian calendar, which was in use at that time. Leap years in the Julian calendar occurred every 4 years without exception, adding an extra day (February 29th) to the usual 365 days[1].
+
+Some key points about the year 1276:
+
+1. It started on a Wednesday and ended on a Thursday[5].
+2. It was week 53 of 1275 when the year began[6].
+3. As a leap year, February had 29 days instead of the usual 28[5].
+4. The extra day (February 29th) fell between February 28th and March 1st[5].
+
+The leap year system was introduced by Julius Caesar in 45 BCE to keep the calendar year synchronized with the astronomical year. This was necessary because the actual time it takes for the Earth to orbit the Sun is slightly longer than 365 days. Without leap years, the calendar would gradually drift out of alignment with the seasons.
+
+It's worth noting that the current Gregorian calendar, which was introduced in 1582, modifies the leap year rule slightly to improve accuracy, but in 1276, the simpler Julian system was still in use throughout Europe.

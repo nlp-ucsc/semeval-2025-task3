@@ -1,0 +1,23 @@
+Una fracción unitaria en matemáticas es una fracción que tiene 1 como numerador y un número entero positivo como denominador[1][2][3]. Algunas características importantes de las fracciones unitarias son:
+
+1. Estructura: Siempre tienen la forma 1/n, donde n es un número entero positivo[1][3].
+
+2. Representación: Indican una parte de un todo dividido en partes iguales. Por ejemplo, 1/4 representa una de las cuatro partes iguales en que se divide algo[1][2].
+
+3. Ejemplos comunes: Algunas fracciones unitarias frecuentes son 1/2, 1/3, 1/4, 1/5, 1/10 y 1/100[1][2].
+
+4. Uso cotidiano: Se utilizan a menudo en situaciones diarias, como dividir alimentos o medir ingredientes[4].
+
+5. Comparación: Cuanto mayor es el denominador, menor es la fracción. Por ejemplo, 1/10 es menor que 1/2[4].
+
+6. Propiedades matemáticas:
+   - El producto de dos fracciones unitarias es otra fracción unitaria[6].
+   - La suma de todas las fracciones unitarias es infinita[6].
+
+7. Aplicaciones: Son fundamentales para entender conceptos de división, proporción y para desarrollar habilidades matemáticas más avanzadas[1][4].
+
+8. Visualización: Se pueden representar fácilmente de forma gráfica, lo que ayuda a comprender su significado, por ejemplo, dividiendo un círculo o un rectángulo en partes iguales[5][10].
+
+9. Simplificación: Las fracciones unitarias ya están en su forma más simple y no pueden simplificarse más[8].
+
+Las fracciones unitarias son un concepto básico pero crucial en matemáticas, sirviendo como base para entender fracciones más complejas y operaciones con ellas.

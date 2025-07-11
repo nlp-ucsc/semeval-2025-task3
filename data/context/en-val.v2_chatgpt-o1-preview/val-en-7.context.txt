@@ -1,0 +1,15 @@
+To find out how many days remain until the end of the year from October 14th in a non-leap year, we'll calculate the remaining days in October and add the full days of November and December.
+
+1. Remaining days in October:
+ - Total days in October: 31
+ - Days passed by October 14th: 14
+ - Remaining days in October: 31−14=17 days
+2. Total days in November and December:
+ - November has 30 days
+ - December has 31 days
+ - Total: 30+31=61 days
+3. Total remaining days until the end of the year:
+ - 17 (October) + 61 (November and December) = 78 days
+
+Answer: 78
+

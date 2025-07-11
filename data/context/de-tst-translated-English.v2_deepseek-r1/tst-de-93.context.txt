@@ -1,0 +1,11 @@
+When you cut a cone with a plane, the resulting cross-sectional figure can vary depending on the angle and position of the plane relative to the cone. Here are the possible geometric figures you can obtain:
+
+1. **Circle**: If the cutting plane is parallel to the base of the cone, the cross-section is a circle.
+
+2. **Ellipse**: If the cutting plane intersects the cone at an angle, but not parallel to the base or parallel to the side, the cross-section is an ellipse.
+
+3. **Parabola**: If the cutting plane is parallel to one of the cone's side elements (generators) but not parallel to the base, the cross-section is a parabola.
+
+4. **Hyperbola**: If the cutting plane intersects both nappes of the cone (assuming it's a double-napped cone), the cross-section is a hyperbola.
+
+These cross-sections are known as conic sections and are fundamental in geometry.

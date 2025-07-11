@@ -1,0 +1,19 @@
+Microsoft Edge does not support several legacy technologies that were present in older versions of Internet Explorer. Some of the key legacy technologies supported in Internet Explorer but not in Microsoft Edge include:
+
+1. **ActiveX Controls**: Edge does not support ActiveX, which was a component used for embedding interactive content in web pages.
+
+2. **Browser Helper Objects (BHOs)**: These were used to extend the functionality of Internet Explorer but are not supported in Edge.
+
+3. **VBScript**: Edge does not support VBScript, which was a scripting language used in web pages.
+
+4. **JScript**: While Edge supports JavaScript, it does not support JScript, which was Microsoft's implementation of JavaScript for Internet Explorer.
+
+5. **DirectX Filters**: These were used for multimedia content but are not supported in Edge.
+
+6. **Legacy Document Modes**: Edge does not support the document modes used in Internet Explorer, as it uses a modern rendering engine.
+
+7. **attachment: URLs for Files**: Edge does not support the `attachment` URL scheme, which was used in Internet Explorer to handle file downloads.
+
+8. **Legacy Com Pat URLs**: Edge does not support legacy Component Object Model (COM) URLs that were used in Internet Explorer.
+
+For a more comprehensive list, you can refer to Microsoft's official documentation or release notes for Microsoft Edge, which details all the deprecated and unsupported legacy technologies.

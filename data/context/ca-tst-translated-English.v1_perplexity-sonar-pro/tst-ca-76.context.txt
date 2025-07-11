@@ -1,0 +1,9 @@
+Microsoft Edge was initially developed under the code name "Project Spartan"[1][2][5]. This code name was used during the early stages of the browser's development and was a reference to the Spartan characters from Microsoft's popular Halo video game series[5].
+
+Microsoft first unveiled the browser in January 2015 using this code name[5]. The company continued to use "Project Spartan" for several months while developing and testing the new browser.
+
+On April 29, 2015, at its Build developer conference, Microsoft officially announced that the browser would be called "Microsoft Edge"[1][2][5][8]. This announcement marked the transition from the code name to the official product name.
+
+The choice of "Edge" as the final name appears to be related to the browser's rendering engine, which is called EdgeHTML[5]. This name also aligns with Microsoft's goal of positioning the browser as a cutting-edge, modern alternative to Internet Explorer.
+
+It's worth noting that while "Project Spartan" was the primary code name used publicly, Microsoft's internal development process may have involved other code names or designations that were not widely publicized.

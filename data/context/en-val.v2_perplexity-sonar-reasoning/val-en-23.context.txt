@@ -1,0 +1,9 @@
+<think>
+Okay, so the user is asking when the municipality of Delley-Portalban was created. I need to find the correct date from the provided search results. Let me go through each result one by one.
+
+Looking at result [1], it clearly states that the municipality was created on 1 January 2005 from the merger of Delley and Portalban. That's a direct answer. Result [2] from Wikipedia also mentions the same date and the merger details. Result [4] on Simple Wikipedia confirms it as well, saying it was created on 1 January 2005 by merging the two villages. Result [5] from FamousFix.com again repeats the same information.
+
+All the sources are consistent, so I can confidently say the municipality was established on 1 January 2005. I should present this information clearly, citing the relevant sources as per the instructions.
+</think>
+
+The municipality of Delley-Portalban was created on **1 January 2005** through the merger of Delley and Portalban[1][2][4][5].

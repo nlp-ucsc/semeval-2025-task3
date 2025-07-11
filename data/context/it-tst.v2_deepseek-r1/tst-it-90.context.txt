@@ -1,0 +1,15 @@
+Microsoft ha rilasciato diverse licenze a codice sorgente aperto che sono state approvate dalla Open Source Initiative (OSI). Tra queste, le principali includono:
+
+1. **MIT License**: Ampiamente utilizzata, è una licenza permissiva che consente un utilizzo, condivisione, modifica e distribuzione del codice molto flessibili.
+
+2. **Apache License 2.0**: Un'altra licenza permissiva che offre molte libertà, richiedendo solamente di conservare i copyright e le note di licenza originali.
+
+3. **BSD 3-Clause License**: Simile alla MIT License, offre condizioni permissive per l'uso del codice.
+
+4. **Microsoft Public License (MS-PL)**: Nonostante il nome, non è più comunemente utilizzata dopo l'adozione di altre licenze.
+
+5. **Shared Source Initiative**: Un iniziativo che include diverse licenze aperte, alcune delle quali sono state approvate dall'OSI.
+
+6. **Microsoft Reciprocal License (MS-RL)**: Sebbene non sia più usata attivamente, è ancora riconosciuta.
+
+È consigliabile verificare direttamente sul sito della OSI per l'elenco aggiornato delle licenze approvate, poiché Microsoft potrebbe averne aggiunto altre nel tempo.

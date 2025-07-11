@@ -1,0 +1,21 @@
+Protons and neutrons together form the atomic nucleus. The nucleus is the dense central core of an atom, containing nearly all of its mass[1][4]. 
+
+Here are some key points about the atomic nucleus:
+
+1. Composition: The nucleus consists of positively charged protons and electrically neutral neutrons[1][8]. These particles are collectively referred to as nucleons[2][8].
+
+2. Nuclear force: Protons and neutrons are bound together in the nucleus by the strong nuclear force[1][4]. This force is powerful enough to overcome the electrostatic repulsion between positively charged protons[7].
+
+3. Size: The nucleus is extremely small compared to the overall size of the atom. Its diameter ranges from about 1.70 fm (femtometers) for hydrogen to 11.7 fm for uranium[1].
+
+4. Mass: Despite its small size, the nucleus contains more than 99.9% of the atom's mass[8].
+
+5. Atomic number and mass: The number of protons in the nucleus determines the element's atomic number and chemical identity. The total number of protons and neutrons gives the atom's mass number[2].
+
+6. Isotopes: Atoms of the same element can have different numbers of neutrons, forming isotopes[3].
+
+7. Stability: The stability of a nucleus depends on the balance between protons and neutrons. Some combinations are stable, while others undergo radioactive decay[4].
+
+8. Subatomic structure: At an even more fundamental level, protons and neutrons are composed of quarks held together by the strong force[5].
+
+Understanding the structure and behavior of the atomic nucleus is crucial in fields such as nuclear physics, chemistry, and various technological applications.

@@ -1,0 +1,24 @@
+The time equation defines two main types of solar time differences:
+
+1. Apparent solar time vs. mean solar time
+
+The primary difference described by the equation of time is between apparent solar time and mean solar time[5][8][9]. 
+
+Apparent solar time (also called true solar time) is based on the actual observed position of the Sun in the sky[5]. It varies throughout the year due to the Earth's elliptical orbit and axial tilt.
+
+Mean solar time is based on a fictional "mean Sun" that moves at a constant rate[5]. This is the uniform 24-hour day we use for civil timekeeping.
+
+The equation of time quantifies the difference between these two types of solar time throughout the year, which can be up to about 16 minutes[8][9].
+
+2. Local solar time vs. local clock time 
+
+The equation of time is also used to calculate the difference between local solar time and local clock time at a given location[7]. This accounts for:
+
+- The longitude difference between the location and the standard meridian of its time zone
+- The equation of time (apparent vs. mean solar time difference)
+
+So in summary, the equation of time defines the difference between:
+1) Apparent and mean solar time
+2) Local solar time and local clock time
+
+These two types of solar time differences are closely related, with the apparent vs. mean solar time difference being a key component in calculating local solar time vs. local clock time.

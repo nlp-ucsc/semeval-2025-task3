@@ -1,0 +1,6 @@
+The harmonic series is composed of fractions where each term is the reciprocal of a positive integer. Specifically, the nth term of the harmonic series is \( \frac{1}{n} \). 
+
+For example, the series begins as:
+\[ 1 + \frac{1}{2} + \frac{1}{3} + \frac{1}{4} + \ldots \]
+
+Each term is a fraction \( \frac{1}{n} \), and the series continues indefinitely.

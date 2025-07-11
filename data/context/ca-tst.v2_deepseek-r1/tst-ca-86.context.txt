@@ -1,0 +1,20 @@
+El protó i l'antiprotó són partícules subatòmiques que formen part de la família dels hadrons. Tot i que ambdós tenen propietats molt semblants, també presenten algunes diferències fonamentals.
+
+### 1. **Càrrega elèctrica**:
+   - **Protó**: Té una càrrega elèctrica positiva, concretament de +1 unitat de càrrega elemental (QE), on 1 QE = 1,602 x 10⁻¹⁹ coulombs.
+   - **Antiprotó**: Té una càrrega elèctrica negativa de -1 QE.
+
+### 2. **Antimateria**:
+   - El protó és una partícula de materia, mentre que l'antiprotó és la seva corresponenct antipartícula. Això significa que quan un protó i un antiprotó es troben, poden anihilar-se mútuament, convertint la seva massa en energia segons la relació E=mc² d'Albert Einstein.
+
+### 3. **Estructura quàntica**:
+   - Ambdós están compostos per quarks, però mentre el protó està format per dos quarks up (u) i un quark down (d), és a dir, uud, l'antiprotó està compost per dues antiquarques up (ū) i una antiquarka down (d̄), és a dir, ūūd̄.
+
+### 4. **Massa**:
+   - Tots dos tenen la mateixa massa, aproximadament 938 mega-electronvolts (MeV/c²). Aquesta massa prové majoritàriament de l'energia de lligadura dels quarks i del camp de força forta, més que no pas de les masses inherents dels quarks individuals.
+
+### 5. **Spí**:
+   - Ambdues partícules tenen el mateix valor de spí, que és ½. Això significa que tots dos són fermions i obeeixen l'estadística de Fermi-Dirac.
+
+### Resum:
+   Les principals diferències entre el protó i l'antiprotó reten amb la càrrega elèctrica oposada i el fet que els antiprotons són partícules d'antimateria. Aquesta diferència conreta és crucial en física de partícules, ja que permet que interaccions entre proteons i antiprotons donin lloc processos d'anihilament. A més, mentre que els protons són abundantment presents en nuclis atòmics, els antiprotons es troben més rarament en la natura i són majoritàriament produïts en els laboratoris d'investigació científica.

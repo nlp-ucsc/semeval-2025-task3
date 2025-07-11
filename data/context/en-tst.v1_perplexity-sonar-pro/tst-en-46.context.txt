@@ -1,0 +1,15 @@
+Bombykol is primarily released by female silkworm moths to attract mates. Specifically:
+
+1. The domesticated silkworm moth (Bombyx mori) releases bombykol as its sex pheromone[1][2]. This species was the first in which bombykol was identified and characterized.
+
+2. The wild silk moth (Bombyx mandarina) also uses bombykol as its sex pheromone[1]. This is the wild ancestor of the domesticated silkworm moth.
+
+Bombykol was discovered by Adolf Butenandt in 1959 and was the first pheromone to be chemically characterized[1]. It is produced in minute quantities by the female moths in their pheromone glands called abdominal sacculi laterales[6].
+
+The release of bombykol by female moths serves a crucial role in their mating behavior:
+
+- Male silkworm moths can detect extremely low concentrations of bombykol using specialized sensilla on their antennae[6].
+- When male moths detect bombykol, it triggers specific sexual behaviors such as wing vibration, walking, and orienting themselves upwind towards the source of the pheromone[6].
+- This allows male moths to locate female moths for mating, even over considerable distances.
+
+It's worth noting that while bombykol is primarily associated with silkworm moths, the study of this pheromone has had broader implications for understanding insect communication and has led to applications in pest management for various moth species[3].

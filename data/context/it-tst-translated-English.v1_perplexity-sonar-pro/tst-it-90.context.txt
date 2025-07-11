@@ -1,0 +1,19 @@
+The Open Source Initiative (OSI) has approved two Microsoft licenses as open source licenses:
+
+1. Microsoft Public License (Ms-PL)[2][7][9]
+2. Microsoft Reciprocal License (Ms-RL)[2][9]
+
+These licenses were approved by the OSI on October 12, 2007[2][9]. Here are some key details about these licenses:
+
+Microsoft Public License (Ms-PL):
+- It is the least restrictive of the Microsoft licenses[2].
+- Allows for distribution of compiled code for commercial or non-commercial purposes under any license that complies with the Ms-PL[2].
+- Redistribution of the source code itself is permitted only under the Ms-PL[2].
+- It is considered a free software license by the Free Software Foundation, but not compatible with the GNU GPL[2].
+
+Microsoft Reciprocal License (Ms-RL):
+- Allows for distribution of derived code as long as the modified source files are included and retain the Ms-RL[2].
+- Files in the distribution that do not contain code originally licensed under Ms-RL can be licensed according to the copyright holder's choosing[2].
+- It is similar to licenses like CDDL, EPL, or LGPL, but not exactly the same[2].
+
+Both of these licenses are considered open source by the OSI and free by the Free Software Foundation[2]. Microsoft's involvement with open source has grown significantly since these approvals. In 2017, Microsoft became a Premium Sponsor of the Open Source Initiative[6][8], further solidifying its commitment to open source principles and practices.

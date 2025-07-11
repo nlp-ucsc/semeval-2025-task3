@@ -1,0 +1,24 @@
+Capacity-based suffrage does indeed constitute a restriction on the right to vote. This type of restriction is based on an individual's mental capacity or competence to make voting decisions.
+
+Capacity-based suffrage restrictions are complex and controversial. Here are some key points to consider:
+
+1. Legal basis: Many countries allow for capacity-based restrictions on voting rights. For example, Article 23(2) of the American Convention on Human Rights permits regulations on voting rights based on factors including "civil and mental capacity"[6].
+
+2. Varying implementations: Different jurisdictions approach capacity-based restrictions differently:
+
+   - Some use categorical exclusions, such as disenfranchising all individuals under guardianship[1].
+   - Others require individualized assessments of a person's capacity to vote[1].
+
+3. Concerns about discrimination: Broad categorical exclusions based on mental capacity have been criticized as potentially violating equal protection principles. They may disenfranchise many people who have the capacity to vote[3].
+
+4. Defining capacity: There's debate over how to define and assess the capacity to vote. Some argue there's no clear scientific threshold for determining sufficient capacity[1].
+
+5. Changing standards: Historically, voting restrictions were often based on categorical positions like guardianship or being judged "insane." Many modern approaches focus more on functional abilities related to voting[1].
+
+6. International perspective: Some international bodies advocate for a more inclusive approach. For instance, the European Court of Human Rights has criticized "indiscriminate removal of voting rights" based solely on mental disability requiring partial guardianship[6].
+
+7. U.S. context: In the United States, some states do restrict voting rights for certain individuals with mental disabilities, though specific rules vary by state[5].
+
+8. Balancing interests: Capacity-based restrictions attempt to balance the right to vote with concerns about electoral integrity. However, critics argue these restrictions may be overly broad and discriminatory.
+
+In conclusion, while capacity-based suffrage is a form of voting restriction, there's ongoing debate about its justification, implementation, and compatibility with principles of equal rights and non-discrimination. The trend in many jurisdictions is towards more individualized assessments and greater inclusion of people with mental disabilities in the electoral process.

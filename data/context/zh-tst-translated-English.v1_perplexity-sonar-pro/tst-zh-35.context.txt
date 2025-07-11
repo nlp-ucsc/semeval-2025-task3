@@ -1,0 +1,25 @@
+The concept of sharing source code in software development has a long history, but specific initiatives and policies have been implemented at different times. Here's a detailed overview of key milestones in source code sharing:
+
+1998 marked a significant year for open source initiatives:
+
+1. The Open Source Initiative (OSI) was formed in February 1998 as an educational, advocacy, and stewardship organization to promote open source software[1]. This was a pivotal moment in formalizing the concept of open source.
+
+2. The term "open source" itself was coined at a strategy session held on February 3, 1998, in Palo Alto, California[1]. This session was prompted by Netscape's announcement to release its browser's source code.
+
+3. OSI's founders, Eric Raymond and Bruce Perens, established the organization in late February 1998[1]. They quickly began drafting the Open Source Definition and creating a list of OSI-approved licenses.
+
+For Microsoft specifically:
+
+1. Microsoft began sharing Windows source code with academics as early as 1991[3].
+
+2. However, Microsoft's formal Shared Source Initiative was launched in May 2001[3][4]. This initiative was a significant step for Microsoft in increasing the transparency of its source code.
+
+3. By 2004, Microsoft announced that its Shared Source community had grown to 1 million participants[3].
+
+For the U.S. government:
+
+1. In 2016, the Obama administration released the Federal Source Code policy, which required new custom-developed source code for the Federal Government to be made available for sharing and re-use across all Federal agencies[5].
+
+2. More recently, as of January 1, 2025, President Biden signed the "Source Code Harmonization And Reuse in Information Technology Act" (SHARE IT Act), which requires agencies to share custom software[6].
+
+In summary, while source code sharing has been practiced informally for decades, formalized initiatives began in the late 1990s with the open source movement. Major tech companies like Microsoft initiated their programs in the early 2000s, and government policies promoting source code sharing have been implemented from the mid-2010s onward.

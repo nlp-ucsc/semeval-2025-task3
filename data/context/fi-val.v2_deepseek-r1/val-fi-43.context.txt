@@ -1,0 +1,13 @@
+Taiteiden ja humanististen tieteiden viittausindeksi (A&HCI) keskittyy pääasiallisesti taiteen ja humanististen tieteiden alaan. Se kattaa useita oppiaineita, kuten:
+
+- Taiteet (esim. musiikki, maalaustaide, teatteri)
+- Kieli ja kirjallisuus
+- Historia
+- Filosofia
+- Arkkitehtuuri
+
+A&HCI on osa Web of Science -tietokantaa, ja se on suunniteltu erityisesti humanististen ja taiteellisten alojen tutkijoita varten. Sen tarkoituksena on tarjota laajat viittaustiedot ja analytiikkaa näillä aloilla julkaistuihin artikkeleihin.
+
+Kuitenkin, joissakin tapauksissa A&HCI:ssä voi olla PMleita myös muiden alojen, kuten yhteiskunnallisten tieteiden tai joidenkin soveltavien tieteiden, lehdissä, jos ne käsittelevät taiteen tai humanististen tieteiden näkökulmia. Tämä riippuu lehtien sisällöstä ja sitä, miten ne on luokiteltu.
+
+Jos haluat tarkastella A&HCI:n kattavuutta tai etsiä tiettyjä lehtiä tai artikkeleita, suositelen tutustumista Web of Science -tietokannan sisällön kuvausten kautta.

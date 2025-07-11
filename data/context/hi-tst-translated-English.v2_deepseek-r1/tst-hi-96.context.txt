@@ -1,0 +1,11 @@
+One yottagram is equal to \(1 \times 10^{24}\) grams. 
+
+To convert grams to tons, we know that:
+- \(1\) kilogram (kg) = \(1,000\) grams
+- \(1\) metric ton = \(1,000\) kilograms = \(1,000,000\) grams
+
+Therefore, to convert yottagrams to tons:
+- \(1\) yottagram = \(1 \times 10^{24}\) grams
+- \(1 \times 10^{24}\) grams ÷ \(1,000,000\) grams per ton = \(1 \times 10^{18}\) tons
+
+So, there are \(1 \times 10^{18}\) tons in one yottagram.

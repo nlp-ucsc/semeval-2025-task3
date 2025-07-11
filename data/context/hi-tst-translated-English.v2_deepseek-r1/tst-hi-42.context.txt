@@ -1,0 +1,11 @@
+In Hindu cosmology, a Kalpa is a unit of time that represents one day in the life of Brahma, the creator deity. Within one Kalpa, there are multiple cycles, each of which is known as a Chaturyuga or Maha Yuga.
+
+A Chaturyuga is composed of four yugas (ages): Satya Yuga, Treta Yuga, Dvapara Yuga, and Kali Yuga. These four yugas together make up one Maha Yuga, which repeats multiple times during a single Kalpa.
+
+The number of Chaturyugas in a Kalpa is calculated as follows:
+
+1. One Chaturyuga (Maha Yuga) = 4 yugas (Satya, Treta, Dvapara, and Kali).
+2. Brahma's one day is equal to 1,000 Maha Yugas.
+3. Therefore, the total number of Chaturyugas in a Kalpa is 1,000.
+
+So, there are 1,000 Chaturyugas in one Kalpa.

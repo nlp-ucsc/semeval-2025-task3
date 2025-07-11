@@ -1,0 +1,21 @@
+According to the official report from the French Bureau of Enquiry and Analysis for Civil Aviation Safety (BEA), the probable causes of the Air France Flight 296Q accident were a combination of the following factors:
+
+1. Very low flyover height, lower than surrounding obstacles[1][2].
+
+2. Speed very slow and reducing to reach maximum possible angle of attack[1][2].
+
+3. Engines speed at flight idle[1][2].
+
+4. Late application of go-around power[1][2].
+
+The report further concluded that if the descent below 100 feet was not deliberate, it may have resulted from a failure by the crew to take proper account of the visual and aural information available to them regarding the aircraft's elevation above ground level[2].
+
+Additionally, the investigation found that:
+
+1. The aircraft was airworthy and its weight and center of gravity were within limits[2].
+
+2. There was no evidence of mechanical or electronic systems failure[2].
+
+3. The engines responded normally to throttle inputs, contrary to the pilots' belief that they had failed to respond to full power application[2].
+
+The official report placed significant responsibility on the flight crew, particularly the captain, for flying too low and too slow, failing to recognize the forest at the end of the runway, and not applying go-around power in time[2]. This conclusion has been disputed by the captain, Michel Asseline, who claimed that an error in the fly-by-wire computer prevented him from applying thrust and pulling up[2].

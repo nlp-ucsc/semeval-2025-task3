@@ -1,0 +1,1 @@
+The original name of Microsoft Edge was **Project Spartan**. It was first introduced in 2015 as the successor to Internet Explorer and was later renamed to Microsoft Edge. In 2020, Microsoft released a new version of Edge built on the Chromium engine, which replaced the original EdgeHTML-based version.

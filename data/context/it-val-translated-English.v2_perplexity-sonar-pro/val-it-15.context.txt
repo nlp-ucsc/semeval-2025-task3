@@ -1,0 +1,22 @@
+In 1987, Jef Raskin designed the Canon Cat, a task-dedicated microcomputer released by Canon Inc[1][2]. This machine was the closest realization of Raskin's original vision for a simple, appliance-like computer focused on efficient text processing and manipulation[1].
+
+The Canon Cat had several distinctive features:
+
+1. User Interface: It used a text-based interface without a mouse, icons, or graphics. All data was viewed as a long "stream" of text broken into pages[2].
+
+2. Unique Navigation: The Cat featured special "Leap keys" for incremental text search, allowing users to quickly navigate through documents[1][2].
+
+3. Hardware Specifications:
+   - 9-inch black-and-white monitor (80x24 character display, 672x344 resolution)
+   - Single 3½-inch 256 KB floppy disk drive
+   - Motorola 68000 CPU running at 5 MHz
+   - 256 KB of RAM
+   - Internal 300/1200 bit/s modem[2]
+
+4. Built-in Software: The Cat came with 256 KB of ROM containing a standard office suite, telecommunications software, a 90,000-word spelling dictionary, and programming tools for Forth and assembly language[2].
+
+5. Modeless Text Editing: This concept, developed by Raskin during his time at Apple, was central to the Cat's design[1].
+
+6. Price: The Canon Cat was introduced at $1,495 (equivalent to about $4,000 in 2023)[2].
+
+Raskin developed the Canon Cat after leaving Apple, where he had initiated the Macintosh project. The Cat represented his vision of an "information appliance" with a "humane interface," concepts he had been unable to fully implement in the Macintosh due to differences with Steve Jobs[3][4]. Despite its innovative features, the Canon Cat was not a commercial success and was discontinued shortly after its release[4][5].

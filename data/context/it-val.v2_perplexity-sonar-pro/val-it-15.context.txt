@@ -1,0 +1,15 @@
+Nel 1987, Jef Raskin progettò il Canon Cat[3][9]. 
+
+Il Canon Cat era un computer desktop dedicato a specifiche attività, prodotto da Canon Inc. nel 1987[3]. Alcune caratteristiche chiave del Canon Cat erano:
+
+- Prezzo di lancio di $1,495 (equivalente a circa $4,000 nel 2023)
+- Processore Motorola 68000 a 5 MHz
+- 256 KB di RAM
+- Display monocromatico da 9 pollici
+- Unità floppy disk da 3,5 pollici da 256 KB
+- Modem interno 300/1200 bit/s
+- Peso di 17 libbre (circa 7,7 kg)
+
+Il Canon Cat utilizzava un'interfaccia utente basata su testo, senza puntatore, mouse, icone o grafica[3]. Era progettato per essere un computer semplice e funzionale, in linea con la visione originale di Raskin di un "computer per le masse"[3][5].
+
+Raskin sviluppò il Canon Cat dopo aver lasciato Apple nel 1982. Fondò la sua azienda, Information Appliance Inc., per realizzare il suo concetto originale del progetto Macintosh[4]. Il design del Canon Cat fu concesso in licenza a Canon da Information Appliance[3].

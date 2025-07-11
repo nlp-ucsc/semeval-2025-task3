@@ -1,0 +1,19 @@
+According to Carlo Gozzi, an 18th-century Italian playwright, there are 36 dramatic situations or plots[1][3][4]. 
+
+Gozzi's idea of 36 dramatic situations became influential and was later expanded upon by other writers and theorists. In 1895, French writer Georges Polti published a book titled "The Thirty-Six Dramatic Situations," which elaborated on Gozzi's concept[1][8]. Polti analyzed classical Greek texts, French works, and some non-French authors to compile his list of 36 dramatic situations that could occur in a story or performance[8].
+
+Some key points about Gozzi's and Polti's 36 dramatic situations:
+
+1. The concept suggests that all stories can be categorized into a limited number of basic plot structures[3].
+
+2. Goethe, the famous German writer, referenced Gozzi's idea, stating that Schiller tried to find more situations but couldn't even find as many as Gozzi had[8].
+
+3. The list includes situations like Supplication, Deliverance, Crime Pursued by Vengeance, Vengeance Taken for Kindred Upon Kindred, Pursuit, and many others[1].
+
+4. Each situation in Polti's list includes the key elements or characters involved, such as "a Persecutor, a Suppliant and a Power in authority" for the Supplication situation[1].
+
+5. While the number 36 has been widely cited, some researchers and writers have proposed different numbers of basic plots. For instance, Christopher Booker suggested seven basic plot structures in his 2004 book[3].
+
+6. Modern computational analysis has suggested that there might be even fewer basic plots. One study using computer analysis proposed that there are only six basic book plots[3].
+
+It's worth noting that while Gozzi's and Polti's 36 dramatic situations have been influential in literary and dramatic theory, they are not universally accepted as definitive. The concept continues to be debated and reinterpreted by writers, dramatists, and literary scholars.

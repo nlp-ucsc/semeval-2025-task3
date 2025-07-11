@@ -1,0 +1,18 @@
+The U.S. Army Medical Command (MEDCOM) is a major command of the U.S. Army. Below is a list of the regional health commands and direct reporting units under MEDCOM:
+
+Regional Health Commands:
+1. **Regional Health Command – Atlantic (RHC-A)**: Located at Fort Belvoir, Virginia, covering medical facilities in the eastern United States.
+2. **Regional Health Command – Central (RHC-C)**: Located at Joint Base San Antonio, Texas, covering medical facilities in the central United States.
+3. **Regional Health Command – Europe (RHC-E)**: Located at Sembach, Germany, covering medical facilities in Europe.
+4. **Regional Health Command – Pacific (RHC-P)**: Located at Joint Base Lewis-McChord, Washington, covering medical facilities in the Pacific region.
+
+Direct Reporting Units:
+- **U.S. Army Veterinary Corps**: Provides veterinary services and support to the Army.
+- **U.S. Army Medical Research and Materiel Command (USAMRMC)**: Focuses on medical research, development, and acquisition.
+- **U.S. Army Medical Department Center & School (AMEDDC&S)**: Trains medical personnel and develops medical doctrine.
+- **U.S. Army Public Health Command (USAPHC)**: Responisble for public health, environmental health, and preventive medicine.
+- **U.S. Army Medical Information Technology Center (USAMITC)**: Manages medical information technology for the Army.
+- **U.S. Army Center for Healthcare Administration (USACHA)**: Provides healthcare administrative support.
+- **U.S. Army Medical Command (Provisional)**: Serves as the Army's operational medical command in theaters of operation.
+
+These commands and units work together to ensure the medical readiness of Army personnel and provide comprehensive healthcare services both at home and abroad.

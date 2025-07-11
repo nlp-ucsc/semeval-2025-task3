@@ -1,0 +1,19 @@
+Recent research has revealed that genetic factors play a more significant role in the development of cerebral palsy (CP) than previously thought. The proportion of CP cases attributed to genetic causes varies across studies, but several key findings emerge:
+
+1. Approximately 14% of CP cases may be linked to genes involved in brain wiring and early neural development[2]. This estimate comes from one of the largest genetic studies of CP conducted to date.
+
+2. A study from the Centre for Applied Genomics at Toronto's Hospital for Sick Children found that at least 1 in 10 (10%) cases of CP likely have an underlying genetic cause[4].
+
+3. Research from Boston Children's Hospital suggests that up to 1 in 4 (25%) CP cases may have an underlying genetic condition[5][8]. Their study identified causative or likely causative genetic variants in 26% of patients.
+
+4. A comprehensive analysis of 120 idiopathic CP families identified underlying detrimental genetic variants in 45% of patients[3]. This study also found disease-related postzygotic mutations in approximately 6.7% of CP patients.
+
+5. The International Cerebral Palsy Genomics Consortium found that in about 12% of CP patients, causal genetic mutations were acquired by chance (not inherited), while in 2% of patients, the mutations were inherited from both parents[6].
+
+6. A Canadian-led study using whole-genome sequencing found that 11.3% of children with CP had a genetic variant or likely genetic variant associated with their condition, while 17.7% had variants of uncertain significance that may be linked to CP[9].
+
+7. Research by Geisinger and GeneDx identified disease-causing genetic changes in 32.7% of a primarily pediatric group of CP patients and in 10.5% of a primarily adult group[10].
+
+It's important to note that the prevalence of genetic causes can vary depending on the specific population studied and the methods used. Additionally, some studies suggest that genetic factors may interact with environmental factors in the development of CP, making it challenging to attribute cases solely to genetic or environmental causes.
+
+These findings highlight the complex etiology of cerebral palsy and underscore the importance of considering genetic testing in CP diagnosis and management. As our understanding of the genetic underpinnings of CP continues to grow, it may lead to improved diagnostic accuracy and potentially new therapeutic approaches in the future.

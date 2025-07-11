@@ -1,0 +1,7 @@
+La iniciativa de codi font compartit de Microsoft (Shared Source Initiative) es va crear l'any 2001[1][5].
+
+Específicament, Microsoft va llançar aquesta iniciativa al maig de 2001[8]. L'objectiu era fer que el codi font de Microsoft fos més àmpliament disponible per a clients, socis, desenvolupadors, governs, acadèmics i altres persones interessades[5].
+
+Aquesta iniciativa va representar un canvi significatiu en l'enfocament de Microsoft cap a la compartició de codi font, permetent un major accés al codi de diversos productes de Microsoft sota certes condicions i llicències. Alguns dels productes que es van incloure inicialment en aquesta iniciativa van ser Windows 2000, Windows XP, Windows Server 2003, Windows CE 3.0 i Windows CE .NET[5].
+
+És important notar que la Shared Source Initiative no és el mateix que el programari de codi obert. Mentre que algunes de les llicències utilitzades dins d'aquesta iniciativa han estat aprovades com a llicències de codi obert, altres són propietàries i permeten a Microsoft mantenir un control més estricte sobre l'ús del seu codi[8].

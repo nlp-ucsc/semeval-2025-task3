@@ -1,0 +1,1 @@
+Microsoft Edgen koodinimi oli alun perin "Project Spartan". Se oli uusi verkkoselain, jonka Microsoft kehitti Windows 10 -käyttöjärjestelmää varten, ja se korvasi vanhan Internet Explorerin. Myöhemmin selain nimettiin uudelleen Microsoft Edgeksi.

@@ -1,0 +1,17 @@
+<think>
+Alright, so the user is asking if Windows Neptune was ever released. I remember that Neptune was a Microsoft project, but I'm not exactly sure about its release status. Let me go through the search results to piece this together.
+
+Looking at the first search result from Simple Wikipedia, it says Neptune was in development from 1999 to early 2000 but was never released. It mentions that some features were merged into Windows 2000 and later into the Whistler project, which became Windows XP. So that's a clear indication it wasn't released.
+
+The second result from BetaWiki provides more details. It states that Neptune was canceled in January 2000 when the team merged with the Odyssey project to form Whistler, which led to Windows XP. This confirms the cancellation and the reason behind it.
+
+The third result from BetaArchive Wiki also notes that Neptune was canceled, along with Odyssey, to make way for Whistler (Windows XP). It adds that some features like the login screen and help center were included in XP, but Activity Centers were dropped. This reinforces that Neptune wasn't released.
+
+The fourth result is a forum post on Hypixel. It mentions Neptune was planned for release in early 2001 but was canceled. It also talks about Triton as a minor update, but again, no release happened.
+
+The fifth result is a YouTube video discussing Neptune as an unreleased OS, highlighting its unique features and the fact that only one build exists.
+
+Putting it all together, Neptune was never released. It was canceled, and its features were incorporated into later Windows versions. The only available build is 5111.1, which is leaked and has some issues. So, the answer is clear: Neptune was not released.
+</think>
+
+Windows Neptune was never officially released. It was a version of Microsoft Windows under development from 1999 to early 2000, intended as a consumer-oriented operating system based on the Windows NT codebase. The project was canceled in January 2000 when Microsoft merged the Neptune team with the Odyssey project, leading to the development of Windows XP, codenamed "Whistler." Although Neptune was never released, some of its features, such as the Activity Centers and user interface elements, influenced later versions of Windows[1][2][3][4][5].

@@ -1,0 +1,17 @@
+Microsoft Edge was initially integrated into Windows 10 when it was first released on July 29, 2015[1][3]. Some key points about Microsoft Edge's integration:
+
+- Edge was created as the successor to Internet Explorer and was designed to be the default browser for Windows 10[3].
+
+- It comes pre-installed on Windows 10, Windows 10 Mobile, and Windows 11 operating systems[3].
+
+- Edge is also available on Xbox One, Series X and Series S consoles[3].
+
+- While initially only available for Windows 10, Microsoft later rebuilt Edge using the Chromium engine in 2018-2020, allowing it to be ported to other platforms[3][4].
+
+- The new Chromium-based Edge was publicly released in January 2020 and became available for Windows 7, 8, 8.1, 10, macOS, iOS, Android, and later Linux[4].
+
+- On Windows 11, Edge is now the only browser available from Microsoft, fully replacing Internet Explorer[4].
+
+- Edge is deeply integrated into Windows 10 and 11, serving as both the default web browser and the built-in web viewer for applications requiring internet access[3].
+
+So in summary, while Microsoft Edge was originally integrated exclusively with Windows 10 at launch in 2015, it has since expanded to other Windows versions and operating systems. However, it remains most tightly integrated with Windows 10 and 11 as the default browser shipping with those operating systems.

@@ -1,0 +1,3 @@
+Il logo che appare nella pagina iniziale (start page) di **Windows Neptune** è lo stesso logo utilizzato da **Windows 2000**. Ciò è dovuto al fatto che Neptune era un progetto interno sviluppato da Microsoft come versione consumer di Windows NT, basata sul kernel NT. Anche se Neptune non fu mai pubblicato ufficialmente, condivideva molte caratteristiche con Windows 2000, compreso il logo.
+
+**Windows Neptune** era un progetto iniziale per una versione consumer orientata al desktop, basata sul kernel Windows NT, in Contrast con le precedenti versioni consumer di Windows, come Windows 95 e Windows 98, che erano basate sul kernel MS-DOS.

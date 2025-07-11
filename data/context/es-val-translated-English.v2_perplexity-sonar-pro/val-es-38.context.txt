@@ -1,0 +1,46 @@
+According to particle physics, the four fundamental forces of nature are:
+
+1. The strong nuclear force
+2. The electromagnetic force 
+3. The weak nuclear force
+4. The gravitational force
+
+These forces govern all known interactions in the universe and vary greatly in their properties[1][2]:
+
+## Strong Nuclear Force
+
+The strong nuclear force is the strongest of the four fundamental forces. It is responsible for binding quarks together to form hadrons like protons and neutrons, as well as holding protons and neutrons together in atomic nuclei[1][3]. Some key characteristics include:
+
+- Mediated by gluons
+- Has a very short range of about 10^-15 meters (roughly the diameter of a proton)
+- Approximately 100 times stronger than the electromagnetic force at subatomic scales
+- Exhibits the unique property of becoming stronger as particles move farther apart
+
+## Electromagnetic Force
+
+The electromagnetic force is the second strongest fundamental force. It is responsible for electric and magnetic fields and governs the interactions between electrically charged particles[1][2]. Key features include:
+
+- Mediated by photons
+- Has infinite range
+- Much weaker than the strong force but stronger than the weak force and gravity
+- Responsible for holding atoms together and chemical bonding
+
+## Weak Nuclear Force
+
+The weak nuclear force is responsible for certain types of radioactive decay and plays a crucial role in nuclear fission[1][2]. Its properties include:
+
+- Mediated by W and Z bosons
+- Has a very short range of about 10^-18 meters
+- Weaker than the strong and electromagnetic forces, but stronger than gravity
+- Responsible for beta decay and important processes in stellar nucleosynthesis
+
+## Gravitational Force
+
+Gravity is the weakest of the four fundamental forces but has some unique properties[1][2]:
+
+- Theoretically mediated by gravitons (though not yet experimentally confirmed)
+- Has infinite range
+- Much weaker than the other forces at subatomic scales, but dominates at astronomical scales
+- Described by Einstein's general theory of relativity as a curvature of spacetime
+
+The Standard Model of particle physics successfully describes three of these forces (strong, electromagnetic, and weak) but does not adequately explain gravity[4]. Efforts to unify all four forces into a single theoretical framework, often called a "theory of everything," remain an active area of research in theoretical physics.

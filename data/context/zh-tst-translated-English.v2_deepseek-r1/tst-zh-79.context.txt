@@ -1,0 +1,11 @@
+The family Lecideaceae is classified under the following taxonomic hierarchy:
+
+- **Kingdom**: Fungi
+- **Phylum**: Ascomycota
+- **Class**: Lecanoromycetes
+
+So, the classification is:
+
+- Kingdom: Fungi
+- Phylum: Ascomycota
+- Class: Lecanoromycetes

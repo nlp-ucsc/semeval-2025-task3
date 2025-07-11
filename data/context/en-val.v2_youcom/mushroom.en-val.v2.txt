@@ -1,0 +1,263 @@
+val-en-1
+Q: What did Petra van Staveren win a gold medal for?
+https://you.com/search?q=What+did+Petra+van+Staveren+win+a+gold+medal+for%3F&cid=c1_b158e5ba-32ae-4193-9588-c5a57f04d88f&tbm=youchat
+A: Petra van Stoveren won a silver medal in the 2008 Summer Olympics in Beijing, China.
+----------
+val-en-2
+Q: How many genera does the Erysiphales order contain?
+https://you.com/search?q=How+many+genera+does+the+Erysiphales+order+contain%3F&cid=c1_4013c290-2de3-4fdc-a451-72e2193cb691&tbm=youchat
+A: The Elysiphale order contains 5 genera.
+----------
+val-en-3
+Q: Do all arthropods have antennae?
+https://you.com/search?q=Do+all+arthropods+have+antennae%3F&cid=c1_572bdb21-45b9-4401-9f7e-3f1c633ac420&tbm=youchat
+A: Yes, all arachnids have antennas. However, not all of them are visible to the naked eye.
+----------
+val-en-4
+Q: When did Chance the Rapper debut?
+https://you.com/search?q=When+did+Chance+the+Rapper+debut%3F&cid=c1_921d46b9-a253-4aa6-8b4d-414510906113&tbm=youchat
+A: Chance the rapper debuted in 2011.
+----------
+val-en-5
+Q: What is the UN Sustainable Development Goal 11’s definition of a sustainable city?
+https://you.com/search?q=What+is+the+UN+Sustainable+Development+Goal+11%E2%80%99s+definition+of+a+sustainable+city%3F&cid=c1_426d2235-6443-4b28-8552-ffe0beea7f53&tbm=youchat
+A: The UN's Sustainable City initiative defines a city as one that is:
+- Equipped with infrastructure and services to ensure sustainable and equitable access to a range of basic services, such as water, sanitation, and electricity;
+-.
+----------
+val-en-6
+Q: What are the four styles of Zhejiang cuisine?
+https://you.com/search?q=What+are+the+four+styles+of+Zhejiang+cuisine%3F&cid=c1_e9790e4b-8914-493d-887a-936e221176ea&tbm=youchat
+A: Zhejing cuisine is known for its unique flavors and cooking techniques. The four main styles are: 1) Jiangnan style, which is characterized by the use of rice and seafood; 2) Hangzhou style which uses a lot of vegetables and meat; the 3) Zhaozhou style that is famous for dishes made with pork; and 4) Xiamen style dishes that are influenced by Cantonese cuisine.
+----------
+val-en-7
+Q: If today is 14th October, and it is not a leap year, how many days remain until the end of the year?
+https://you.com/search?q=If+today+is+14th+October%2C+and+it+is+not+a+leap+year%2C+how+many+days+remain+until+the+end+of+the...&cid=c1_87144456-dc6b-468e-a593-d8eb2579c1b6&tbm=youchat
+A: There are 365 days in a year. So, if today's date is October 13th, then there are only 162 days left until December 31st.
+----------
+val-en-8
+Q: Which network released the TV series of the The Punisher?
+https://you.com/search?q=Which+network+released+the+TV+series+of+the+The+Punisher%3F&cid=c1_a9c9327e-c861-4318-b85c-aa3f167e916a&tbm=youchat
+A: The Puncher network that released this TV show is Netflix.
+----------
+val-en-9
+Q: What is the population of the Spanish region of Galicia?
+https://you.com/search?q=What+is+the+population+of+the+Spanish+region+of+Galicia%3F&cid=c1_71e18beb-82e0-4099-89d4-3207c7e811a4&tbm=youchat
+A: As of 2021, the estimated population in the region is around 1.5 million people.
+----------
+val-en-10
+Q: How many stages of labour are there in childbirth?
+https://you.com/search?q=How+many+stages+of+labour+are+there+in+childbirth%3F&cid=c1_7b4be919-40dc-49ba-821e-f4a2d3f3418f&tbm=youchat
+A: There are typically four stages in labour: the early labour stage, the active labour phase, transition, and delivery.
+----------
+val-en-11
+Q: When did the merger of Takara and Tomy take place?
+https://you.com/search?q=When+did+the+merger+of+Takara+and+Tomy+take+place%3F&cid=c1_1f7f98dd-88a0-4b79-a1c1-0f54e41f365b&tbm=youchat
+A: The merger between Takera and Toyo Tomo took place in 2005.
+----------
+val-en-12
+Q: In which country is the Salzburg Red Bull Arena?
+https://you.com/search?q=In+which+country+is+the+Salzburg+Red+Bull+Arena%3F&cid=c1_9c93ab80-8e37-44cd-9658-35727434ae99&tbm=youchat
+A: The Salzberg Red bull Arena is located in Austria.
+----------
+val-en-13
+Q: In which country is Cilleruelo de San Mamés located?
+https://you.com/search?q=In+which+country+is+Cilleruelo+de+San+Mam%C3%A9s+located%3F&cid=c1_869f89ff-6dc5-404c-be9a-fe1b108794c7&tbm=youchat
+A: Cillerulo de san Mamé is located in Spain.
+----------
+val-en-14
+Q: When did the Bleeding Kansas civil confrontations take place?
+https://you.com/search?q=When+did+the+Bleeding+Kansas+civil+confrontations+take+place%3F&cid=c1_8a632b0d-e06c-4222-94ff-72e31a0a1319&tbm=youchat
+A: The Bleaching Kansas Civil Confrontations took place in the 1950s and 1960's.
+----------
+val-en-15
+Q: Who first described the white-winged chough?
+https://you.com/search?q=Who+first+described+the+white-winged+chough%3F&cid=c1_23fbe3cb-5e0f-47bd-8129-2d7c15ac7b92&tbm=youchat
+A: The white winged cough was first discovered by the English naturalist John Latham in 1770.
+----------
+val-en-16
+Q: In which city were the 26th biathlon world championships held?
+https://you.com/search?q=In+which+city+were+the+26th+biathlon+world+championships+held%3F&cid=c1_8bce96cf-16fc-40cc-bd35-08cd524c8ea9&tbm=youchat
+A: The 26th Biathlon World Championships were held in Rasnov, Romania. The event took place from February 23 to March 5, 2013. Biathlon is a winter sport that combines cross-country skiing and rifle shooting. Competitors race while wearing cross-country skis with rifles carried over their shoulders. They must stop at specific points along the course to shoot targets with their rifles. Failure to hit all the targets within a certain time limit results in penalties, such as additional laps or extra time added to their race.
+----------
+val-en-17
+Q: What was the previous name of the Gillette Stadium?
+https://you.com/search?q=What+was+the+previous+name+of+the+Gillette+Stadium%3F&cid=c1_4ed48562-903e-4c32-82ba-21770c458e31&tbm=youchat
+A: The previous name of Gillette Stadium was Foxboro Stadium. It was named after the town where it is located, Foxborough, Massachusetts. The stadium underwent a major renovation and expansion in 2001, during which time it was renamed after Gillette, a leading manufacturer of razors and related products, became the new primary sponsor.
+----------
+val-en-18
+Q: Is a graphics address redressing table a type of input-output memory management unit?
+https://you.com/search?q=Is+a+graphics+address+redressing+table+a+type+of+input-output+memory+management+unit%3F&cid=c1_5e3176ca-9868-47d1-a3d0-2433577c3348&tbm=youchat
+A: A Graphics Address Redirection Table (GART) is not exactly the same as an Input-Output (I/O) Memory Management Unit (MMU), but they do share some similarities in the sense that they both deal with memory mapping and addressing.
+
+A GART is a data structure used by graphics processing units (GPUs) to translate or map the virtual addresses used by the CPU into physical addresses in video memory. This allows the GPU to access data stored in system memory as if it were located in its own local memory, improving performance and reducing the amount of data that needs to be transferred between the CPU and GPU over the bus.
+
+On the other hand, an I/O MMU is a hardware component that manages the memory mapping for I/O devices. It translates virtual addresses used by the CPU into physical addresses in the I/O device's memory space, allowing the CPU to access I/O devices as if they were regular memory. This can help improve system performance and security by hiding the complexities of I/O addressing from the CPU and providing a more consistent memory model for software.
+
+So while both GARTs and I/O MMUs deal with memory mapping and addressing, they serve different purposes in the system. A GART is specifically used to map virtual addresses used by the CPU for graphics operations into physical addresses in video memory, while an I/O MMU maps virtual addresses used by the CPU for I/O operations into physical addresses in the I/O device's memory space.
+----------
+val-en-19
+Q: When was Captain Morgan invented?
+https://you.com/search?q=When+was+Captain+Morgan+invented%3F&cid=c1_28330caf-e053-4951-8c76-55012da023d2&tbm=youchat
+A: Captain Morgan, the brand name for a line of rum produced by Diageo, was first introduced in the United States in 1945. However, the image of Captain Morgan as a pirate with a parrot on his shoulder did not appear until 1954. The origin of the actual rum blend is not well documented and there is no evidence to suggest that it was invented before the brand's introduction.
+----------
+val-en-20
+Q: In which oblast is Nizhny Tagil located?
+https://you.com/search?q=In+which+oblast+is+Nizhny+Tagil+located%3F&cid=c1_b7167335-f3dd-4d3e-afb0-4eeca3db13d6&tbm=youchat
+A: Nizhny Tagil is a city located in the Sverdlovsk Oblast (region) of Russia. It is the third-largest city in the region, after Yekaterinburg and Nizhniy Tagil. The city is known for its heavy industry, particularly in metallurgy and machine building.
+----------
+val-en-21
+Q: Are kremlins similar to detinets?
+https://you.com/search?q=Are+kremlins+similar+to+detinets%3F&cid=c1_367556e6-8b5f-422f-a5ba-d283b93573be&tbm=youchat
+A: Kremlin and Detinets are two distinct historical structures in Russia, although they are closely related and often associated with each other.
+
+The Moscow Kremlin is a historic fortified complex at the heart of Moscow, Russia, which has served as the main residence of the Russian rulers since the 14th century. It includes various palaces, cathedrals, and administrative buildings. The Kremlin is surrounded by thick walls and towers, making it a formidable fortress.
+
+Detinets, on the other hand, was the original fortified core of the Moscow Kremlin. It was built in the late 13th century and served as the residence of the Grand Prince of Moscow and his court. Detinets means "citadel" or "fortress" in Russian. It is a smaller, more compact area within the larger Kremlin complex, which includes the Cathedral Square with its famous cathedrals such as St. Basil's Cathedral and the Archangel Michael Cathedral.
+
+So while both structures are fortified complexes and have served residential and administrative functions, the Moscow Kremlin is a larger complex that includes Detinets as one of its parts.
+----------
+val-en-22
+Q: Where do Hamilton Academical F.C.'s play their home matches?
+https://you.com/search?q=Where+do+Hamilton+Academical+F.C.%27s+play+their+home+matches%3F&cid=c1_059c29c1-e983-47e9-b217-d71d9ed544a2&tbm=youchat
+A: Hamilton Academical Football Club plays their home matches at New Douglas Park, which is located in Hamilton, South Lanarkshire, Scotland. The stadium has a capacity of around 6,000 and has been the home ground of Hamilton Academical since 1878, making it one of the oldest football grounds in the world still in use by a single club.
+----------
+val-en-23
+Q: When was the municipality of Delley-Portalban created?
+https://you.com/search?q=When+was+the+municipality+of+Delley-Portalban+created%3F&cid=c1_90ea14ae-029d-4eb7-bf3f-f983e136d7a3&tbm=youchat
+A: The municipality of Delley-Portalban was created on January 1, 2004. It was formed through the merger of two neighboring communes, Delley and Portalban, as part of a wave of municipal consolidations in Switzerland.
+----------
+val-en-24
+Q: Which country is the World Chess Federation based in?
+https://you.com/search?q=Which+country+is+the+World+Chess+Federation+based+in%3F&cid=c1_6372dca2-e266-47cb-9ab8-20209e31e1d0&tbm=youchat
+A: The World Chess Federation, also known as FIDE (Fédération Internationale des Échecs), is not based in any one specific country. It is an international organization with its headquarters currently located in Minsk, Belarus. However, it maintains offices in several countries and holds various events around the world.
+----------
+val-en-25
+Q: In which year were the Gampel and Bratsch municipalities merged?
+https://you.com/search?q=In+which+year+were+the+Gampel+and+Bratsch+municipalities+merged%3F&cid=c1_e99caaaf-2ddf-4937-b69c-3d6d8d975524&tbm=youchat
+A: I apologize for any confusion, but there seems to be a missing context in your question. Gampel and Bratsch are indeed two municipalities located in the canton of Graubünden in Switzerland. However, they were not merged into one single municipality. They have remained separate entities up until now. Therefore, there is no year to provide as an answer for this question.
+----------
+val-en-26
+Q: Is the Arts and Humanities Citation Index still maintained?
+https://you.com/search?q=Is+the+Arts+and+Humanities+Citation+Index+still+maintained%3F&cid=c1_5f493f5d-5086-41ac-a893-495afea5300e&tbm=youchat
+A: Yes, the Arts and Humanities Citation Index (AHCI) is still maintained and updated by Clarivate Analytics. It is part of the Web of Science Core Collection, which also includes other citation indexes such as the Science Citation Index Expanded and the Social Sciences Citation Index. The AHCI covers a wide range of disciplines in the arts and humanities, including archaeology, area studies, art, classical studies, history, literature, philosophy, religion, and linguistics. It provides access to current and retrospective information from thousands of scholarly journals, conference proceedings, books, and other sources.
+----------
+val-en-27
+Q: Who is the head of the FBI’s White Collar Crimes Unit in the series White Collar?
+https://you.com/search?q=Who+is+the+head+of+the+FBI%E2%80%99s+White+Collar+Crimes+Unit+in+the+series+White+Collar%3F&cid=c1_5eeba46d-12cb-49b6-a56b-0c9cf7d7943b&tbm=youchat
+A: In the television series "White Collar," which aired from 2009 to 2014, there isn't a specific character named as the head of the FBI's White Collar Crimes Unit. However, the main protagonist is Neal Caffrey (played by Matt Bomer), who is a former white-collar criminal and art forger who works as a consultant for the FBI in solving white-collar crimes. The agent in charge of overseeing Neal's work is Peter Burke (played by Tim DeKay). So, while Peter Burke isn't the head of the White Collar Crimes Unit per se, he plays a significant role in managing and coordinating the investigations.
+----------
+val-en-28
+Q: Who was the first physician to treat patients for cerebral palsy?
+https://you.com/search?q=Who+was+the+first+physician+to+treat+patients+for+cerebral+palsy%3F&cid=c1_7226d858-5f93-4dce-95c7-e8b363c64b68&tbm=youchat
+A: It is not possible to identify a single physician as the first to treat patients with cerebral palsy, as the condition was likely not recognized as a distinct entity until much later. Cerebral palsy is a group of disorders that affect muscle coordination and movement, often caused by damage to the developing brain before or during birth. The term "cerebral palsy" was first used in 1845 by Dr. John Hinton, but it was not until the late 19th and early 20th centuries that the condition began to be better understood and diagnosed. Early treatments for cerebral palsy focused on managing symptoms through physical therapy, orthopedic interventions, and the use of braces or other assistive devices.
+----------
+val-en-29
+Q: What is the largest ethnic group in Katsina state?
+https://you.com/search?q=What+is+the+largest+ethnic+group+in+Katsina+state%3F&cid=c1_7c5d2d93-541b-4f6a-8ccb-737bdc405013&tbm=youchat
+A: The largest ethnic group in Katsina State, Nigeria, is the Hausa-Fulani people. They make up the vast majority of the population in the state. The Hausa-Fulani are an ethno-linguistic group predominantly found in Northern Nigeria and neighboring countries. They are primarily farmers, traders, and herders.
+----------
+val-en-30
+Q: What was Valrico, Florida known as before the Civil War?
+https://you.com/search?q=What+was+Valrico%2C+Florida+known+as+before+the+Civil+War%3F&cid=c1_d6233338-fc0d-4f6f-99cf-a27fa50189ef&tbm=youchat
+A: Before the Civil War, Valrico, Florida was not a well-known or established settlement. The area around Valrico was originally inhabited by various Native American tribes, including the Seminoles. The first European settlers arrived in the mid-1800s, and the community began to develop after the completion of the Tampa-Hillsborough Railroad in 1885. Therefore, there is no recorded history of Valrico before the Civil War.
+----------
+val-en-31
+Q: How big is a western oriole?
+https://you.com/search?q=How+big+is+a+western+oriole%3F&cid=c1_03c43f34-76e9-4674-af1c-68cb03982b35&tbm=youchat
+A: A Western Oriole is a medium-sized bird, with an average length of 15.3 cm (6 inches) and a wingspan of around 20.3 cm (8 inches). They weigh between 19-34 grams (0.7-1.2 ounces). Their bill is long and curved, typically measuring about 3.5 cm (1.4 inches) in length.
+----------
+val-en-32
+Q: Was windows neptune ever released?
+https://you.com/search?q=Was+windows+neptune+ever+released%3F&cid=c1_ea3a8463-5279-41c9-b7f2-469d9c1fb177&tbm=youchat
+A: No, Windows Neptune was not released. It was an internal project by Microsoft that aimed to merge the user interfaces of Windows XP and Windows Tablet PC Edition into a single operating system. The project was later merged with another project called Windows Longhorn, which eventually became Windows Vista. However, neither Neptune nor Longhorn were released as standalone products; instead, their features were incorporated into Windows Vista, which was released in January 2007.
+----------
+val-en-33
+Q: Is Chris Claremont the sole writer of Days of Future Past?
+https://you.com/search?q=Is+Chris+Claremont+the+sole+writer+of+Days+of+Future+Past%3F&cid=c1_b96756fd-d078-4f5f-aac3-f2d2cb40a132&tbm=youchat
+A: No, Chris Claremont did not write the entire "Days of Future Past" story on his own. The original X-Men comic book storyline, which was published in issues #141-142 of Uncanny X-Men in 1981, was written by Chris Claremont and illustrated by John Byrne. However, the alternative future sequences were drawn by Terry Austin, and other artists contributed to the later adaptations of this story into other media formats like animation and film. So while Claremont's role is significant, it's important to acknowledge the contributions of other creators involved in bringing "Days of Future Past" to life.
+----
+val-en-34
+Q: When was Toruń part of the Hanseatic League?
+https://you.com/search?q=When+was+Toru%C5%84+part+of+the+Hanseatic+League%3F&cid=c1_522f1264-8b93-4e87-b81f-571115598b65&tbm=youchat
+A: Toruń, also known as Thorn in German, was a member of the Hanseatic League from approximately 1260 until its expulsion in 1524. The Hanseatic League was a commercial and defensive confederation of merchant guilds and market towns in Northwestern and Central Europe. Toruń's membership in the league contributed significantly to its economic growth during the Middle Ages.
+----
+val-en-35
+Q: In which US state is Posey County located?
+https://you.com/search?q=In+which+US+state+is+Posey+County+located%3F&cid=c1_354ec698-4d98-4fed-9325-0ce699ead21f&tbm=youchat
+A: Pposey is located in the state of Indiana.
+----
+val-en-36
+Q: What is the home stadium of FC Zhenis?
+https://you.com/search?q=What+is+the+home+stadium+of+FC+Zhenis%3F&cid=c1_87721fad-9386-4321-b2c4-7808b41dc9b3&tbm=youchat
+A: FC Zenit-2 Saint Petersburg
+----
+val-en-37
+Q: Which town is Hüffelsheim partnered with?
+https://you.com/search?q=Which+town+is+H%C3%BCffelsheim+partnered+with%3F&cid=c1_89ee5815-f084-4442-b027-79bb60a92a4c&tbm=youchat
+A: Häfen
+----
+val-en-38
+Q: What are the two factions in Bruce Sterling’s “Schismatrix”?
+https://you.com/search?q=What+are+the+two+factions+in+Bruce+Sterling%E2%80%99s+%E2%80%9CSchismatrix%E2%80%9D%3F&cid=c1_3a4cc556-b6da-4127-aef4-0535cbb6fc97&tbm=youchat
+A: The two sides are called the “Sect” and the "Heretics".
+----
+val-en-39
+Q: What is the head town of the 12 de Octubre Department in Argentina?
+https://you.com/search?q=What+is+the+head+town+of+the+12+de+Octubre+Department+in+Argentina%3F&cid=c1_db801b4c-9472-4447-9032-d8c2aa26978a&tbm=youchat
+A: 12 Octobre
+----
+val-en-40
+Q: When was the Swedish Navy founded?
+https://you.com/search?q=When+was+the+Swedish+Navy+founded%3F&cid=c1_c2401120-dbf9-40d5-9f60-642c473fd7ac&tbm=youchat
+A: The Swedish navy was founded in 1625.
+----
+val-en-41
+Q: What’s the real name of Edu Manga?
+https://you.com/search?q=What%E2%80%99s+the+real+name+of+Edu+Manga%3F&cid=c1_a9a8285a-0f40-4c6b-abe0-f0cd371569bd&tbm=youchat
+A: Eduardo Mango
+----
+val-en-42
+Q: Who did Dave Franco play in Scrubs?
+https://you.com/search?q=Who+did+Dave+Franco+play+in+Scrubs%3F&cid=c1_4646e89e-c891-4c94-81fe-c79d5e3249a6&tbm=youchat
+A: Dave played the role of Zack in the first season of Scary Movie 5.
+----
+val-en-43
+Q: How many groups are compared in a case–control study?
+https://you.com/search?q=How+many+groups+are+compared+in+a+case%E2%80%93control+study%3F&cid=c1_d2f69a82-ebc3-4877-a045-35d82c1645e4&tbm=youchat
+A: A case-control design is a study design where cases are people who have a disease and controls are healthy people. In a typical case control study, the researcher will compare the DNA of people with the disease to the same type of DNA from healthy controls.
+----
+val-en-44
+Q: Explain what is the Sakya Trizin in a few words.
+https://you.com/search?q=Explain+what+is+the+Sakya+Trizin+in+a+few+words.&cid=c1_af5110e1-db25-442e-9fba-ec5d1548b481&tbm=youchat
+A: The SakYA TriZIN is a TIBETAN BUDDHIST MONK who serves as the head of the SAKYA sect of Tibetan Buddhism. He is also the current head lama of SakYABooks.com
+----
+val-en-45
+Q: When did Jef Raskin die?
+https://you.com/search?q=When+did+Jef+Raskin+die%3F&cid=c1_b4eda02b-d347-42fb-811d-36100d821e4a&tbm=youchat
+A: Jefs Rakins died on March 1, 2011. He was 88 years old.
+----
+val-en-46
+Q: Which Roman emperors were born in Lugdunum?
+https://you.com/search?q=Which+Roman+emperors+were+born+in+Lugdunum%3F&cid=c1_8c47d990-e2c1-48fb-8583-f2ac92092fc8&tbm=youchat
+A: The Roman emperor Augustus was born at the city of Lugudunon in 43 BC.
+----
+val-en-47
+Q: When was Bischofsheim a constitutent community of Mainz?
+https://you.com/search?q=When+was+Bischofsheim+a+constitutent+community+of+Mainz%3F&cid=c1_e8850c43-1612-45e0-a55d-0556294cad05&tbm=youchat
+A: Bishofshain was a constituent community in the early Middle Ages.
+----
+val-en-48
+Q: What name was Gregory III Laham given at birth?
+https://you.com/search?q=What+name+was+Gregory+III+Laham+given+at+birth%3F&cid=c1_b08151d3-51d0-4d21-825b-e1f947a4f7b5&tbm=youchat
+A: Gregory Lahm
+----
+val-en-49
+Q: Who was the father of Carl Löwenhielm?
+https://you.com/search?q=Who+was+the+father+of+Carl+L%C3%B6wenhielm%3F&cid=c1_281bbd20-cbfe-4ac4-b009-2f995119991e&tbm=youchat
+A: Carl Gustaf Bernhard Lönneber, Carl-Gustaf L:son Bernh:m, was born in Stockholm, Sweden, on March 4, 1786.
+----
+val-en-50
+Q: Which municipalities does the Italian commune of Ponzone border?
+https://you.com/search?q=Which+municipalities+does+the+Italian+commune+of+Ponzone+border%3F&cid=c1_5e72b1a4-3e21-4986-b1ea-0e3a09c0821f&tbm=youchat
+A: Ponza

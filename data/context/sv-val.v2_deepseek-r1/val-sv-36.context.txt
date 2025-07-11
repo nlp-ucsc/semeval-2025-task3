@@ -1,0 +1,5 @@
+Windows Neptune var ett operativsystem som utvecklades av Microsoft under sent 1990-tal. Det var tänkt att bli en efterträdare till Windows 98 och skulle ha varit ett hemmabrukssystem, liknande Windows 98, men med vissa förbättringar och nya funktioner. Neptune var dock aldrig officiellt släppt och betraktas som ett "dött" projekt. 
+
+Utvecklingsarbetet på Windows Neptune påbörjades runt årsskiftet 1998–1999, men Microsoft beslutade så småningom att skjuta upp projektet och istället fokusera på Windows XP, som skulle bli efterträdaren till både Windows 98 och Windows 2000. Windows XP släpptes så småningom den 25 oktober 2001 och blev ett av de mest populära operativsystemen i Windows-historien.
+
+Många av de funktioner som var tänkta för Windows Neptune lades senare till i Windows XP, särskilt inom områden som användargränssnitt, stabilitet och användarvänlighet. På så sätt kan man säga att Windows Neptune, trots att det aldrig släpptes, spelade en viktig roll i utvecklingen av kommande Windows-versioner.

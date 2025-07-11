@@ -1,0 +1,17 @@
+Microsoft Edgen koodinimi kehitysvaiheessa oli "Anaheim"[1]. Tämä koodinimi viittaa uuteen Chromium-pohjaiseen Microsoft Edge -selaimeen, joka korvasi aiemman EdgeHTML-pohjaisen version.
+
+Muutamia keskeisiä tietoja Anaheim-koodinimellä kehitetystä uudesta Microsoft Edgestä:
+
+- Microsoft ilmoitti 6. joulukuuta 2018 aikovansa perustaa Edgen Chromium-lähdekoodiin[1].
+
+- Uusi Chromium-pohjainen Edge julkaistiin virallisesti 15. tammikuuta 2020[1][3].
+
+- Se korvasi aiemman EdgeHTML-pohjaisen version, joka tunnettiin nimellä "Edge Legacy"[1].
+
+- Uusi Edge on saatavilla Windows 10:n lisäksi myös vanhemmille Windows-versioille, macOS:lle, iOS:lle ja Androidille[2][3].
+
+- Se käyttää samaa selainmoottoria kuin Google Chrome, mutta sisältää Microsoftin kehittämiä parannuksia[1].
+
+- Uusi Edge tarjoaa paremman yhteensopivuuden verkkosivustojen ja laajennusten kanssa verrattuna edeltäjäänsä[3].
+
+Anaheim-koodinimen käyttö kehitysvaiheessa heijastaa Microsoftin merkittävää strategista muutosta selainmarkkinoilla, kun yhtiö päätti siirtyä käyttämään avoimen lähdekoodin Chromium-projektia oman selainkehityksensä perustana.

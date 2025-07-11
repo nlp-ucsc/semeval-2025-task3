@@ -1,0 +1,11 @@
+The walls of the orbit are derived from **seven embryologically distinct bony structures**. These include contributions from both the cranial bones and the facial bones during embryonic development. Here’s a breakdown of these bony structures:
+
+1. **Frontal Bone**: Forms the superior (upper) part of the orbit.
+2. **Lacrimal Bone**: A small contribution to the medial (inner) wall.
+3. **Ethmoid Bone**: Contributes to the medial wall, including the orbital plate of the ethmoid.
+4. **Maxillary Bone**: Forms the inferior (lower) and part of the lateral walls.
+5. **Zygomatic Bone**: Contributes to the lateral and inferior walls.
+6. **Sphenoid Bone**: Forms part of the posterior (rear) orbit and the lateral wall.
+7. **Palatine Bone**: Contributes to the medial and inferior walls.
+
+These bones fuse together during development to form the complete orbital structure.

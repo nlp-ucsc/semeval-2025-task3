@@ -1,0 +1,8 @@
+Wenn man einen Kegel mit einer Ebene schneidet, erhält man je nach Position und Neigung der Ebene verschiedene geometrische Figuren. Die möglichen Figuren sind:
+
+1. **Kreis:** Wenn die Ebene parallel zur Basis des Kegels verläuft und den Kegel oberhalb der Basis schneidet, entsteht ein Kreis.
+2. **Ellipse:** Wenn die Ebene schräg durch den Kegel verläuft, entsteht eine Ellipse.
+3. **Parabel:** Wenn die Ebene parallel zu einer der Generatoren (den geraden Linien, die den Kegel bilden) des Kegels verläuft, entsteht eine Parabel.
+4. **Hyperbel:** Wenn die Ebene den Kegel schräg genug schneidet, dass sie durch beide Nappens des Kegels verläuft, entsteht eine Hyperbel.
+
+Diese diferentes Schnittfiguren sind grundlegende Konzepte in der analytischen Geometrie und werden als Kegelschnitte bezeichnet.

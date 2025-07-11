@@ -1,0 +1,22 @@
+The JL-2 (Julang-2) submarine-launched ballistic missile (SLBM) developed by China has a payload capacity of 700 kg to 2,800 kg, depending on the specific configuration[1][5]. 
+
+Key details about the JL-2's payload:
+
+1. Warhead options:
+   - Single warhead: It can carry a single nuclear warhead with a yield of 1 megaton[1][5].
+   - Multiple warheads: Alternatively, it can be equipped with 3-8 multiple independently targetable reentry vehicles (MIRVs) with lower yields of 20, 90, or 150 kilotons each[1][5].
+
+2. Payload flexibility:
+   - The missile is designed to accommodate different payload configurations, allowing for strategic flexibility[2].
+   - It can potentially carry conventional warheads as well, though nuclear warheads are the primary payload[4].
+
+3. Throw weight:
+   - The throw weight, which includes the payload and any bus or deployment mechanisms, is estimated to be around 700 kg for the JL-2[3].
+
+4. Penetration aids:
+   - The payload may include penetration aids and decoys to enhance survivability against missile defense systems[5].
+
+5. Guidance systems:
+   - While not part of the payload itself, the missile uses inertial guidance with stellar updates and potentially GPS or the Chinese Beidou navigation system to improve accuracy[5].
+
+It's worth noting that the exact specifications may vary slightly between sources due to the classified nature of such weapons systems. The JL-2 represents a significant improvement over its predecessor, the JL-1, in terms of both range and payload capacity, providing China with a more capable sea-based nuclear deterrent[7].

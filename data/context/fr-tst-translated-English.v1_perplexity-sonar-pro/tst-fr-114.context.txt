@@ -1,0 +1,11 @@
+The NES Classic Mini (also known as the Nintendo Entertainment System: NES Classic Edition) has 256 MB of DDR3 RAM[3][5][6]. 
+
+This amount of RAM is significantly more than the original NES, which had only 2 KB of RAM[1]. The increased memory allows the NES Classic Mini to run its emulation software and store game states, providing features like save points that weren't possible on the original hardware.
+
+The system's specifications also include:
+
+- A system-on-chip: Allwinner R16 with 4 ARM Cortex-A7 cores and a Mali400MP2 GPU[3][6]
+- 512 MB of NAND flash storage[3][4][5]
+- HDMI output capable of 1080p resolution[3]
+
+This hardware configuration allows the NES Classic Mini to accurately emulate the original NES games while providing modern conveniences like high-definition output and save states. The increased RAM and storage compared to the original NES enable these enhanced features while maintaining faithful reproduction of the classic games.

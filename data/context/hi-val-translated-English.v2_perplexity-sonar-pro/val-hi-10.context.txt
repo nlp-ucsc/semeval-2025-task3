@@ -1,0 +1,21 @@
+The main cause of ICD-10 code E11 is Type 2 diabetes mellitus[1][9]. Type 2 diabetes mellitus is characterized by insulin resistance and relative insulin deficiency, rather than the absolute insulin deficiency seen in type 1 diabetes[9].
+
+Some key points about the cause of E11 (Type 2 diabetes mellitus):
+
+1. Insulin secretory defect: E11 includes diabetes due to an insulin secretory defect, where the pancreas does not produce enough insulin to regulate blood glucose levels effectively[9].
+
+2. Insulin resistance: The body's cells become resistant to insulin, leading to decreased glucose uptake and elevated blood sugar levels[9].
+
+3. Adult-onset: It is often referred to as "adult-onset" or "maturity-onset" diabetes, as it typically develops in adulthood, though it can occur at any age[8].
+
+4. Lifestyle factors: While not explicitly stated in the ICD-10 description, Type 2 diabetes is often associated with lifestyle factors such as obesity, lack of physical activity, and poor diet.
+
+5. Genetic predisposition: There is often a genetic component that increases susceptibility to developing Type 2 diabetes.
+
+It's important to note that E11 is a broad category that encompasses various presentations of Type 2 diabetes. The code can be further specified with additional digits to indicate specific complications or manifestations of the disease[1][9]. For example:
+
+- E11.0 indicates Type 2 diabetes with hyperosmolarity
+- E11.2 indicates Type 2 diabetes with kidney complications
+- E11.65 specifically denotes Type 2 diabetes with hyperglycemia[4]
+
+When coding for Type 2 diabetes, healthcare providers should also use additional codes to identify the method of control, such as insulin use (Z79.4) or oral antidiabetic drugs (Z79.84)[1][9].

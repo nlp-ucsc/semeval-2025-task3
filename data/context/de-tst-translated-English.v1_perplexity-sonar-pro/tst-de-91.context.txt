@@ -1,0 +1,18 @@
+DOT 4 brake fluid has two important boiling points:
+
+1. Dry Boiling Point: 446°F (230°C)[1][9]
+
+The dry boiling point refers to the temperature at which fresh, unused DOT 4 brake fluid from an unopened container will begin to boil.
+
+2. Wet Boiling Point: 311°F (155°C)[1][9]
+
+The wet boiling point is the temperature at which DOT 4 brake fluid will boil after it has absorbed 3.7% water by volume, which typically occurs after about two years of use[6].
+
+It's important to note that the actual boiling point can vary slightly between different brands and formulations of DOT 4 brake fluid. Some high-performance or racing DOT 4 fluids may have even higher boiling points. For example:
+
+- Some DOT 4 fluids marketed as "DOT 4+" or "Super DOT 4" can have dry boiling points up to 509°F (265°C) and wet boiling points up to 329°F (165°C)[4].
+- Certain racing brake fluids classified as DOT 4 can have dry boiling points above 310°C (590°F)[3].
+
+The higher boiling point of DOT 4 compared to DOT 3 makes it suitable for vehicles subject to high-altitude driving, towing, or equipped with ABS systems, as well as for high-speed braking conditions often encountered on racetracks[10].
+
+It's crucial to maintain and replace brake fluid regularly, as its boiling point decreases over time due to moisture absorption. This helps ensure optimal braking performance and safety.

@@ -1,0 +1,13 @@
+The dwarf planet Chaos has an orbital period of approximately 309 years. More specifically:
+
+1. According to the Deep Ecliptic Survey data, Chaos has an orbital period of 309.1006 years[3][7].
+
+2. Another source states that its orbital period is 309.92 years[4].
+
+3. A slightly different figure is provided by another reference, which gives an orbital period of 307 years (or 112,006.8 days)[5].
+
+4. One source rounds it to about 312.11 years[1].
+
+These slight variations in the reported orbital period are likely due to differences in measurement precision or the specific epoch used for calculations. However, all sources agree that the orbital period of Chaos is approximately 309-312 years.
+
+It's worth noting that Chaos is a trans-Neptunian object, specifically a cubewano or Classical Kuiper Belt Object[4]. Its orbit extends beyond Neptune, with an average distance from the Sun (semi-major axis) of about 45.599 AU[3]. This large distance from the Sun contributes to its long orbital period.

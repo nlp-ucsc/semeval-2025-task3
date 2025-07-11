@@ -1,0 +1,25 @@
+To express the number 41 as the sum of two squares, we need to find integers \( a \) and \( b \) such that:
+
+\[
+a^2 + b^2 = 41
+\]
+
+1. **Identify Possible Values:**
+   - First, list the squares of integers that are less than or equal to 41:
+     \[
+     0^2 = 0,\quad 1^2 = 1,\quad 2^2 = 4,\quad 3^2 = 9,\quad 4^2 = 16,\quad 5^2 = 25,\quad 6^2 = 36
+     \]
+   
+2. **Find Combinations:**
+   - Check different combinations of these squares to see which two add up to 41.
+     - \( 25 + 16 = 41 \) ⇒ \( 5^2 + 4^2 = 41 \)
+     - \( 36 + 5 = 41 \) ⇒ \( 6^2 + (\sqrt{5})^2 = 41 \) (but \( \sqrt{5} \) is not an integer)
+
+3. **Conclusion:**
+   - The valid integer solution is \( 5^2 + 4^2 = 41 \).
+
+Therefore, the number 41 can be expressed as the sum of two squares:
+
+\[
+\boxed{41 = 5^2 + 4^2}
+\]

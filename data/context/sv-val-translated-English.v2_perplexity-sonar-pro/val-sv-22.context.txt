@@ -1,0 +1,29 @@
+The newton (symbol: N) is the SI unit of force. It is defined as the force required to accelerate a mass of one kilogram at a rate of one meter per second squared[1][3]. 
+
+Mathematically, this can be expressed as:
+
+1 N = 1 kg⋅m/s²
+
+This definition is derived from Newton's second law of motion, which states that force equals mass times acceleration (F = ma)[3]. When using SI base units:
+
+- Mass (m) is measured in kilograms (kg)
+- Acceleration (a) is measured in meters per second squared (m/s²)
+
+Therefore, the units of force (F) become kg⋅m/s², which is defined as one newton.
+
+Some key points about the newton:
+
+1. It is named after Sir Isaac Newton in recognition of his work on classical mechanics[1][3].
+
+2. The newton was officially adopted as the SI unit of force in 1948 by the 9th General Conference on Weights and Measures[3].
+
+3. One newton is approximately equal to:
+   - The force of Earth's gravity on a mass of about 102 grams[1]
+   - 0.224809 pound-force (lbf) in imperial units[1][3]
+   - 100,000 dynes in the CGS system[3][5]
+
+4. The newton is used in various calculations related to force, including weight (which is the force of gravity on an object's mass)[2].
+
+5. In everyday terms, 1 N is roughly equivalent to the weight of a small apple on Earth[4].
+
+The newton provides a standardized and precise way to measure and express force in scientific and engineering applications worldwide.

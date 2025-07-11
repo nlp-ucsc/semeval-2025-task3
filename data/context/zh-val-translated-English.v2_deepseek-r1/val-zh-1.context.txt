@@ -1,0 +1,30 @@
+Petra van Staveren participated in the 1984 Olympics. She was born on June 8, 1966. Using this information, we can calculate her age during the Olympics.
+
+First, we identify the year of the event, which is 1984. Since her birth year is 1966, we subtract 1966 from 1984 to find the difference in years.
+
+1984 - 1966 = 18 years.
+
+Therefore, Petra van Staveren was 18 years old when she participated in the 1984 Olympics.
+To determine Petra van Staveren's age during the 1984 Olympics, follow these steps:
+
+1. **Note the Year of the Olympics:**
+   - The event took place in **1984**.
+
+2. **Identify Petra van Staveren's Birth Year:**
+   - She was born in **1966**.
+
+3. **Calculate the Age:**
+   - Subtract the birth year from the Olympic year:
+     \[
+     1984 \text{ (Olympic year)} - 1966 \text{ (birth year)} = 18 \text{ years}
+     \]
+
+4. **Consider the Exact Date:**
+   - Petra van Staveren was born on **June 8, 1966**.
+   - The 1984 Summer Olympics were held from **July 28 to August 12, 1984**.
+   - Since her birthday (June 8) occurs before the start of the Olympics, she had already turned **18** by the time of the event.
+
+**Final Answer:**
+Petra van Staveren was **18 years old** during the 1984 Olympics.
+
+\boxed{18}

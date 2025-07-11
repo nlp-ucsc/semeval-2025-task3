@@ -1,0 +1,21 @@
+Microsoft Edge became available for iOS and Android devices in late 2017. Here are the key details:
+
+1. Microsoft first introduced Microsoft Edge for iOS and Android in preview form in October 2017[1][7].
+
+2. The official release of Microsoft Edge for iOS and Android, removing the "preview" label, occurred on November 30, 2017[1][3].
+
+3. Initially, Microsoft Edge was available for smartphones on these platforms. The app was later expanded to include tablet support:
+
+   - For iPads: Microsoft Edge became available on March 26, 2018[1].
+   - For Android tablets: The release also occurred on March 26, 2018[6].
+
+4. The release of Microsoft Edge for mobile platforms was part of Microsoft's strategy to expand its browser's reach beyond Windows devices[4]. This move allowed Windows users to sync their browsing experience across their PC and mobile devices[9].
+
+5. It's important to note that the mobile versions of Microsoft Edge use different rendering engines compared to the desktop version:
+
+   - On iOS, it uses WebKit, as required by Apple's App Store policies[9].
+   - On Android, it initially used the Blink rendering engine from the Chromium project[9].
+
+6. The availability of Microsoft Edge on these mobile platforms preceded the major overhaul of the desktop version, which switched to a Chromium-based engine in January 2020[10].
+
+This expansion to mobile platforms marked a significant step in Microsoft's efforts to increase Edge's market share and provide a more seamless browsing experience across different devices for its users.

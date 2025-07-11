@@ -1,0 +1,13 @@
+Spontaneously combustible substances, specifically pyrophoric materials, ignite within 5 minutes upon contact with air[2][3][4]. This rapid ignition is a key characteristic that defines pyrophoric substances within the broader category of spontaneously combustible materials.
+
+Pyrophoric substances are a subset of Division 4.2 materials, which are classified as substances liable to spontaneous combustion[2]. These materials are extremely reactive and dangerous, as they can ignite without any external ignition source when exposed to air, even in small quantities[3].
+
+The 5-minute timeframe is a critical criterion used in various regulatory and classification systems:
+
+1. The Australian Dangerous Goods Code (ADG Code) defines pyrophoric substances as those that ignite within 5 minutes of coming into contact with air[2].
+
+2. The International Air Transport Association (IATA) classifies pyrophoric substances and mixtures as those that ignite within 5 minutes of contact with air[3].
+
+3. The Globally Harmonized System of Classification and Labelling of Chemicals (GHS) also uses the 5-minute ignition time as a criterion for classifying a chemical as pyrophoric[8].
+
+It's important to note that while the 5-minute threshold is used for official classification, materials that take longer than 5 minutes to ignite can still pose significant risks and should be handled with caution[8]. The rapid ignition of these substances underscores the need for proper storage, handling, and transportation procedures to prevent accidents and ensure safety in industrial and laboratory settings.

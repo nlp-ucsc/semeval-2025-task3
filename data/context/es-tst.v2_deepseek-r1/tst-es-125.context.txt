@@ -1,0 +1,46 @@
+Para expresar 41 como suma de dos cuadrados,ans = 4² + 5² = 16 + 25 = 41, por lo tanto dankovicinio producto.
+
+**Step-by-Step Explanation:**
+
+1. **Identify Perfect Squares Less than 41:**
+   - List squares of integers: 0²=0, 1²=1, 2²=4, 3²=9, 4²=16, 5²=25, 6²=36, 7²=49 (exceeds 41).
+
+2. **Check Combinations of Two Squares:**
+   - Start with larger squares and subtract from 41 to see if the result is a square.
+     - 25 (5²) → 41 - 25 = 16, which is 4².
+     - Thus, 4² + 5² = 16 + 25 = 41.
+
+3. **Verify the Pair:**
+   - 4² = 16 and 5² = 25.
+   - Sum: 16 + 25 = 41, confirming the correct pair.
+
+**Final Answer:**
+41 = 4² + 5² = 16 + 25
+
+\boxed{41 = 4^2 + 5^2}
+Para expresar 41 como suma de dos cuadrados, necesitamos encontrar dos números enteros cuyos cuadrados sumen 41.
+
+**Paso a paso:**
+
+1. **Lista de cuadrados perfectos menores que 41:**
+   - \(0^2 = 0\)
+   - \(1^2 = 1\)
+   - \(2^2 = 4\)
+   - \(3^2 = 9\)
+   - \(4^2 = 16\)
+   - \(5^2 = 25\)
+   - \(6^2 = 36\)
+
+2. **Verificar combinaciones:**
+   - Empezamos con los cuadrados más grandes y restamos para ver si el resultado es también un cuadrado.
+     - \(41 - 25 = 16\), y \(16 = 4^2\).
+     - Por lo tanto, \(4^2 + 5^2 = 16 + 25 = 41\).
+
+3. **Conclusión:**
+   - Los números 4 y 5 satisfacen la condición, ya que \(4^2 + 5^2 = 41\).
+
+**Respuesta final:**
+
+\[
+\boxed{41 = 4^2 + 5^2}
+\]

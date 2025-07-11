@@ -1,0 +1,7 @@
+In a case–control study, two groups are compared:
+1. Cases: Individuals who have the disease or outcome of interest.
+2. Controls: Individuals who do not have the disease or outcome.
+
+The primary goal is to determine if there is an association between the exposure to a certain risk factor and the outcome by comparing the histories of exposure in both groups.
+
+Answer: Two groups—the cases and the controls—are compared in a case–control study.

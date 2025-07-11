@@ -1,0 +1,10 @@
+L'hélicoptère Ingenuity pèse 1,8 kg sur Terre[1][2][3]. Cependant, en raison de la gravité plus faible sur Mars, son poids effectif sur la planète rouge n'est que de 0,68 kg[1][3].
+
+Voici quelques détails supplémentaires sur la masse et les dimensions d'Ingenuity :
+
+- Sa hauteur totale est de 49 cm[1][5].
+- Son fuselage (le "corps" de l'hélicoptère) mesure 13,6 cm x 19,5 cm x 16,3 cm, soit environ la taille d'une boîte de mouchoirs[1][3].
+- Ses quatre pieds mesurent chacun 38,4 cm de long[3].
+- Ses pales de rotor sont disposées en deux rotors contrarotatifs de 1,2 m de diamètre[1][2].
+
+La légèreté d'Ingenuity est cruciale pour sa capacité à voler dans l'atmosphère très ténue de Mars. L'atmosphère martienne a une densité d'environ 1% de celle de la Terre au niveau de la mer, ce qui rend le vol beaucoup plus difficile[6]. Pour générer suffisamment de portance dans ces conditions, les ingénieurs ont dû concevoir un hélicoptère aussi léger que possible tout en étant suffisamment robuste pour survivre aux conditions martiennes[2][6].

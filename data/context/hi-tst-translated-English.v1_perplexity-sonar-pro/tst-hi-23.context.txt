@@ -1,0 +1,13 @@
+German submarines used calcium hydride as a chemical compound for sonar decoys during World War II[1][2][3]. This was employed in a device called Bold (derived from the German word "kobold")[2].
+
+The Bold decoy consisted of a metal canister about 10 cm (3.9 inches) in diameter filled with calcium hydride[1][2][3]. When the canister was ejected from the submarine and came into contact with seawater, the calcium hydride reacted to produce large quantities of hydrogen gas bubbles[1][2][3].
+
+This bubble cloud created by the chemical reaction served several purposes:
+
+1. It acted as a bubble curtain that reflected ASDIC (Allied sonar) impulses[1].
+2. It produced a false sonar target that could resemble a submerged submarine to enemy sonar operators[1][3].
+3. The device lasted for about 20 to 25 minutes, giving the submarine time to evade pursuers[2][3].
+
+The Bold decoy was launched from a special tube system on the U-boat, colloquially referred to as "Pillenwerfer" (meaning "pill thrower" in English)[2]. It was widely used by German U-boats from 1942 onwards, with improved versions being developed throughout the war[3].
+
+The Allied forces referred to this type of decoy as SBT (Submarine Bubble Target)[2]. The use of calcium hydride in Bold decoys was an ingenious chemical solution to create a convincing sonar deception, allowing German submarines to better evade detection and attack during World War II.

@@ -1,0 +1,27 @@
+El protó i l'antiprotó són partícules subatòmiques que tenen moltes característiques similars, però amb algunes diferències crucials:
+
+1. Càrrega elèctrica:
+   - El protó té una càrrega elèctrica positiva de +1e.
+   - L'antiprotó té una càrrega elèctrica negativa de -1e, igual a la de l'electró[2][5].
+
+2. Composició:
+   - El protó està compost per tres quarks: dos quarks up i un quark down (uud)[5].
+   - L'antiprotó està compost per tres antiquarks: dos antiquarks up i un antiquark down[2].
+
+3. Interacció amb la matèria:
+   - Els protons són estables i formen part de la matèria ordinària, constituint els nuclis atòmics juntament amb els neutrons[5].
+   - Els antiprotons són estables en si mateixos, però quan entren en contacte amb la matèria ordinària, s'aniquilen mútuament, produint energia en forma de raigs gamma i altres partícules[2][4].
+
+4. Abundància natural:
+   - Els protons són abundants a l'univers observable, formant part de tots els àtoms[5].
+   - Els antiprotons són extremadament rars a l'univers actual. Es creu que hi va haver un petit excés de matèria sobre antimatèria després del Big Bang, resultant en la predominança de matèria que observem avui[4].
+
+5. Producció artificial:
+   - Els protons es troben naturalment i no necessiten ser produïts artificialment.
+   - Els antiprotons poden ser produïts en laboratoris com el CERN, utilitzant acceleradors de partícules d'alta energia[2][3].
+
+6. Aplicacions i estudis:
+   - Els protons s'utilitzen en diversos camps, des de la física nuclear fins a aplicacions mèdiques com la teràpia de protons.
+   - Els antiprotons són objecte d'estudi en física de partícules i s'utilitzen per investigar les diferències entre matèria i antimatèria, així com per estudiar la simetria CPT[2].
+
+Tot i aquestes diferències, el protó i l'antiprotó tenen la mateixa massa i magnitud de spin[2][5]. La seva existència i les seves propietats són fonamentals per a la nostra comprensió de la física de partícules i l'estructura de l'univers.

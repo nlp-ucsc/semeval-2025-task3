@@ -1,0 +1,15 @@
+El Al Flight 402 diverged from its intended route due to a combination of factors, primarily related to navigation errors and adverse weather conditions. The exact reason was never conclusively established, but several possibilities have been proposed:
+
+1. Thunderstorm interference: The flight encountered severe thunderstorm activity en route to Israel[2]. Thunderstorms can disrupt navigational equipment, particularly the older Non-Directional Beacon (NDB) systems used at the time[2].
+
+2. Navigation error: Using the NDB navigation aids, the crew mistakenly believed they were flying over the Skopje radio beacon[1][2]. This led them to turn to an outbound course of 142 degrees, inadvertently entering Bulgarian airspace[1].
+
+3. Equipment malfunction: The thunderstorm activity might have upset the navigational equipment, causing the crew to misinterpret their position[1].
+
+4. Limited navigation aids: At the time of the incident, the airway (Amber 10) relied on just one VOR (VHF Omnidirectional Range) station[1][2]. This limited navigational support may have contributed to the error.
+
+It's important to note that the plane traveled approximately 200 km (120 mi) over Bulgarian territory, straying about 120 km (75 mi) from the Yugoslav-Bulgarian border before being shot down[1]. This significant deviation suggests a substantial navigational error rather than a minor course adjustment.
+
+The investigation following the incident recommended installing more VOR stations along airway Amber 10 to prevent similar navigational errors in the future[1][2]. This underscores the role that limited navigational aids played in the incident.
+
+While these factors provide context for how the plane might have strayed off course, it's crucial to understand that the diversion from the intended route does not justify the subsequent shooting down of the civilian aircraft by Bulgarian fighter jets, which resulted in the tragic loss of all 58 lives on board[1][2].

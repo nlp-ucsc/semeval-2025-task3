@@ -1,0 +1,16 @@
+The melting point of aluminum nitrate varies depending on its hydration state:
+
+For anhydrous aluminum nitrate (Al(NO3)3):
+The melting point is 72.8°C (163°F)[1].
+
+For aluminum nitrate nonahydrate (Al(NO3)3·9H2O), which is the more common form:
+The melting point is 73.9°C (165.0°F)[2][4][5].
+
+It's important to note that aluminum nitrate is typically found in its hydrated form, most commonly as the nonahydrate. The slight difference in melting points between the anhydrous and nonahydrate forms is due to the presence of water molecules in the crystal structure of the nonahydrate.
+
+Some sources provide slightly different values, which is common for chemical properties measured under various conditions:
+
+- 73°C is reported by some sources[4]
+- 73.5°C is mentioned in other references[8]
+
+These small variations can be attributed to differences in measurement techniques, purity of the samples, or specific experimental conditions. However, the consensus among most reliable sources points to a melting point of around 73-74°C for aluminum nitrate nonahydrate.

@@ -1,0 +1,13 @@
+El nom en clau original del navegador web Microsoft Edge era Project Spartan[3]. Posteriorment, Microsoft va utilitzar altres noms en clau per a les diferents versions del navegador:
+
+1. Spartan: Aquest va ser el nom en clau inicial utilitzat durant el desenvolupament de la primera versió d'Edge, abans que es revelés el seu nom oficial[3].
+
+2. Anaheim: Aquest nom en clau es va utilitzar per a la versió d'Edge basada en Chromium, que va substituir la versió original[3].
+
+Cal destacar que Microsoft Edge ha passat per diverses iteracions des del seu llançament inicial:
+
+- La versió original d'Edge, coneguda com a Edge Legacy, es va llançar el 2015 com a part de Windows 10[5].
+
+- El 2020, Microsoft va llançar una nova versió d'Edge basada en el projecte de codi obert Chromium[5]. Aquesta versió és coneguda com "The New Microsoft Edge" o simplement "New Edge"[5].
+
+Aquests noms en clau van ser utilitzats internament per Microsoft durant el desenvolupament del navegador, però no són àmpliament coneguts pel públic general. El nom oficial del navegador continua sent Microsoft Edge.

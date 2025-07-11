@@ -1,0 +1,17 @@
+<think>
+Okay, so I need to figure out which country the World Chess Federation, also known as FIDE, is based in. Let me start by recalling what I know about FIDE. I remember that FIDE is the governing body for international chess, but I'm not exactly sure where their headquarters are located.
+
+Looking at the search results provided, I see that result [1] is from Wikipedia. It mentions that FIDE is based in Switzerland. That seems straightforward. But I should check the other results to confirm.
+
+Result [2] is from Chessprogramming.org. It talks about FIDE being founded in Paris in 1924 but doesn't mention the current location. So, it's not helpful for the current headquarters.
+
+Result [3] is directly from FIDE's official website. It states that FIDE currently has its headquarters in Lausanne, Switzerland. This is a primary source, so it's very reliable.
+
+Result [4] from Chess.com also mentions that FIDE is now based in Switzerland. It provides additional details about FIDE's role and history but confirms the location again.
+
+Result [5] is about the geography of chess and lists various countries and their chess federations. It doesn't specifically mention FIDE's headquarters, so it's not relevant for this question.
+
+Putting it all together, multiple sources confirm that FIDE is based in Switzerland, specifically in Lausanne. The official website and other reliable sources all agree on this. Therefore, the answer is clear.
+</think>
+
+The World Chess Federation, commonly known as FIDE, is based in Switzerland. Specifically, its headquarters are located in Lausanne[1][3][4].

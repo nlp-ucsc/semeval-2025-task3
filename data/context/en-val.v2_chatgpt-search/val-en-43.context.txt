@@ -1,0 +1,5 @@
+In a case-control study, two groups are compared:
+1. Cases: Individuals who have the condition or outcome of interest.
+2. Controls: Individuals who do not have the condition or outcome.
+
+This design allows researchers to assess whether certain exposures or factors are more prevalent among those with the condition compared to those without it.

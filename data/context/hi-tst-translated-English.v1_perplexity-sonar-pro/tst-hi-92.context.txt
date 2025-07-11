@@ -1,0 +1,17 @@
+Based on the search results provided, sodium sulfate is insoluble in ethanol[8][10]. Specifically:
+
+1. Sodium sulfate is insoluble in alcohol[6].
+
+2. It is insoluble in ethanol[8].
+
+3. Sodium sulfate is insoluble in ethanol, halocarbons, and hydrocarbons[10].
+
+To provide more context, sodium sulfate exhibits different solubility behaviors in various solvents:
+
+- It is highly soluble in water, with its solubility varying significantly with temperature. At 20°C, its solubility in water is about 13.9 g/100 mL for the anhydrous form and 44 g/100 mL for the decahydrate form[10].
+
+- Sodium sulfate is soluble in glycerol[6][8].
+
+- It is soluble in hydrogen iodide[8].
+
+The insolubility of sodium sulfate in ethanol and other organic solvents is due to its ionic nature. As an ionic compound, sodium sulfate dissolves well in polar solvents like water but poorly in non-polar or weakly polar organic solvents like ethanol. This property can be useful in certain applications, such as using ethanol to precipitate sodium sulfate from aqueous solutions.

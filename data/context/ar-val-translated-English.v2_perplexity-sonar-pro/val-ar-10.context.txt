@@ -1,0 +1,11 @@
+Jef Raskin started the Macintosh project for Apple in 1979[1][2]. Raskin, a computer scientist and interface designer, conceived the Macintosh as an affordable, easy-to-use computer for the masses[2]. He envisioned a computer designed from a human factors perspective, focusing on usability for the average person rather than technical specifications[1].
+
+Raskin's original concept for the Macintosh, initially called "Annie," was quite different from the final product:
+
+1. It was intended to be a closed computer system including a monitor, keyboard, and printer, all working without external wires[1].
+2. The initial design called for a small 5-inch display, an inexpensive 6809 CPU, and only 64 kilobytes of main memory[1].
+3. Raskin aimed for a price point of $500, making it accessible to a wide range of consumers[1].
+
+While Raskin initiated the project, it's important to note that the Macintosh underwent significant changes after Steve Jobs became involved in 1981[2]. Jobs took control of the project and redirected it, incorporating ideas from his visit to Xerox PARC, such as the graphical user interface and mouse-based interaction[1]. This led to tensions between Raskin and Jobs, ultimately resulting in Raskin leaving the project in 1981[1].
+
+Despite the changes made under Jobs' leadership, Raskin's initial vision of creating a computer for the "Person in the Street" (PITS) remained a core principle in the Macintosh's development[1]. While there is some debate about who should be considered the "father of the Macintosh," Raskin's role in conceiving and initiating the project is widely acknowledged, even if the final product diverged significantly from his original concept[1][2].

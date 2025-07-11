@@ -1,0 +1,15 @@
+Windows Neptune utvecklades under 1999[1][4]. Mer specifikt:
+
+- Utvecklingen av Neptune påbörjades den 5 februari 1999[5].
+
+- Neptune var under utveckling under större delen av 1999[1].
+
+- Den enda offentligt tillgängliga byggnationen av Neptune, build 5111, kompilerades den 10 december 1999[7].
+
+- Build 5111 distribuerades till utvecklare den 27 december 1999[7].
+
+Neptune var tänkt att bli efterföljaren till Windows 98 och Windows Me, och skulle ha varit den första konsumentversionen av Windows baserad på Windows NT-kärnan[1][2]. Målet var att ersätta Windows 9x-serien med ett operativsystem för hemmaanvändare byggt på NT-tekniken[1].
+
+Projektet avbröts dock i januari 2000[8]. Microsoft beslutade då att slå ihop Neptune-teamet med teamet som arbetade på Odyssey (efterföljaren till Windows 2000 för företagsanvändare). Det sammanslagna teamet började istället arbeta på ett nytt projekt med kodnamnet Whistler, som senare skulle bli Windows XP[1][5].
+
+Så sammanfattningsvis pågick utvecklingen av Windows Neptune under större delen av 1999, från februari till december, innan projektet lades ner i början av år 2000.

@@ -1,0 +1,11 @@
+Las cuatro fuerzas fundamentales según la física de partículas son:
+
+1. Fuerza nuclear fuerte: Es la más intensa de las cuatro fuerzas fundamentales. Actúa a nivel subatómico y es responsable de mantener unidos los quarks dentro de los protones y neutrones, así como de unir los protones y neutrones en el núcleo atómico[1][3]. Su alcance es extremadamente corto, limitándose a distancias subatómicas[4].
+
+2. Fuerza electromagnética: Es la segunda fuerza más intensa. Actúa entre partículas con carga eléctrica, siendo responsable de fenómenos como la electricidad y el magnetismo[2][4]. Tiene un alcance infinito y puede ser tanto atractiva como repulsiva[3].
+
+3. Fuerza nuclear débil: A pesar de su nombre, es más fuerte que la gravedad. Es responsable de ciertos tipos de decaimiento radioactivo y juega un papel crucial en procesos como la fusión nuclear en el Sol[1][4]. Su alcance es muy corto, incluso menor que el de la fuerza nuclear fuerte[3].
+
+4. Fuerza gravitatoria: Es la más débil de las cuatro fuerzas fundamentales, pero tiene un alcance infinito[3][4]. Actúa sobre todas las partículas con masa y es responsable de la atracción entre cuerpos celestes, así como de fenómenos como las mareas y la formación de galaxias[2][4].
+
+Estas cuatro fuerzas son responsables de todos los fenómenos físicos observados en el universo[5]. Los científicos han logrado unificar tres de estas fuerzas (electromagnética, nuclear fuerte y nuclear débil) en el Modelo Estándar de la física de partículas, pero la gravedad aún no se ha podido integrar completamente en este marco teórico[3][8].

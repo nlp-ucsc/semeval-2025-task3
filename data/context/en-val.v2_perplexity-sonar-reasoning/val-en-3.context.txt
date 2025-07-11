@@ -1,0 +1,29 @@
+<think>
+Okay, so the user is asking whether all arthropods have antennae. I remember that arthropods are a diverse group, including insects, crustaceans, arachnids, and others. From what I've read before, most arthropods do have antennae, but I think some don't. 
+
+Looking at the search results, the first result from Wikipedia says that except for chelicerates and proturans, all non-crustacean arthropods have a single pair of antennae. Chelicerates include spiders and scorpions, so they don't have antennae. Proturans are a smaller group, and they also don't have antennae. 
+
+The second search result from AMNH mentions that arthropods use antennae for sensory functions, but it doesn't specify which ones don't. The third result from NC State talks about Onychophora having antennae and mentions that arthropods have them, but again, it's general. 
+
+The fourth result from Tulane discusses crustaceans having two pairs of antennae, which aligns with the first result. The fifth result is a homework question where the answer is that scorpions don't have antennae, which are arachnids. 
+
+So putting it all together, arthropods like insects, crustaceans, and some others have antennae, but arachnids (like scorpions) and proturans do not. This means not all arthropods have antennae. 
+
+I should structure the answer to first state that not all arthropods have antennae, then explain which groups do and which don't, citing the relevant search results. I'll make sure to mention the exceptions clearly and provide examples for clarity.
+</think>
+
+No, not all arthropods have antennae. While many arthropods, such as insects, crustaceans, and myriapods, possess antennae, some groups within the arthropods do not. 
+
+Arthropods are divided into several classes, and the presence of antennae varies among these groups:
+
+1. **Insects (Class Insecta)**: All insects have antennae, which are a key sensory organ used for detecting smells, tastes, and other environmental cues. The structure of antennae varies among species but typically includes segments such as the scape, pedicel, and flagellum.
+
+2. **Crustaceans (Class Crustacea)**: Crustaceans, such as crabs, lobsters, and shrimp, have two pairs of antennae. The first pair is called antennules, and the second pair is referred to as antennae. These antennae are used for sensory purposes and, in some species, for swimming or other functions.
+
+3. **Myriapods (Millipedes and Centipedes)**: Myriapods have antennae, which are often simple in structure and used for sensory perception.
+
+4. **Chelicerates (Class Chelicerata)**: This group includes arachnids (spiders, scorpions, ticks, and mites) and horseshoe crabs. Chelicerates do not have antennae. Instead, they use other sensory structures, such as pedipalps in arachnids, for sensory perception.
+
+5. **Proturans**: Proturans, a small and primitive group of arthropods, also lack antennae.
+
+In summary, while many arthropods have antennae, chelicerates and proturans are notable exceptions. This diversity reflects the wide range of adaptations within the arthropod phylum.

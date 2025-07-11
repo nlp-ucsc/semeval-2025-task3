@@ -1,0 +1,37 @@
+Microsoft Edge is not the most popular browser overall, but it has been gaining market share and is now the second most popular desktop browser in many regions. Here's a detailed breakdown of Edge's position in the browser market:
+
+## Overall Market Share
+
+Across all platforms (desktop, mobile, and tablet), Microsoft Edge is not the most popular browser. As of recent data:
+
+1. Google Chrome remains the dominant browser with around 64-68% market share globally[1][2][3].
+2. Apple's Safari is typically in second place with about 18-19% market share[2][3].
+3. Microsoft Edge usually ranks third or fourth globally, with a market share of around 4-5%[2][3][6].
+
+## Desktop Market Share
+
+On desktop platforms, Microsoft Edge performs significantly better:
+
+1. Google Chrome still leads with approximately 65-66% market share[2][6].
+2. Microsoft Edge is often the second most popular desktop browser, with recent figures showing:
+   - 11.9% to 13.21% market share, depending on the source[1][2][8].
+   - This represents a notable increase from previous years, with Edge gaining 2.31 percentage points year-over-year as of December 2024[8].
+3. Safari and Firefox typically follow Edge in desktop usage[2][6].
+
+## Regional Variations
+
+Edge's popularity varies by region:
+
+- In the United States, Edge ranks third with about 6-8% market share across all platforms[3][5].
+- In some markets, particularly where Windows is dominant, Edge may have a higher market share.
+
+## Factors Contributing to Edge's Growth
+
+Several factors have contributed to Edge's increasing popularity:
+
+1. Integration with Windows: Edge comes pre-installed on Windows systems, giving it a built-in user base[1].
+2. Performance improvements: Microsoft has made significant enhancements to Edge's speed and compatibility[1].
+3. Chromium-based redesign: The switch to a Chromium base in 2020 improved Edge's compatibility and feature set[5].
+4. Regular updates: Microsoft frequently adds new features and security improvements[1].
+
+While Microsoft Edge has made significant strides in recent years, particularly in the desktop market, it is not the most popular browser overall. Google Chrome remains the dominant browser across all platforms, with Safari typically in second place globally. However, Edge's growth trend suggests it may continue to gain market share, especially in the desktop segment where it has already established itself as a strong competitor.

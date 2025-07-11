@@ -1,0 +1,9 @@
+La NES Mini (ou NES Classic Edition) possède 256 Mo de mémoire RAM (Random Access Memory)[1][3][7]. 
+
+Cette quantité de mémoire vive est largement suffisante pour émuler les jeux de la NES originale, qui ne disposait que de 2 Ko de RAM[5]. La mémoire RAM plus importante de la NES Mini permet une émulation fluide des jeux classiques tout en offrant des fonctionnalités modernes comme la sauvegarde d'état.
+
+En plus de la RAM, la NES Mini dispose également de 512 Mo de mémoire flash pour le stockage[1][3][7]. Cette mémoire flash sert à stocker le système d'exploitation de la console, l'émulateur, ainsi que les 30 jeux préinstallés.
+
+Il est intéressant de noter que ces spécifications (256 Mo de RAM et 512 Mo de stockage flash) sont identiques à celles de la SNES Mini, sortie plus tard[7]. Cela suggère que Nintendo a réutilisé la même architecture matérielle pour ses deux consoles mini rétro.
+
+Cette configuration matérielle, bien que modeste selon les standards actuels, est amplement suffisante pour l'usage prévu de la console, à savoir l'émulation de jeux 8-bits dans une qualité optimale.

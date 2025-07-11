@@ -1,0 +1,9 @@
+Termillä "jaettu lähdekoodi" (shared source) viitataan tyypillisesti Microsoftin Shared Source Initiative -aloitteeseen, joka käynnistettiin vuonna 2001[1][2]. Tämä aloite oli Microsoftin vastaus avoimen lähdekoodin liikkeeseen ja sen kasvavaan suosioon.
+
+Shared Source Initiative mahdollisti tiettyjen Microsoft-ohjelmistojen lähdekoodin rajoitetun jakamisen ja tarkastelun tietyille sidosryhmille, kuten asiakkaille, kumppaneille ja hallituksille. Aloitteen tarkoituksena oli lisätä Microsoftin ohjelmistojen läpinäkyvyyttä ja luottamusta niihin, samalla kun yritys säilytti ohjelmistojen omistusoikeudet ja kaupallisen hallinnan[1].
+
+Aloitteen puitteissa Microsoft julkaisi useita erilaisia lisenssejä, jotka sallivat lähdekoodin rajoitetun käytön, tarkastelun ja joissakin tapauksissa muokkaamisen. Nämä lisenssit vaihtelivat hyvin rajoittavista (vain tarkastelu) avoimempiin, jotka sallivat koodin muokkaamisen ja uudelleenjakamisen tietyissä olosuhteissa[2].
+
+On tärkeää huomata, että Shared Source ei ole sama asia kuin avoin lähdekoodi. Vaikka se tarjoaa jonkin verran läpinäkyvyyttä, se ei yleensä anna käyttäjille samoja vapauksia kuin tyypilliset avoimen lähdekoodin lisenssit, kuten vapaus muokata ja jakaa koodia vapaasti[1].
+
+Ajan myötä Microsoft on muuttanut lähestymistapaansa ja omaksunut enemmän avoimen lähdekoodin käytäntöjä monissa projekteissaan. Yritys on nykyään yksi suurimmista avoimen lähdekoodin tukijoista ja osallistujista. Kuitenkin termi "jaettu lähdekoodi" liitetään edelleen vahvasti tähän Microsoftin varhaisempaan aloitteeseen[1][2].

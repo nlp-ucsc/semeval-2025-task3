@@ -1,0 +1,35 @@
+Voice disorders are primarily associated with the larynx, also known as the voice box, and its components. Here are the key parts of the body involved in voice production and potentially affected by voice disorders:
+
+## Larynx (Voice Box)
+
+The larynx is the central organ for voice production. It houses several important structures:
+
+1. Vocal cords (vocal folds): These are the primary structures responsible for voice production[1][3]. 
+   - They vibrate as air moves through them, producing the sound of your voice
+   - Vocal cords can be affected by various conditions such as nodules, polyps, cysts, or paralysis
+
+2. Muscles surrounding the larynx: These muscles can become tense, leading to conditions like muscle tension dysphonia (MTD)[1].
+
+3. False vocal folds (ventricular folds): Located above the true vocal folds, these can sometimes become the primary vibratory surfaces in certain voice disorders[3].
+
+## Related Structures
+
+1. Trachea (windpipe): Air moves through the trachea before reaching the larynx[2].
+
+2. Lungs: They provide the airflow necessary for voice production[2].
+
+3. Diaphragm: This muscle is crucial for breath support during speech[3].
+
+4. Throat muscles: These can affect voice production and may be involved in some voice disorders[1].
+
+5. Tongue and mouth: While not directly part of voice production, they shape the sound produced by the vocal cords[2].
+
+## Neurological Components
+
+Voice disorders can also be related to neurological issues affecting:
+
+1. Nerves controlling the larynx: Damage to these nerves can lead to conditions like vocal cord paralysis[4].
+
+2. Brain areas controlling speech: Disorders like spasmodic dysphonia are related to neurological dysfunction[5].
+
+Voice disorders can result from problems with any of these structures or their coordination. For example, muscle tension dysphonia involves excessive tension in the muscles around the larynx[1], while vocal cord paralysis affects the movement of the vocal cords themselves[4]. Understanding these anatomical components is crucial for diagnosing and treating voice disorders effectively.

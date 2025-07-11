@@ -1,0 +1,18 @@
+The first Iranian satellite launched into space was Omid (امید), which means "Hope" in Persian. Omid was Iran's first domestically made satellite and was successfully launched on February 2, 2009[1][4][7]. 
+
+Key details about Omid:
+
+1. Launch: It was launched using an Iranian-made carrier rocket called Safir-1[1].
+
+2. Orbit: Omid was placed into a low Earth orbit with a perigee of 246 km and an apogee of 377 km[1].
+
+3. Specifications:
+   - Dimensions: 40 cm × 40 cm × 40 cm
+   - Weight: 27 kg
+   - Purpose: Data-processing satellite for research and telecommunications[1]
+
+4. Mission duration: The satellite remained in orbit for about 3 months, deactivating in April 2009 and decaying on April 25, 2009[1].
+
+5. Historical significance: The successful launch of Omid made Iran the ninth country to develop an indigenous satellite launch capability[1].
+
+It's important to note that while Omid was the first Iranian-made satellite launched by an Iranian rocket, it was not the first Iranian satellite in space. That distinction belongs to Sina-1, which was built and launched for Iran by Russia in 2005[1][2]. However, Omid represents a significant milestone as it demonstrated Iran's ability to independently design, build, and launch a satellite into orbit.

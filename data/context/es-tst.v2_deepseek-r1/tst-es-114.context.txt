@@ -1,0 +1,12 @@
+Una fracción unitaria es una fracción en la que el numerador es 1 y el denominador es cualquier número natural diferente de cero. Es decir, tiene la forma:
+
+\[ \frac{1}{n} \]
+
+donde \( n \) es un número natural (1, 2, 3, ...). Las fracciones unitarias son fundamentales en matemáticas, especialmente en la teoría de los números fraccionarios, y se utilizan ampliamente en operaciones como la multiplicación y la división de fracciones.
+
+**Ejemplos de fracciones unitarias:**
+- \( \frac{1}{2} \)
+- \( \frac{1}{3} \)
+- \( \frac{1}{4} \)
+
+Estas fracciones representan partes de un todo, siendo el tamaño de la parte inversamente proporcional al valor del denominador. Cuanto mayor es el denominador, menor es la fracción.

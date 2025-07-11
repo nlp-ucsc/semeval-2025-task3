@@ -1,0 +1,9 @@
+Il Nintendo Classic Mini: Nintendo Entertainment System offre tre modalità di visualizzazione per i giochi[1][5]:
+
+1. Pixel Perfect - In questa modalità, ogni pixel è renderizzato come un quadrato perfetto sullo schermo. Ciò permette di vedere i giochi esattamente come sono stati progettati originariamente, con ogni pixel visualizzato in modo preciso.
+
+2. 4:3 - Questa modalità emula l'aspetto originale dei giochi NES su un televisore CRT dell'epoca. L'immagine viene leggermente allungata orizzontalmente per adattarsi al rapporto d'aspetto 4:3, replicando l'esperienza di gioco classica.
+
+3. Filtro CRT - Questa modalità simula l'aspetto di un vecchio televisore a tubo catodico, completo di linee di scansione artificiali. È progettata per offrire la sensazione più autentica possibile di giocare su un televisore dell'epoca.
+
+Queste modalità di visualizzazione possono essere selezionate dal menu principale della console, permettendo ai giocatori di scegliere l'esperienza visiva che preferiscono per ciascun gioco[7]. La possibilità di alternare tra queste modalità consente sia ai nostalgici di rivivere l'esperienza originale, sia ai nuovi giocatori di apprezzare la grafica pixel art nella sua forma più pura.

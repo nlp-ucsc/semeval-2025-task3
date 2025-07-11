@@ -1,0 +1,3 @@
+The unwanted AC signal present in the DC output obtained from a power supply is called **ripple**. 
+
+Ripple is caused by the AC component that remains in the DC output after rectification and filtering. It is measured as the AC voltage component that varies with the line frequency (usually 50 Hz or 60 Hz, depending on the power supply's input frequency). Ripple can be minimized using filters, such as capacitors, inductors, or more advanced filtering circuits. The presence of ripple can affect the performance of electronic devices powered by the DC supply, so it is often desired to keep it as low as possible.

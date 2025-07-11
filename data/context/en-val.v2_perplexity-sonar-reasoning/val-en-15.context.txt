@@ -1,0 +1,15 @@
+<think>
+Okay, I need to figure out who first described the white-winged chough. Let me look through the search results provided.
+
+First, I'll check result [1]. It mentions that the White-winged Chough was first described by French naturalist Louis Jean Pierre Vieillot in 1817 as Coracia melanorhamphos. It also lists other names given by different zoologists later on, but Vieillot seems to be the first.
+
+Result [2] talks about the behavior of the chough but doesn't mention the discovery or description by anyone specific, so it's probably not relevant for this question.
+
+Result [3] is about the genus Pyrrhocorax, which includes the red-billed and Alpine choughs. It doesn't discuss the white-winged chough's description, so I can skip this one.
+
+Result [4] again discusses the behavior and some research but doesn't provide information on who first described the species.
+
+So, the key information is in result [1], which clearly states that Louis Jean Pierre Vieillot described it in 1817. I should make sure to cite this source properly in the answer.
+</think>
+
+The white-winged chough (*Corcorax melanorhamphos*) was first described by the French naturalist Louis Jean Pierre Vieillot in 1817. At the time of its description, it was classified under the name *Coracia melanorhamphos*[1].

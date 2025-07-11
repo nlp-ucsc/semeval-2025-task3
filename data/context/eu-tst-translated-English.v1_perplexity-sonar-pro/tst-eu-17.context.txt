@@ -1,0 +1,7 @@
+The diameter of asteroid 3240 Laocoon is approximately 51 kilometers (32 miles)[1][4]. More specifically:
+
+- According to the NEOWISE mission of NASA's Wide-field Infrared Survey Explorer, Laocoon measures 51.695 ± 0.252 kilometers in diameter[4].
+
+- The Collaborative Asteroid Lightcurve Link calculates a diameter of 50.8 kilometers based on an assumed albedo for carbonaceous asteroids[1].
+
+These measurements indicate that 3240 Laocoon is a relatively large Jupiter trojan asteroid, residing in the Trojan camp at Jupiter's L5 Lagrangian point[1]. It orbits the Sun at a distance of 4.6–5.9 AU once every 11 years and 12 months[1]. The asteroid was discovered on November 7, 1978, by American astronomers Eleanor Helin and Schelte Bus at Palomar Observatory in California[1][5].

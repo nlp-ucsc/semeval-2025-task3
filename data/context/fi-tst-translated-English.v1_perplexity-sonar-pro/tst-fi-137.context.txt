@@ -1,0 +1,23 @@
+The Nintendo Classic Mini: Nintendo Entertainment System (NES Classic Edition) supports several controller options beyond the included NES Classic Controller[1]. Here are the compatible controllers:
+
+1. Nintendo Classic Mini: Super Nintendo Entertainment System Controller (Model No. CLV-202)[1]
+
+2. Nintendo Classic Mini: Nintendo Entertainment System Controller (Model No. CLV-002)[1]
+
+3. Wii Classic Controller (Model No. RVL-005)[1]
+
+4. Classic Controller Pro [Model No. RVL-005 (02)][1]
+
+5. Wired Fight Pad by PDP[1]
+
+6. Battle Pad by Hori[1]
+
+It's important to note that the Wii Classic Controller, Classic Controller Pro, Wired Fight Pad, and Battle Pad can only be used as second controllers for 2-player games on the NES Classic Mini[1].
+
+Additionally, some third-party manufacturers have created compatible controllers specifically for the NES Classic Mini. These include both wired and wireless options[9]. However, it's crucial to ensure compatibility before purchasing any third-party controllers.
+
+For those looking to use original NES controllers, there are adapters available that allow you to connect original NES controllers to the NES Classic Mini[3].
+
+It's worth mentioning that the controllers designed for the NES Classic Mini are not interchangeable with those released for the original Nintendo Entertainment System or the Nintendo Classic Mini: Nintendo Entertainment System[5]. 
+
+Lastly, while not officially supported, some users have reported success using other controllers like the GameCube controller and even fight sticks with the NES Classic Mini[2]. However, these are not officially endorsed by Nintendo and may not work optimally for all games.

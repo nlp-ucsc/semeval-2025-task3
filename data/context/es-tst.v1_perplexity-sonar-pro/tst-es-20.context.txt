@@ -1,0 +1,21 @@
+La cosmología observacional es una rama de la astronomía que estudia la estructura, evolución y origen del universo a través de observaciones directas. Sus principales objetivos y áreas de estudio incluyen:
+
+1. Medir el tamaño y la edad del universo[2]. Esto se realiza utilizando diversos métodos como la observación de supernovas distantes para medir enormes distancias a través del cosmos.
+
+2. Determinar el contenido del universo[2]. Los cosmólogos observacionales buscan identificar y cuantificar los diferentes componentes que conforman el universo, como la materia visible, la materia oscura y la energía oscura.
+
+3. Analizar cómo y por qué el universo cambia con el tiempo[2]. Esto implica estudiar la expansión del universo y su evolución a lo largo de miles de millones de años.
+
+4. Observar y analizar la radiación cósmica de fondo de microondas[1][2]. Esta radiación es un remanente del Big Bang y proporciona información crucial sobre las primeras etapas del universo.
+
+5. Estudiar la formación y distribución de galaxias y estructuras a gran escala[1][3]. Los cosmólogos utilizan potentes telescopios para mapear la distribución de galaxias en el universo y comprender cómo se formaron estas estructuras.
+
+6. Investigar fenómenos como la materia oscura y la energía oscura[4]. Aunque no se pueden observar directamente, sus efectos en objetos visibles permiten a los científicos inferir su existencia y propiedades.
+
+7. Realizar grandes surveys de galaxias[4]. Estos estudios exhaustivos permiten recopilar datos sobre un gran número de galaxias para analizar patrones y estructuras a escala cósmica.
+
+8. Probar y refinar modelos cosmológicos teóricos[3]. Las observaciones se utilizan para verificar las predicciones de teorías como el modelo Lambda-CDM y ajustar los parámetros cosmológicos.
+
+Para llevar a cabo estas investigaciones, los cosmólogos observacionales utilizan una variedad de instrumentos y técnicas, incluyendo telescopios terrestres y espaciales, detectores de rayos cósmicos, y observaciones en diferentes longitudes de onda del espectro electromagnético[5].
+
+La cosmología observacional trabaja en estrecha colaboración con la cosmología teórica y numérica para desarrollar una comprensión integral del universo, desde sus orígenes hasta su posible destino futuro[8].

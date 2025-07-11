@@ -1,0 +1,15 @@
+The code name for Microsoft Edge was "Project Spartan"[2]. Microsoft used this code name for about three months before officially announcing the browser's name as Microsoft Edge in April 2015[2]. 
+
+Some additional details about Microsoft Edge's development and naming:
+
+1. The browser was unveiled as "Project Spartan" in January 2015, positioning it as a successor to Internet Explorer.
+
+2. On April 29, 2015, during Microsoft's Build developer conference, the company revealed the official name "Microsoft Edge"[2].
+
+3. The name "Edge" was likely chosen because it aligned with the name of the browser's new rendering engine, which was also called "Edge"[2].
+
+4. Microsoft Edge was designed to be the default browser for Windows 10 across all devices, from PCs to smartphones[2].
+
+5. While Edge was introduced as the new default browser, Microsoft continued to include Internet Explorer 11 in Windows 10 for compatibility reasons[2].
+
+The transition from "Project Spartan" to "Microsoft Edge" marked a significant shift in Microsoft's browser strategy, aiming to compete more effectively with popular browsers like Google Chrome and Mozilla Firefox.

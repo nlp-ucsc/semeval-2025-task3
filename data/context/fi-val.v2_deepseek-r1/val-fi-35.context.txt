@@ -1,0 +1,6 @@
+Tapaus-verrokkitutkimuksessa tarkastellaan yleensä kahta ryhmää: tapausrhmää ja verrokkiryhmää. 
+
+1. **Tapausrhmä**: Tämä ryhmä koostuu henkilöistä, joilla on tutkittava sairaus, OnDestroy, tai muu määritelty ominaisuus (esim. tietty riskitekijä).
+2. **Verrokkiryhmä**: Tämä ryhmä koostuu henkilöistä, joilla ei ole kyseistä sairautta tai ominaisuutta, ja heidän odotaan edustavan väestöä, josta tapausrhmä on peräisin.
+
+Tämän jakajan avulla tutkitaan, onko jokin tietyt tekijät yhteydessä tutkittavaan sairauteen tai ominaisuuteen.

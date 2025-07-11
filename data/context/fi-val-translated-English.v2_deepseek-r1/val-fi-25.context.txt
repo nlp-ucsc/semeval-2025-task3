@@ -1,0 +1,1 @@
+The constant force, according to the fundamental law of dynamics (Newton's second law), is a force that does not change in magnitude or direction over time. When such a force acts on an object, the object's acceleration remains constant, resulting in a constant rate of change in momentum. This leads to predictable and uniform motion.

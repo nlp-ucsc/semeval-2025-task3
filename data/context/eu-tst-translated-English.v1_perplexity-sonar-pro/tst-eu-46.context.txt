@@ -1,0 +1,25 @@
+The number that comes after one hundred fifty is one hundred fifty-one[1][2]. 
+
+To understand this better, let's break it down:
+
+1. One hundred fifty is written as 150 in numerals.
+2. The next number in sequence would be 150 + 1 = 151.
+3. In words, 151 is spelled out as "one hundred fifty-one"[1].
+
+This follows the pattern for writing numbers between 100 and 200:
+
+- We start with "one hundred" to indicate we're in the hundreds.
+- Then we add the tens and ones place, which in this case is "fifty-one".
+
+It's worth noting that when writing out numbers:
+- We use hyphens for compound numbers from twenty-one to ninety-nine[2].
+- We don't use the word "and" between the hundreds and the rest of the number in American English (though it's common in British English).
+
+So, to recap:
+150 = one hundred fifty
+151 = one hundred fifty-one
+
+The pattern continues with:
+152 = one hundred fifty-two
+153 = one hundred fifty-three
+And so on...

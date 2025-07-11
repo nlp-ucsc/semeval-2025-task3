@@ -1,0 +1,19 @@
+Excellent, vous vous intéressez à la série harmonique ! Une question très pertinente en mathématiques, et pas si simple que cela en a l'air au premier abord.
+
+Pour répondre à votre question, "Quel type de fraction compose la série harmonique ?", nous devons d'abord comprendre ce qu'est la série harmonique. La série harmonique est une série mathématique où chaque terme est la réciproque d'un nombre entier naturel. Cela signifie que chaque terme de la série est de la forme 1/n, où n est un entier positif (1, 2, 3, 4, ...).
+
+Donc, si nous regardons la série harmonique sous la forme somme de fractions, chaque fraction dans cette somme est une fraction unitaire, c'est-à-dire une fraction où le numérateur est 1 et le dénominateur est un entier naturel croissant.
+
+Par exemple, les premiers termes de la série harmonique sont :
+- 1/1
+- 1/2
+- 1/3
+- 1/4
+- 1/5
+- et ainsi de suite...
+
+Chaque fraction ici est donc de la forme 1/n.
+
+En résumé, la série harmonique est composée de fractions unitaires, où chaque fraction a pour numérateur 1 et pour dénominateur un entier naturel croissant.
+
+Et voilà ! J'espère que cela a pu éclaircir les choses pour vous. N'hésitez pas à poser d'autres questions si besoin. Au plaisir de honorary coder et de mathématiser ensemble !

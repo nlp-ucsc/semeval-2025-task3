@@ -1,0 +1,12 @@
+Yes, 1276 is a leap year under the Julian calendar[4]. The Julian calendar, introduced by Julius Caesar in 45 BCE, was the predominant calendar system used in Europe during the 13th century[3].
+
+To understand why 1276 is a leap year, let's examine the rules for leap years in the Julian calendar:
+
+1. In the Julian calendar, every fourth year is a leap year[3].
+2. The leap year rule in the Julian calendar is simpler than the later Gregorian calendar, as it does not have exceptions for century years[3].
+
+Since 1276 is divisible by 4 (1276 ÷ 4 = 319 with no remainder), it qualifies as a leap year under the Julian calendar system[4].
+
+It's important to note that the Julian calendar was the standard in most of Europe during this time period. The Gregorian calendar, which is the most widely used civil calendar today, was not introduced until 1582 by Pope Gregory XIII[5]. The Gregorian calendar refined the leap year rules to better align with the solar year, but these changes would not have affected the year 1276.
+
+In the Julian calendar, a leap year would have 366 days instead of the usual 365, with February having 29 days instead of 28[3]. This extra day was added to keep the calendar year synchronized with the astronomical year, although the Julian calendar's method of intercalation was slightly inaccurate, leading to a gradual drift of the calendar relative to the solar year over centuries[3].

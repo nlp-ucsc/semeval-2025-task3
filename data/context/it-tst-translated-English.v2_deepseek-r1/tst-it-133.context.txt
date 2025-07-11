@@ -1,0 +1,1 @@
+The SMILES string for bombykol, which is a pheromone produced by the female silkworm moth (*Bombyx mori*), is **C/C=C\C=C\C=C\C=C\CC(=O)O**. This structure represents a 16-carbon chain with four double bonds and a terminal carboxylic acid group.

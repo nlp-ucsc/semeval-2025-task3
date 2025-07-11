@@ -1,0 +1,5 @@
+La NES Mini, également connue sous le nom de Nintendo Entertainment System: NES Classic Edition, possède une quantité limitée de mémoire vive (RAM). Bien qu'elle ne soit pas exactement la même que la NES originale, elle est conçue pour émuler les jeux NES classiques avec une architecture moderne.
+
+La NES Mini dispose d'une quantité de RAM supérieure à la NES originale, qui avait 2 Ko de RAM pour le système et 2 Ko pour la PPU (Picture Processing Unit). Cependant, les spécifications exactes de la RAM de la NES Mini ne sont pas divulguées par Nintendo. Cependant, on sait qu'elle est suffisamment puissante pour exécuter les jeux NES sans problème.
+
+Si vous avez besoin de plus de détails sur les spécifications techniques complètes, je vous suggère de consulter la documentation officielle ou des sources fiables spécialisées en hardware vidéo-ludique.

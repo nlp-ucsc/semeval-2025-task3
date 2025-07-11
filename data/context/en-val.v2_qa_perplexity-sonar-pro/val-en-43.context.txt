@@ -1,0 +1,21 @@
+The given answer is partially correct but lacks some important details about case-control studies. Let me provide a more accurate and comprehensive explanation:
+
+In a case-control study, two groups are compared:
+
+1. Cases: People who have the disease or condition being studied[2][4][5].
+2. Controls: People who do not have the disease or condition being studied[2][4][5].
+
+The primary purpose of a case-control study is to compare these two groups to identify potential risk factors or exposures associated with the disease or condition[4]. While the answer mentions comparing DNA, this is just one possible aspect that might be examined in a case-control study. In fact, case-control studies can investigate a wide range of potential risk factors, including:
+
+- Environmental exposures
+- Lifestyle factors
+- Medical histories
+- Genetic factors (including DNA)
+- Occupational exposures
+- And many other variables[1][4]
+
+It's important to note that case-control studies are retrospective, meaning they look back in time to examine exposures that occurred before the onset of the disease[3][6]. This is in contrast to the answer's implication that the study simply compares current DNA samples.
+
+Additionally, the control group should be carefully selected to be similar to the case group in most respects (e.g., age, gender, overall health status) except for the presence of the disease[4]. This helps ensure that any differences found between the groups are more likely to be related to the disease or condition being studied.
+
+In summary, while the given answer correctly identifies that two groups (cases and controls) are compared in a case-control study, it oversimplifies the design and focuses too narrowly on DNA comparison, which is just one of many possible factors that can be examined in this type of study.

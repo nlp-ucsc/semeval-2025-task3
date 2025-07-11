@@ -1,0 +1,19 @@
+The Mir space station, launched by the Soviet Union in 1986 and operational until 2001, was a modular space station that consisted of several key components. Its structure was modular, allowing it to be expanded over time with the addition of new modules. The primary components included:
+
+1. **Core Module (DOS-7K)**: This was the main module of the Mir space station, providing the basic necessities for the crew, such as living quarters, life support systems, and initial propulsion. It served as the central hub for the entire structure.
+
+2. **Kvant Module**: Added in 1987, this module focused on astrophysical research, particularly in the field of X-ray astronomy. It also improved the station's propulsion and orientation capabilities.
+
+3. **Kvant-2 Module**: Launched in 1989, Kvant-2 added additional living quarters, more life support systems, and an airlock for extravehicular activities (EVA). It also introduced a module with a large airlock that could be used for spacewalks and had equipment for regenerating water and processing urine.
+
+4. **Kristall Module**: Launched in 1990, Kristall was primarily used for materials processing and production in microgravity. It included furnaces for producing crystals and other materials, as well as equipment for biological experiments.
+
+5. **Spektr Module**: Added in 1995, Spektr was primarily used for remote sensing of the Earth's surface, particularly for environmental studies. It carried various sensors and instruments for observing the Earth.
+
+6. **Priroda Module**: Launched in 1996, Priroda focused on Earth observation and included a variety of instruments for studying the environment, such as radar systems and spectral analyzers.
+
+7. **Docking Module**: Added in 1996, the docking module facilitated the docking of spacecraft such as the Space Shuttle and provided additional storage space. It was also known as the Strella Boom or Docking Compartment.
+
+8. **Multi-Purpose Module (MIM as some called it)**: Not all sources agree on the exact nomenclature here, but there were various smaller modules and components added over time to enhance the functionality of the station.
+
+Over the course of its operational life, the Mir space station was expanded and modified, with each new module adding new capabilities and enhancing the station's capacity for scientific research and human habitation in space.

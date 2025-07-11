@@ -1,0 +1,5 @@
+Il bombykol, che è un feromone sessuale della falena *Bombyx mori*, ha la struttura chimica di un estere. La sua struttura esatta è il (E)-11-ottadedenoil acetato. La rappresentazione SMILES per questo composto è:
+
+`CCOC(=O)C=CCCCCCCCC`
+
+Questa stringa rappresenta l'acetato dell'alcol (E)-10-octadecen-1-olio.

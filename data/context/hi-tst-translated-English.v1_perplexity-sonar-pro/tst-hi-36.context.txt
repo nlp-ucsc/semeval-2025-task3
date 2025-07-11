@@ -1,0 +1,17 @@
+The ITU-T Q.1200 series recommendations specify the Intelligent Network (IN) architecture. The Intelligent Network uses several key devices and components:
+
+1. Service Switching Points (SSPs): These are telephone switches equipped with IN-capable software that detect IN calls and communicate with Service Control Points to get instructions on how to route the calls[3][6].
+
+2. Service Control Points (SCPs): These are centralized databases and service logic components that store service information and control the execution of IN services. SCPs provide the "intelligence" in the Intelligent Network by processing service requests from SSPs[3][6].
+
+3. Service Data Points (SDPs): These are databases that store customer and service-related data. SCPs may query SDPs to retrieve information needed for service execution[3].
+
+4. Intelligent Peripherals (IPs): These are network elements that provide specialized resources for IN services, such as voice announcements, voice recognition, text-to-speech conversion, and conferencing capabilities[6].
+
+5. Service Management Systems (SMS): These systems are used to manage and update service data and logic in SCPs and SDPs. They allow for the creation, modification, and deletion of services[6].
+
+6. Service Creation Environments (SCEs): These are tools used by service developers to create and test new IN services before deploying them on the network[6].
+
+The Intelligent Network architecture separates service logic and control from basic call processing and switching functions. This separation allows for rapid development and deployment of new services without requiring changes to the underlying network infrastructure[3][6][7].
+
+It's important to note that while these components are fundamental to the IN architecture, specific implementations may vary depending on the network operator and the particular services being offered.

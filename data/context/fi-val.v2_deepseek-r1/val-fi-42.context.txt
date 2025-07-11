@@ -1,0 +1,19 @@
+Mikä metallisidos on?
+십시오
+
+Metallisidos on vahva, joustamaton yhteys, jossa kaksi metalleja yhdistyvät muodostamaan yhteisen elektroniverkon. Tässä sidoksessa metalliatomit jakavat elektroneja vapaasti, mikä luo sähkön ja lämmön johtavuuden. Metallisidos on tyypillinen metallimateriaaleissa, kuten raudassa, alumiinissa ja kuparissa, ja se antaa niille ominaisuuksiaan, kuten kovuuden, joustavuuden ja korkean sulamispisteen.
+**Metallisidos on vahva ja joustamaton sidos, jossa yksi tai useampi elektroni siirtyy yhden metalliatomin ydinten välille.** Tämä johtaa siihen, että elektronit eivät ole sidottuja yksittäisiin atomeihin, vaan ne voivat liikkua vapaasti koko metallimatriisissa. Tämä ilmiö tunnetaan nimellä **vapaa elektronien pilvi**.
+
+**Ominaisuuksia:**
+
+1. **Vahva sidos:** Metallisidos on hyvin vahva, mikä selittää, miksi monet metallit ovat kovuutta ja luja.
+
+2. **Sähkön ja lämmön johtavuus:** Vapaat elektronit mahdollistavat sähkön ja lämmön hyvän johtavuuden metallimateriaaleissa.
+
+3. **Joustavuus:** Metallit ovat usein joustavia, koska metallisidos voi absorboida ja uudelleenjärjestää iskuja ilman, että aine hajoaa helposti.
+
+4. **Korkeat sulamis- ja kiehumispisteet:** Metallisidoksen vahvuus johtaa usein korkeisiin sulamis- ja kiehumispisteisiin.
+
+**Elatelmaa edustavat materiaalit:** Rauta, alumiini, kupari, kulta jne.
+
+Metallisidos on yksi tärkeimmistä sidostyypeistä materiaalitieteessä ja selittää monia metallien fysikaalisia ominaisuuksia.

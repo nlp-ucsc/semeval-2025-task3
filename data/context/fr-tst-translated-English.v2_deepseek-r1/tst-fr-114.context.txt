@@ -1,0 +1,1 @@
+The NES mini uses 256MB of DDR3 RAM and 256MB of flash memory. This allows it to store and run all pre-installed games smoothly.

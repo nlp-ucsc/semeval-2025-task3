@@ -1,0 +1,17 @@
+Internet Explorer est devenu obsolète pour plusieurs raisons principales :
+
+1. Technologie dépassée : Internet Explorer avait du mal à suivre l'évolution des standards web modernes, ce qui entraînait des problèmes de compatibilité et une expérience utilisateur médiocre par rapport aux autres navigateurs[2]. Son moteur de rendu vieillissant ne pouvait plus répondre aux exigences des sites web et applications modernes.
+
+2. Problèmes de sécurité : IE était connu pour ses nombreuses failles de sécurité, ce qui le rendait vulnérable aux attaques et au piratage[3][5]. Microsoft peinait à maintenir sa sécurité face aux nouvelles menaces émergentes.
+
+3. Manque d'innovation : Après avoir atteint une position dominante sur le marché, Microsoft a ralenti le rythme des innovations pour Internet Explorer[5]. Pendant ce temps, des concurrents comme Firefox et Chrome continuaient à innover et à offrir de meilleures performances.
+
+4. Concurrence accrue : L'arrivée de navigateurs plus rapides, plus sécurisés et plus modernes comme Firefox (2004) et Chrome (2008) a progressivement érodé la part de marché d'Internet Explorer[4][5].
+
+5. Changement de stratégie de Microsoft : En 2015, Microsoft a lancé Edge comme successeur d'Internet Explorer, signalant son intention de se concentrer sur un nouveau navigateur plus moderne[9]. Le développement de nouvelles fonctionnalités pour IE a cessé en 2016[4].
+
+6. Abandon progressif par les développeurs : De nombreux sites web et applications ont cessé de prendre en charge Internet Explorer en raison de ses limitations techniques et de sa base d'utilisateurs en déclin[4][8].
+
+7. Recommandations officielles : En 2019, le responsable de la cybersécurité de Microsoft lui-même a recommandé aux utilisateurs de ne plus utiliser Internet Explorer comme navigateur par défaut en raison des risques de sécurité[9].
+
+Ces facteurs combinés ont conduit à l'obsolescence progressive d'Internet Explorer, culminant avec son retrait officiel le 15 juin 2022 pour la plupart des versions de Windows 10[1][7].

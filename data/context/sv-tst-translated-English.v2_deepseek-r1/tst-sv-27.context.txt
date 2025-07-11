@@ -1,0 +1,7 @@
+Microsoft has released several shared source licenses over time. These licenses allow for varying degrees of access to the source code of their software products, enabling collaboration and customization, though the specific terms and permissions vary. Among the notable shared source licenses launched by Microsoft include:
+
+1. **Microsoft Public License (MS-PL):** This is a permissive free software license that allows for the distribution and modification of source code. It is compatible with thequette/\* GPL.
+
+2. **Microsoft Reciprocal License (MS-RL):** This license requires that if you distribute the software or derivative works, you must make the source code available under the same terms. It is reciprocal, meaning that modifications must be contributed back.
+
+Both of these licenses are part of Microsoft's shared source initiative, which is aimed at fostering collaboration and transparency in software development. However, it's important to review the specific terms of each license to understand the exact permissions and obligations.

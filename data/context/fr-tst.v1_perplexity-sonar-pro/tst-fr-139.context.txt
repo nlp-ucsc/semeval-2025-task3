@@ -1,0 +1,15 @@
+L'interface utilisateur de Microsoft Neptune devait être basée sur HTML[4][9]. Plus précisément :
+
+Neptune devait inclure une nouvelle interface utilisateur appelée "Activity Centers", qui était basée sur HTML et la technologie Win32[4]. Les principales caractéristiques de cette interface étaient :
+
+1. Une approche centrée sur les tâches, avec des "pages" individuelles dédiées aux activités quotidiennes comme la navigation sur Internet, la communication, la gestion de documents et le divertissement[4].
+
+2. L'utilisation de la technologie web d'Internet Explorer pour implémenter ces nouvelles interfaces[4].
+
+3. L'emploi d'un nouveau framework appelé "Mars" pour développer ces interfaces basées sur le web[4].
+
+Cette interface basée sur HTML était également connue sous le nom de "Forms+"[8]. L'objectif était de créer une expérience utilisateur plus intuitive et orientée vers les tâches courantes, en tirant parti des technologies web émergentes de l'époque.
+
+Bien que Neptune n'ait jamais été commercialisé, certains concepts de son interface ont influencé les versions ultérieures de Windows. Par exemple, le langage de conception Metro introduit avec Windows 8 partageait des objectifs communs avec le projet Neptune, notamment l'accent mis sur la typographie et les applications plein écran dédiées aux tâches courantes[7].
+
+Il est intéressant de noter que cette approche basée sur HTML pour l'interface utilisateur a peut-être servi plus tard de source d'inspiration pour des technologies comme ASP.NET et XAML[10], bien que cela reste une supposition.

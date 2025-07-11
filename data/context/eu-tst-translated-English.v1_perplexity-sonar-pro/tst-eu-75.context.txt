@@ -1,0 +1,19 @@
+Ovals have three key characteristics:
+
+1. Curved shape with no straight sides or corners: Ovals are completely curved figures with a smooth, continuous outline. They have no straight edges or sharp vertices like other geometric shapes such as squares or triangles[1][2][4].
+
+2. Elongated or egg-like form: Ovals resemble a stretched or elongated circle, often described as egg-shaped. They are wider in the middle and narrower at the ends, giving them an oblong appearance[1][4][5].
+
+3. Single flat curved face: An oval has one continuous curved surface or face that does not intersect itself at any point. This single face forms the entire boundary of the shape[1][2][4].
+
+Additionally, some other notable properties of ovals include:
+
+- Closed shape: Ovals are closed curves, meaning their outline forms a complete, unbroken loop[1][4].
+
+- Symmetry: Many ovals exhibit at least one line of symmetry, though this is not a requirement for all oval shapes[2][4].
+
+- Lack of fixed center point: Unlike circles, ovals do not have a constant radius or fixed distance from a center point to all parts of their boundary[2][4].
+
+- Convex shape: Ovals are convex figures, meaning their surface curves outward without any inward dents or concavities[3][4].
+
+These characteristics distinguish ovals from other geometric shapes and contribute to their unique appearance and properties in mathematics and everyday life.

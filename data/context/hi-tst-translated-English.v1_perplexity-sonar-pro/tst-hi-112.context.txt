@@ -1,0 +1,7 @@
+Ingenuity, the small robotic coaxial rotor helicopter, landed on Mars on February 18, 2021, as part of NASA's Mars 2020 mission[1][2]. It arrived on the Martian surface attached to the underside of the Perseverance rover, which touched down in Jezero Crater on that date[3][6].
+
+After landing, Ingenuity remained attached to Perseverance for several weeks. The helicopter was then deployed to the Martian surface over a multi-day period from March 26 to April 3, 2021[3]. This deployment process involved carefully lowering the helicopter from the rover's belly to the ground.
+
+It's important to note that while Ingenuity landed on Mars with Perseverance in February 2021, its first powered, controlled flight on Mars didn't occur until April 19, 2021[5]. This historic flight marked the first time an aircraft had achieved powered, controlled flight on another planet[1][3].
+
+Ingenuity went on to far exceed its original mission parameters, completing 72 flights over nearly three years before its final flight on January 18, 2024[4][7]. The helicopter's mission officially ended on January 25, 2024, after it was determined that damage sustained during its last landing had rendered it incapable of further flight[1][4].

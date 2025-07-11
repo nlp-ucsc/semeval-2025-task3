@@ -1,0 +1,39 @@
+Arthropod antennae are paired, segmented appendages attached to the head that serve important sensory functions. Here are the key characteristics of arthropod antennae:
+
+Structure:
+- Antennae are composed of multiple jointed segments[1][7]
+- They typically consist of three main parts: the basal scape, the pedicel, and the flagellum[4][7]
+- The flagellum is made up of multiple segments called flagellomeres[3][7]
+
+Functions:
+- Primarily used for sensory purposes, including:
+  - Smell/chemoreception (detecting odors and pheromones)[3][6]
+  - Touch[3][4]
+  - Detecting air motion and vibrations[4][6]
+  - Heat sensing[4]
+- In some species, antennae may be adapted for other functions like swimming, mating, or anchoring[7]
+
+Types and variations:
+- Antennae come in many different forms across arthropod groups, including:
+  - Filiform (thread-like)[3][4]
+  - Setaceous (bristle-like)[3][4] 
+  - Moniliform (beaded)[3][4]
+  - Serrate (saw-like)[3][4]
+  - Pectinate (comb-like)[3][4]
+  - Clavate (club-shaped)[4]
+  - Lamellate (plate-like)[3][4]
+  - Plumose (feather-like)[3][4]
+  - Aristate (with bristle)[7]
+
+Distribution across arthropod groups:
+- Most arthropods have one pair of antennae[7]
+- Crustaceans typically have two pairs - antennules and antennae[7]
+- Chelicerates (e.g. spiders, scorpions) and proturans lack antennae[7]
+- Insect antennae are highly diverse in form and often used for taxonomic classification[3][4]
+
+Sensory capabilities:
+- Contain sensory neurons connected to the brain, specifically the deutocerebrum[3]
+- May have specialized sensory structures like Johnston's organ in insects[4][7]
+- Allow detection of chemical signals, mechanical stimuli, and in some cases sound vibrations[3][6]
+
+The diversity in antennal structure and function across arthropod groups reflects their adaptations to different ecological niches and sensory requirements. The antennae play a crucial role in how arthropods perceive and interact with their environment.

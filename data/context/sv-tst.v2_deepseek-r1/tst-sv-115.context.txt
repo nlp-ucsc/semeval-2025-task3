@@ -1,0 +1,8 @@
+Soustons är en kommun i departementet Landes i regionen Nouvelle-Aquitaine i sydvästra Frankrike. Enligt senaste tillgängliga uppgifter, från INSEE (Institut National de la Statistique et des Études Économiques), har Soustons en befolkning per 2023 på cirka 8 100 invånare.
+
+Kommunen har en yta på 78,3 kvadratkilometer. För att beräkna befolkningstätheten dividerar man befolkningen med ytan:
+
+\[ \text{Befolkningstäthet} = \frac{\text{Befolkning}}{\text{Yta}} = \frac{8 100 \text{ invånare}}{78,3 \text{ km²}} \approx 103,45 \text{ invånare/km²} \]
+
+Dessutom kan du använda')))
+Den exakta befolkningstätheten kan komma att ändras över tid på grund av demografiska förändringar, så för den senaste informationen rekommenderas att konsultera officiella källor från INSEE eller Soustons kommun.
