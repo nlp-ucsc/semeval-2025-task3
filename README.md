@@ -1,4 +1,4 @@
-# semeval-2025-task3
+# SemEval-2025 Task 3 Mu-SHROOM
 UCSC's Submission System for SemEval 2025 Task 3: Multilingual Shared-task on Hallucinations and Related Observable Overgeneration Mistakes.
 
 ## Overview
